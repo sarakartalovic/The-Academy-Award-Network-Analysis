@@ -1,0 +1,2195 @@
+Source,Target,Weight
+7th Heaven,A Star Is Born,1
+7th Heaven,Bad Girl,1
+A Star Is Born,The Royal Family of Broadway,1
+A Star Is Born,Dr. Jekyll and Mr. Hyde,1
+A Star Is Born,The Best Years of Our Lives,1
+A Star Is Born,Death of a Salesman,1
+A Star Is Born,The High and the Mighty,1
+A Star Is Born,Georgy Girl,1
+A Star Is Born,The Verdict,1
+A Star Is Born,Judgment at Nuremberg,1
+A Star Is Born,Silver Linings Playbook,1
+A Star Is Born,American Hustle,1
+A Star Is Born,American Sniper,1
+Sadie Thompson,Sunset Blvd.,1
+Sunset Blvd.,The Trespasser,1
+Sunset Blvd.,Double Indemnity,1
+Sunset Blvd.,The Lost Weekend,1
+Sunset Blvd.,Stalag 17,3
+Sunset Blvd.,Network,1
+Sunset Blvd.,Sabrina,1
+Sunset Blvd.,Witness for the Prosecution,1
+Sunset Blvd.,Some Like It Hot,1
+Sunset Blvd.,The Apartment,1
+Two Arabian Knights,The Front Page,1
+The Front Page,All Quiet on the Western Front,1
+The Crowd,The Champ,1
+The Crowd,The Citadel,1
+The Champ,The Big House,1
+The Champ,Hallelujah,1
+The Champ,The Citadel,1
+The Champ,War and Peace,1
+The Citadel,Hallelujah,1
+The Citadel,Goodbye Mr. Chips,1
+The Citadel,War and Peace,1
+The Valiant,The Life of Emile Zola,1
+The Life of Emile Zola,I Am a Fugitive from a Chain Gang,1
+The Life of Emile Zola,Black Fury,1
+The Life of Emile Zola,The Story of Louis Pasteur,1
+The Life of Emile Zola,The Last Angry Man,1
+The Patriot,The Love Parade,1
+The Patriot,Heaven Can Wait,1
+The Love Parade,Heaven Can Wait,1
+Heaven Can Wait,Bonnie and Clyde,1
+Heaven Can Wait,Reds,2
+Heaven Can Wait,Bugsy,1
+Heaven Can Wait,Shampoo,1
+Heaven Can Wait,Bob & Carol & Ted & Alice,1
+Madame X,Sarah and Son,1
+Madame X,A Free Soul,1
+A Free Soul,The Divorcee,1
+A Free Soul,Their Own Desire,1
+A Free Soul,Anna Christie;,1
+A Free Soul,The Barretts of Wimpole Street,1
+A Free Soul,Romeo and Juliet,1
+A Free Soul,Marie Antoinette,1
+A Free Soul,The Human Comedy,1
+A Free Soul,National Velvet,1
+A Free Soul,The Yearling,1
+The Letter,Of Human Bondage,1
+The Letter,Dangerous,1
+The Letter,Jezebel,1
+The Letter,Dark Victory,1
+The Letter,The Little Foxes,3
+The Letter,Now Voyager,1
+The Letter,Mr. Skeffington,1
+The Letter,All about Eve,1
+The Letter,The Star,1
+The Letter,What Ever Happened to Baby Jane?,1
+The Letter,Dodsworth,1
+The Letter,Wuthering Heights,1
+The Letter,Mrs. Miniver,1
+The Letter,The Best Years of Our Lives,1
+The Letter,The Heiress,1
+The Letter,Detective Story,1
+The Letter,Roman Holiday,1
+The Letter,Friendly Persuasion,1
+The Letter,Ben-Hur,1
+The Letter,The Collector,1
+Of Human Bondage,Jezebel,1
+Of Human Bondage,The Little Foxes,1
+Of Human Bondage,Now Voyager,1
+Of Human Bondage,Mr. Skeffington,1
+Of Human Bondage,All about Eve,1
+Of Human Bondage,What Ever Happened to Baby Jane?,1
+Dangerous,Jezebel,1
+Dangerous,The Little Foxes,1
+Dangerous,Now Voyager,1
+Dangerous,Mr. Skeffington,1
+Dangerous,All about Eve,1
+Dangerous,What Ever Happened to Baby Jane?,1
+Jezebel,White Banners,1
+Jezebel,Dark Victory,1
+Jezebel,The Little Foxes,1
+Jezebel,Now Voyager,1
+Jezebel,Mr. Skeffington,1
+Jezebel,All about Eve,1
+Jezebel,The Star,1
+Jezebel,What Ever Happened to Baby Jane?,1
+Jezebel,The Children's Hour,1
+Dark Victory,The Little Foxes,1
+Dark Victory,Now Voyager,1
+Dark Victory,Mr. Skeffington,1
+Dark Victory,All about Eve,1
+Dark Victory,What Ever Happened to Baby Jane?,1
+The Little Foxes,Dodsworth,1
+The Little Foxes,Wuthering Heights,1
+The Little Foxes,Now Voyager,1
+The Little Foxes,Mr. Skeffington,1
+The Little Foxes,All about Eve,1
+The Little Foxes,The Star,1
+The Little Foxes,What Ever Happened to Baby Jane?,1
+The Little Foxes,The Pride of the Yankees,1
+The Little Foxes,Mrs. Miniver,3
+The Little Foxes,The Best Years of Our Lives,1
+The Little Foxes,The Heiress,1
+The Little Foxes,Detective Story,1
+The Little Foxes,Roman Holiday,1
+The Little Foxes,Friendly Persuasion,1
+The Little Foxes,Ben-Hur,1
+The Little Foxes,The Collector,1
+Now Voyager,Mr. Skeffington,1
+Now Voyager,All about Eve,1
+Now Voyager,The Star,1
+Now Voyager,What Ever Happened to Baby Jane?,1
+Now Voyager,The Song of Bernadette,1
+Now Voyager,My Fair Lady,1
+Mr. Skeffington,Mr. Smith Goes to Washington,1
+Mr. Skeffington,Casablanca,1
+Mr. Skeffington,Notorious,1
+Mr. Skeffington,All about Eve,1
+Mr. Skeffington,The Star,1
+Mr. Skeffington,What Ever Happened to Baby Jane?,1
+All about Eve,The Razor's Edge,1
+All about Eve,Gentleman's Agreement,1
+All about Eve,Come to the Stable,1
+All about Eve,A Letter to Three Wives,1
+All about Eve,The Star,1
+All about Eve,What Ever Happened to Baby Jane?,1
+All about Eve,The Mating Season,1
+All about Eve,With a Song in My Heart,1
+All about Eve,Pickup on South Street,1
+All about Eve,Pillow Talk,1
+All about Eve,Birdman of Alcatraz,1
+All about Eve,Five Fingers,1
+All about Eve,Sleuth,1
+The Star,What Ever Happened to Baby Jane?,1
+Dodsworth,All That Money Can Buy,1
+Dodsworth,Yankee Doodle Dandy,1
+Dodsworth,The Treasure of the Sierra Madre,1
+Dodsworth,Love Affair,1
+Dodsworth,Wuthering Heights,1
+Dodsworth,Mrs. Miniver,1
+Dodsworth,The Best Years of Our Lives,1
+Dodsworth,The Heiress,1
+Dodsworth,Detective Story,1
+Dodsworth,Roman Holiday,1
+Dodsworth,Friendly Persuasion,1
+Dodsworth,Ben-Hur,1
+Dodsworth,The Collector,1
+Wuthering Heights,Rebecca,1
+Wuthering Heights,Henry V,1
+Wuthering Heights,Hamlet,2
+Wuthering Heights,The Entertainer,1
+Wuthering Heights,Othello,1
+Wuthering Heights,Sleuth,1
+Wuthering Heights,Marathon Man,1
+Wuthering Heights,The Boys from Brazil,1
+Wuthering Heights,Mrs. Miniver,1
+Wuthering Heights,The Best Years of Our Lives,1
+Wuthering Heights,The Heiress,1
+Wuthering Heights,Detective Story,1
+Wuthering Heights,Roman Holiday,1
+Wuthering Heights,Friendly Persuasion,1
+Wuthering Heights,Ben-Hur,1
+Wuthering Heights,The Collector,1
+Mrs. Miniver,Night Must Fall,1
+Mrs. Miniver,Goodbye  Mr. Chips,1
+Mrs. Miniver,Blossoms in the Dust,1
+Mrs. Miniver,The Pride of the Yankees,1
+Mrs. Miniver,Madame Curie,3
+Mrs. Miniver,Mrs. Parkington,1
+Mrs. Miniver,The Valley of Decision,1
+Mrs. Miniver,Sunrise at Campobello,1
+Mrs. Miniver,The Best Years of Our Lives,1
+Mrs. Miniver,The Heiress,1
+Mrs. Miniver,Detective Story,1
+Mrs. Miniver,Roman Holiday,1
+Mrs. Miniver,Friendly Persuasion,1
+Mrs. Miniver,Ben-Hur,1
+Mrs. Miniver,The Collector,1
+The Best Years of Our Lives,The Royal Family of Broadway,1
+The Best Years of Our Lives,Dr. Jekyll and Mr. Hyde,1
+The Best Years of Our Lives,Death of a Salesman,1
+The Best Years of Our Lives,The Heiress,1
+The Best Years of Our Lives,Detective Story,1
+The Best Years of Our Lives,Roman Holiday,1
+The Best Years of Our Lives,Friendly Persuasion,1
+The Best Years of Our Lives,Ben-Hur,1
+The Best Years of Our Lives,The Collector,1
+The Heiress,Gone with the Wind,1
+The Heiress,Hold Back the Dawn,1
+The Heiress,To Each His Own,1
+The Heiress,The Snake Pit,1
+The Heiress,Greystoke: The Legend of Tarzan  Lord of the Apes,1
+The Heiress,Detective Story,1
+The Heiress,Roman Holiday,1
+The Heiress,Friendly Persuasion,1
+The Heiress,Ben-Hur,1
+The Heiress,The Collector,1
+Detective Story,Caged,1
+Detective Story,Interrupted Melody,1
+Detective Story,The Landlord,1
+Detective Story,Shampoo,1
+Detective Story,Voyage of the Damned,1
+Detective Story,Roman Holiday,1
+Detective Story,Friendly Persuasion,1
+Detective Story,Ben-Hur,1
+Detective Story,The Collector,1
+Roman Holiday,The Heartbreak Kid,1
+Roman Holiday,Sabrina,1
+Roman Holiday,The Nun's Story,1
+Roman Holiday,Breakfast at Tiffany's,1
+Roman Holiday,Wait until Dark,1
+Roman Holiday,Friendly Persuasion,1
+Roman Holiday,Ben-Hur,1
+Roman Holiday,The Collector,1
+Friendly Persuasion,Ben-Hur,1
+Friendly Persuasion,The Collector,1
+Ben-Hur,Tom Jones,1
+Ben-Hur,The Collector,1
+The Divine Lady,Drag;,1
+The Divine Lady,Cavalcade,1
+The Divine Lady,Mutiny on the Bounty,1
+Drag;,Cavalcade,1
+Drag;,Mutiny on the Bounty,1
+Cavalcade,Mutiny on the Bounty,1
+Mutiny on the Bounty,The Private Life of Henry VIII,1
+Mutiny on the Bounty,It Happened One Night,1
+Mutiny on the Bounty,Gone with the Wind,1
+Mutiny on the Bounty,Witness for the Prosecution,1
+Bulldog Drummond,Random Harvest,1
+Bulldog Drummond,A Double Life,1
+Random Harvest,A Double Life,1
+A Double Life,Little Women,1
+A Double Life,The Philadelphia Story,1
+A Double Life,Born Yesterday,1
+A Double Life,My Fair Lady,1
+The Divorcee,Their Own Desire,1
+The Divorcee,The Barretts of Wimpole Street,1
+The Divorcee,Romeo and Juliet,1
+The Divorcee,Marie Antoinette,1
+Their Own Desire,Romeo and Juliet,1
+Their Own Desire,Marie Antoinette,1
+The Barretts of Wimpole Street,Romeo and Juliet,1
+The Barretts of Wimpole Street,Marie Antoinette,1
+Romeo and Juliet,If I Were King,1
+Romeo and Juliet,Marie Antoinette,1
+Anna Christie;,The Human Comedy,1
+Anna Christie;,National Velvet,1
+Anna Christie;,The Yearling,1
+The Human Comedy,Babes in Arms,1
+The Human Comedy,The Bold and the Brave,1
+The Human Comedy,The Black Stallion,1
+The Human Comedy,National Velvet,1
+The Human Comedy,The Yearling,1
+National Velvet,The Song of Bernadette,1
+National Velvet,Gentleman's Agreement,1
+National Velvet,The Yearling,1
+The Yearling,The Keys of the Kingdom,1
+The Yearling,Gentleman's Agreement,1
+The Yearling,Twelve O'Clock High,1
+The Yearling,To Kill a Mockingbird,1
+The Yearling,Johnny Belinda,1
+The Yearling,The Blue Veil,1
+The Yearling,Magnificent Obsession,1
+Skippy,Boys Town,1
+Boys Town,San Francisco,1
+Boys Town,Captains Courageous,1
+Boys Town,Father of the Bride,1
+Boys Town,Bad Day at Black Rock,1
+Boys Town,The Old Man and the Sea,1
+Boys Town,Inherit the Wind,1
+Boys Town,Judgment at Nuremberg,1
+Boys Town,Guess Who's Coming to Dinner,1
+Cimarron,Theodora Goes Wild,1
+Cimarron,The Awful Truth,1
+Cimarron,Love Affair,1
+Cimarron,I Remember Mama,1
+Theodora Goes Wild,The Awful Truth,1
+Theodora Goes Wild,Love Affair,1
+Theodora Goes Wild,I Remember Mama,1
+The Awful Truth,Love Affair,1
+The Awful Truth,I Remember Mama,1
+The Awful Truth,Going My Way,1
+The Awful Truth,The Bells of St. Mary's,1
+Love Affair,I Remember Mama,1
+The Royal Family of Broadway,Death of a Salesman,1
+Death of a Salesman,Dr. Jekyll and Mr. Hyde,1
+Death of a Salesman,Baby Doll,1
+Morocco,Shanghai Express,1
+The Sin of Madelon Claudet,Airport,1
+Airport,Lonelyhearts,1
+Airport,Interiors,1
+Airport,Reds,1
+Berkeley Square,Pygmalion,1
+Pygmalion,Separate Tables,1
+Pygmalion,A Man for All Seasons,1
+The Private Life of Henry VIII,Witness for the Prosecution,1
+Witness for the Prosecution,Double Indemnity,1
+Witness for the Prosecution,The Lost Weekend,1
+Witness for the Prosecution,Come to the Stable,1
+Witness for the Prosecution,Stalag 17,1
+Witness for the Prosecution,Sabrina,1
+Witness for the Prosecution,Some Like It Hot,1
+Witness for the Prosecution,The Apartment,1
+Morning Glory,The Philadelphia Story,1
+Morning Glory,The African Queen,1
+Morning Glory,Summertime,1
+Morning Glory,Suddenly ,1
+Morning Glory,Guess Who's Coming to Dinner,1
+Morning Glory,The Lion in Winter,1
+Morning Glory,On Golden Pond,1
+The Philadelphia Story,Little Women,1
+The Philadelphia Story,Alice Adams,1
+The Philadelphia Story,Mr. Smith Goes to Washington,1
+The Philadelphia Story,It's a Wonderful Life,1
+The Philadelphia Story,Harvey,1
+The Philadelphia Story,Anatomy of a Murder,1
+The Philadelphia Story,Woman of the Year,1
+The Philadelphia Story,The African Queen,1
+The Philadelphia Story,Summertime,1
+The Philadelphia Story,The Rainmaker,1
+The Philadelphia Story,Suddenly ,1
+The Philadelphia Story,Long Day's Journey into Night,1
+The Philadelphia Story,Guess Who's Coming to Dinner,1
+The Philadelphia Story,The Lion in Winter,1
+The Philadelphia Story,On Golden Pond,1
+The Philadelphia Story,Born Yesterday,1
+The Philadelphia Story,My Fair Lady,1
+The African Queen,Alice Adams,1
+The African Queen,Woman of the Year,1
+The African Queen,Casablanca,1
+The African Queen,The Treasure of the Sierra Madre,1
+The African Queen,The Asphalt Jungle,1
+The African Queen,The Caine Mutiny,1
+The African Queen,Summertime,1
+The African Queen,The Rainmaker,1
+The African Queen,Suddenly ,1
+The African Queen,Long Day's Journey into Night,1
+The African Queen,Guess Who's Coming to Dinner,1
+The African Queen,The Lion in Winter,1
+The African Queen,On Golden Pond,1
+The African Queen,Moulin Rouge,1
+The African Queen,The Cardinal,1
+The African Queen,Prizzi's Honor,1
+Summertime,Alice Adams,1
+Summertime,Woman of the Year,1
+Summertime,Brief Encounter,1
+Summertime,Great Expectations,1
+Summertime,The Rainmaker,1
+Summertime,Suddenly  ,1
+Summertime,Long Day's Journey into Night,1
+Summertime,Guess Who's Coming to Dinner,1
+Summertime,The Lion in Winter,1
+Summertime,On Golden Pond,1
+Summertime,The Bridge on the River Kwai,1
+Summertime,Lawrence of Arabia,1
+Summertime,Doctor Zhivago,1
+Summertime,A Passage to India,1
+Suddenly  Last Summer ,Alice Adams,1
+Suddenly  Last Summer ,Woman of the Year,1
+Suddenly  Last Summer ,The Rainmaker,1
+Suddenly  Last Summer ,Raintree County,1
+Suddenly  Last Summer ,Cat on a Hot Tin Roof,1
+Suddenly  Last Summer ,Long Day's Journey into Night,1
+Suddenly  Last Summer ,Guess Who's Coming to Dinner,1
+Suddenly  Last Summer ,The Lion in Winter,1
+Suddenly  Last Summer ,On Golden Pond,1
+Suddenly  Last Summer ,Butterfield 8,1
+Suddenly  Last Summer ,Who's Afraid of Virginia Woolf?,1
+Guess Who's Coming to Dinner,Alice Adams,1
+Guess Who's Coming to Dinner,San Francisco,1
+Guess Who's Coming to Dinner,Captains Courageous,1
+Guess Who's Coming to Dinner,Woman of the Year,1
+Guess Who's Coming to Dinner,The Luck of the Irish,1
+Guess Who's Coming to Dinner,Father of the Bride,1
+Guess Who's Coming to Dinner,Bad Day at Black Rock,1
+Guess Who's Coming to Dinner,The Rainmaker,1
+Guess Who's Coming to Dinner,The Defiant Ones,1
+Guess Who's Coming to Dinner,The Old Man and the Sea,1
+Guess Who's Coming to Dinner,Inherit the Wind,1
+Guess Who's Coming to Dinner,Judgment at Nuremberg,3
+Guess Who's Coming to Dinner,Long Day's Journey into Night,1
+Guess Who's Coming to Dinner,The Lion in Winter,1
+Guess Who's Coming to Dinner,On Golden Pond,1
+The Lion in Winter,Alice Adams,1
+The Lion in Winter,Goodbye  Mr. Chips,1
+The Lion in Winter,Woman of the Year,1
+The Lion in Winter,The Rainmaker,1
+The Lion in Winter,Lawrence of Arabia,1
+The Lion in Winter,Long Day's Journey into Night,1
+The Lion in Winter,Becket,1
+The Lion in Winter,The Ruling Class,1
+The Lion in Winter,The Stunt Man,1
+The Lion in Winter,My Favorite Year,1
+The Lion in Winter,Venus,1
+The Lion in Winter,On Golden Pond,1
+On Golden Pond,Alice Adams,1
+On Golden Pond,The Grapes of Wrath,1
+On Golden Pond,Woman of the Year,1
+On Golden Pond,The Rainmaker,1
+On Golden Pond,Long Day's Journey into Night,1
+On Golden Pond,They Shoot Horses  Don't They?,1
+On Golden Pond,Klute,1
+On Golden Pond,Julia,1
+On Golden Pond,Coming Home,1
+On Golden Pond,The China Syndrome,1
+On Golden Pond,The Morning After,1
+Lady for a Day,It Happened One Night,1
+Lady for a Day,Mr. Deeds Goes to Town,1
+Lady for a Day,You Can't Take It with You,1
+Lady for a Day,Mr. Smith Goes to Washington,1
+Lady for a Day,It's a Wonderful Life,1
+It Happened One Night,Gone with the Wind,1
+It Happened One Night,Private Worlds,1
+It Happened One Night,Since You Went Away,1
+It Happened One Night,Mr. Deeds Goes to Town,1
+It Happened One Night,You Can't Take It with You,1
+It Happened One Night,Mr. Smith Goes to Washington,1
+It Happened One Night,It's a Wonderful Life,1
+Mr. Deeds Goes to Town,Sergeant York,1
+Mr. Deeds Goes to Town,The Pride of the Yankees,1
+Mr. Deeds Goes to Town,For Whom the Bell Tolls,1
+Mr. Deeds Goes to Town,High Noon,1
+Mr. Deeds Goes to Town,You Can't Take It with You,1
+Mr. Deeds Goes to Town,Mr. Smith Goes to Washington,1
+Mr. Deeds Goes to Town,It's a Wonderful Life,1
+You Can't Take It with You,Mr. Smith Goes to Washington,1
+You Can't Take It with You,It's a Wonderful Life,1
+Mr. Smith Goes to Washington,It's a Wonderful Life,3
+Mr. Smith Goes to Washington,Harvey,1
+Mr. Smith Goes to Washington,Anatomy of a Murder,1
+Mr. Smith Goes to Washington,Casablanca,1
+Mr. Smith Goes to Washington,Notorious,1
+It's a Wonderful Life,Harvey,1
+It's a Wonderful Life,Anatomy of a Murder,1
+Little Women,Born Yesterday,1
+Little Women,My Fair Lady,1
+Little Women,The Age of Innocence,1
+Little Women,Atonement,1
+Little Women,Brooklyn,1
+Little Women,Lady Bird,1
+Born Yesterday,My Fair Lady,1
+My Fair Lady,The Song of Bernadette,1
+My Fair Lady,Cleopatra,1
+Atonement,Lady Bird,1
+Brooklyn,Lady Bird,1
+Gone with the Wind,A Streetcar Named Desire,1
+Gone with the Wind,Hold Back the Dawn,1
+Gone with the Wind,To Each His Own,1
+Gone with the Wind,The Snake Pit,1
+Private Worlds,Since You Went Away,1
+Since You Went Away,The Pied Piper,1
+Since You Went Away,The Song of Bernadette,1
+Since You Went Away,Love Letters,1
+Since You Went Away,Duel in the Sun,1
+Since You Went Away,Love Is a Many-Splendored Thing,1
+The Thin Man,My Man Godfrey,1
+The Thin Man,Life with Father,1
+The Thin Man,San Francisco,1
+My Man Godfrey,Life with Father,1
+My Man Godfrey,In Old Chicago,1
+My Man Godfrey,Stage Door,1
+San Francisco,Captains Courageous,1
+San Francisco,Father of the Bride,1
+San Francisco,Bad Day at Black Rock,1
+San Francisco,The Old Man and the Sea,1
+San Francisco,Inherit the Wind,1
+San Francisco,Judgment at Nuremberg,1
+The Informer,Stagecoach,1
+The Informer,The Grapes of Wrath,1
+The Informer,How Green Was My Valley,1
+Stagecoach,The Hurricane,1
+Stagecoach,The Grapes of Wrath,1
+Stagecoach,How Green Was My Valley,1
+Stagecoach,The Quiet Man,1
+The Grapes of Wrath,How Green Was My Valley,1
+The Grapes of Wrath,The Quiet Man,1
+How Green Was My Valley,The Quiet Man,1
+Captain Blood,Angels with Dirty Faces,1
+Captain Blood,Four Daughters,1
+Captain Blood,Yankee Doodle Dandy,1
+Captain Blood,Casablanca,1
+Angels with Dirty Faces,Yankee Doodle Dandy,3
+Angels with Dirty Faces,Love Me or Leave Me,1
+Angels with Dirty Faces,Four Daughters,1
+Angels with Dirty Faces,Casablanca,1
+Four Daughters,Body and Soul,1
+Four Daughters,Yankee Doodle Dandy,1
+Four Daughters,Casablanca,1
+Yankee Doodle Dandy,All That Money Can Buy,1
+Yankee Doodle Dandy,Love Me or Leave Me,1
+Yankee Doodle Dandy,The Treasure of the Sierra Madre,1
+Yankee Doodle Dandy,Casablanca,1
+Casablanca,The Caine Mutiny,1
+Casablanca,Notorious,1
+Sergeant York,Come and Get It,1
+Sergeant York,Kentucky,1
+Sergeant York,The Westerner,1
+Sergeant York,The Pride of the Yankees,1
+Sergeant York,For Whom the Bell Tolls,1
+Sergeant York,High Noon,1
+The Pride of the Yankees,For Whom the Bell Tolls,1
+The Pride of the Yankees,High Noon,1
+For Whom the Bell Tolls,The General Died at Dawn,1
+For Whom the Bell Tolls,High Noon,1
+For Whom the Bell Tolls,Gaslight,1
+For Whom the Bell Tolls,The Bells of St. Mary's,1
+For Whom the Bell Tolls,Joan of Arc,1
+For Whom the Bell Tolls,Anastasia,1
+For Whom the Bell Tolls,Murder on the Orient Express,1
+For Whom the Bell Tolls,Autumn Sonata,1
+High Noon,The Search,1
+High Noon,From Here to Eternity,1
+High Noon,The Nun's Story,1
+High Noon,The Sundowners,1
+High Noon,A Man for All Seasons,1
+High Noon,Julia,1
+All That Money Can Buy,The Treasure of the Sierra Madre,1
+The Treasure of the Sierra Madre,The Asphalt Jungle,1
+The Treasure of the Sierra Madre,Moulin Rouge,1
+The Treasure of the Sierra Madre,The Cardinal,1
+The Treasure of the Sierra Madre,Prizzi's Honor,1
+Captains Courageous,Bad Day at Black Rock,1
+Captains Courageous,Judgment at Nuremberg,1
+Father of the Bride,Bad Day at Black Rock,1
+Father of the Bride,Judgment at Nuremberg,1
+Bad Day at Black Rock,The Old Man and the Sea,1
+Bad Day at Black Rock,Inherit the Wind,1
+Bad Day at Black Rock,Judgment at Nuremberg,1
+The Old Man and the Sea,Judgment at Nuremberg,1
+Inherit the Wind,Judgment at Nuremberg,1
+Judgment at Nuremberg,The Search,1
+Judgment at Nuremberg,A Place in the Sun,1
+Judgment at Nuremberg,From Here to Eternity,1
+Judgment at Nuremberg,The Defiant Ones,1
+Judgment at Nuremberg,The Man in the Glass Booth,1
+Judgment at Nuremberg,Julia,1
+The Great Ziegfeld,The Good Earth,1
+Conquest,Algiers,1
+Conquest,Gaslight,1
+Algiers,Gaslight,1
+Algiers,Fanny,1
+Gaslight,Fanny,1
+Gaslight,The Bells of St. Mary's,1
+Gaslight,Joan of Arc,1
+Gaslight,Anastasia,1
+Gaslight,Murder on the Orient Express,1
+Gaslight,Autumn Sonata,1
+Gaslight,The Picture of Dorian Gray,1
+Gaslight,The Manchurian Candidate,1
+The High and the Mighty,Dead End,1
+The High and the Mighty,Key Largo,1
+Georgy Girl,The Verdict,1
+Georgy Girl,Gods and Monsters,1
+The Verdict,12 Angry Men,1
+The Verdict,Cat on a Hot Tin Roof,1
+The Verdict,The Hustler,1
+The Verdict,Hud,1
+The Verdict,Cool Hand Luke,1
+The Verdict,Dog Day Afternoon,1
+The Verdict,Network,1
+The Verdict,Absence of Malice,1
+The Verdict,The Color of Money,1
+The Verdict,Nobody's Fool,1
+The Verdict,Road to Perdition,1
+Silver Linings Playbook,The Godfather Part II,1
+Silver Linings Playbook,Taxi Driver,1
+Silver Linings Playbook,The Deer Hunter,1
+Silver Linings Playbook,Raging Bull,1
+Silver Linings Playbook,Awakenings,1
+Silver Linings Playbook,Cape Fear,1
+Silver Linings Playbook,The Fighter,1
+Silver Linings Playbook,Winter's Bone,1
+Silver Linings Playbook,Animal Kingdom,1
+Silver Linings Playbook,American Hustle,5
+Silver Linings Playbook,American Sniper,1
+Silver Linings Playbook,Joy,1
+American Hustle,Junebug,1
+American Hustle,Doubt,1
+American Hustle,The Fighter,5
+American Hustle,Winter's Bone,1
+American Hustle,The Master,1
+American Hustle,The Big Short,1
+American Hustle,Vice,3
+American Hustle,American Sniper,1
+American Hustle,Joy,1
+Night Must Fall,Here Comes Mr. Jordan,1
+Going My Way,The Bells of St. Mary's,3
+Going My Way,The Country Girl,1
+The Bells of St. Mary's,The Country Girl,1
+The Bells of St. Mary's,Joan of Arc,1
+The Bells of St. Mary's,Anastasia,1
+The Bells of St. Mary's,Murder on the Orient Express,1
+The Bells of St. Mary's,Autumn Sonata,1
+The Hurricane,Cry Freedom,1
+The Hurricane,Glory,1
+The Hurricane,Malcolm X,1
+The Hurricane,Training Day,1
+The Hurricane,Flight,1
+The Hurricane,Fences,1
+The Hurricane,Roman J. Israel,1
+Cry Freedom,Training Day,1
+Cry Freedom,Fences,1
+Glory,Training Day,1
+Glory,Fences,1
+Malcolm X,Training Day,1
+Malcolm X,Fences,1
+Training Day,Flight,1
+Training Day,Fences,1
+Training Day,Roman J. Israel,1
+Training Day,Boyhood,1
+Flight,Fences,1
+Fences,Doubt,1
+Fences,The Help,1
+Fences,Roman J. Israel,1
+Stella Dallas,Ball of Fire,1
+Stella Dallas,Double Indemnity,1
+Stella Dallas,Sorry  Wrong Number,1
+Ball of Fire,Double Indemnity,1
+Double Indemnity,Sorry  Wrong Number,1
+Double Indemnity,The Lost Weekend,1
+Double Indemnity,Stalag 17,1
+Double Indemnity,Sabrina,1
+Double Indemnity,Some Like It Hot,1
+Double Indemnity,The Apartment,1
+Goodbye  Mr. Chips,Blossoms in the Dust,1
+Goodbye  Mr. Chips,Madame Curie,1
+Goodbye  Mr. Chips,Mrs. Parkington,1
+Goodbye  Mr. Chips,The Valley of Decision,1
+Goodbye  Mr. Chips,Sunrise at Campobello,1
+Goodbye  Mr. Chips,Kitty Foyle,1
+Goodbye  Mr. Chips,Kings Row,1
+Goodbye  Mr. Chips,Lawrence of Arabia,1
+Goodbye  Mr. Chips,Becket,1
+Goodbye  Mr. Chips,The Ruling Class,1
+Goodbye  Mr. Chips,The Stunt Man,1
+Goodbye  Mr. Chips,My Favorite Year,1
+Goodbye  Mr. Chips,Venus,1
+Separate Tables,Edward  My Son,1
+Separate Tables,From Here to Eternity,1
+Separate Tables,The King and I,1
+Separate Tables,Heaven Knows  Mr. Allison,1
+Separate Tables,The Sundowners,1
+Separate Tables,A Man for All Seasons,1
+A Man for All Seasons,The Search,1
+A Man for All Seasons,From Here to Eternity,1
+A Man for All Seasons,The Nun's Story,1
+A Man for All Seasons,The Sundowners,1
+A Man for All Seasons,Quiz Show,1
+A Man for All Seasons,Julia,1
+Blossoms in the Dust,Madame Curie,1
+Blossoms in the Dust,Mrs. Parkington,1
+Madame Curie,Mrs. Parkington,1
+Madame Curie,The Valley of Decision,1
+Madame Curie,Sunrise at Campobello,1
+Mrs. Parkington,The Magnificent Ambersons,1
+Mrs. Parkington,The Valley of Decision,1
+Mrs. Parkington,Sunrise at Campobello,1
+Mrs. Parkington,Johnny Belinda,1
+Mrs. Parkington,Hush...Hush  Sweet Charlotte,1
+Kitty Foyle,Kings Row,1
+Lawrence of Arabia,Brief Encounter,1
+Lawrence of Arabia,Great Expectations,1
+Lawrence of Arabia,The Bridge on the River Kwai,1
+Lawrence of Arabia,Becket,1
+Lawrence of Arabia,The Ruling Class,1
+Lawrence of Arabia,The Stunt Man,1
+Lawrence of Arabia,My Favorite Year,1
+Lawrence of Arabia,Venus,1
+Lawrence of Arabia,Doctor Zhivago,1
+Lawrence of Arabia,A Passage to India,1
+Becket,My Cousin Rachel,1
+Becket,The Robe,1
+Becket,The Spy Who Came In from the Cold,1
+Becket,Who's Afraid of Virginia Woolf?,1
+Becket,Anne of the Thousand Days,1
+Becket,Equus,1
+Becket,The Ruling Class,1
+Becket,The Stunt Man,1
+Becket,My Favorite Year,1
+Becket,Venus,1
+Becket,Arthur,1
+The Ruling Class,The Stunt Man,1
+The Stunt Man,My Favorite Year,1
+The Stunt Man,Venus,1
+A Streetcar Named Desire,Gentleman's Agreement,1
+A Streetcar Named Desire,Viva Zapata!,1
+A Streetcar Named Desire,Julius Caesar,1
+A Streetcar Named Desire,On the Waterfront,5
+A Streetcar Named Desire,Sayonara,1
+A Streetcar Named Desire,The Godfather,1
+A Streetcar Named Desire,Last Tango in Paris,1
+A Streetcar Named Desire,A Dry White Season,1
+A Streetcar Named Desire,East of Eden,1
+A Streetcar Named Desire,America America,1
+Hold Back the Dawn,The Snake Pit,1
+To Each His Own,The Snake Pit,1
+Rebecca,Henry V,1
+Rebecca,Hamlet,2
+Rebecca,The Entertainer,1
+Rebecca,Othello,1
+Rebecca,Sleuth,1
+Rebecca,Marathon Man,1
+Rebecca,The Boys from Brazil,1
+Rebecca,Suspicion,1
+Rebecca,The Constant Nymph,1
+Rebecca,Lifeboat,1
+Rebecca,Spellbound,1
+Rebecca,Rear Window,1
+Rebecca,Psycho,1
+Henry V,Hamlet,2
+Henry V,The Entertainer,1
+Henry V,Othello,1
+Henry V,Sleuth,1
+Henry V,Marathon Man,1
+Henry V,The Boys from Brazil,1
+Henry V,My Week with Marilyn,2
+Hamlet,The Entertainer,2
+Hamlet,Othello,2
+Hamlet,Sleuth,2
+Hamlet,Marathon Man,2
+Hamlet,The Boys from Brazil,2
+Hamlet,The Happy Ending,1
+The Entertainer,Othello,1
+The Entertainer,Sleuth,1
+Othello,Tom Jones,1
+Othello,Sleuth,1
+Othello,Marathon Man,1
+Othello,The Boys from Brazil,1
+Othello,The Prime of Miss Jean Brodie,1
+Othello,Travels with My Aunt,1
+Othello,California Suite,1
+Othello,A Room with a View,1
+Othello,Gosford Park,1
+Sleuth,A Letter to Three Wives,1
+Sleuth,Five Fingers,1
+Sleuth,Alfie,1
+Sleuth,Educating Rita,1
+Sleuth,Hannah and Her Sisters,1
+Sleuth,The Cider House Rules,1
+Sleuth,The Quiet American,1
+Sleuth,Marathon Man,1
+Sleuth,The Boys from Brazil,1
+Harvey,Anatomy of a Murder,1
+Anatomy of a Murder,Picnic,1
+Anatomy of a Murder,The Hustler,1
+Anatomy of a Murder,Patton,1
+Anatomy of a Murder,The Hospital,1
+Lifeboat,Spellbound,1
+Lifeboat,Psycho,1
+Spellbound,Rear Window,1
+Spellbound,Psycho,1
+Rear Window,Psycho,1
+Penny Serenade,None but the Lonely Heart,1
+None but the Lonely Heart,The Spiral Staircase,1
+None but the Lonely Heart,The Paradine Case,1
+None but the Lonely Heart,Pinky,1
+The Devil and Miss Jones,The More the Merrier,1
+The More the Merrier,The Green Years,1
+The More the Merrier,A Place in the Sun,1
+The More the Merrier,Shane,1
+The More the Merrier,Giant,1
+The More the Merrier,The Diary of Anne Frank,1
+The Song of Bernadette,The Farmer's Daughter,1
+The Song of Bernadette,Johnny Belinda,1
+The Song of Bernadette,Love Letters,1
+The Song of Bernadette,Duel in the Sun,1
+The Song of Bernadette,Love Is a Many-Splendored Thing,1
+The Song of Bernadette,Gentleman's Agreement,1
+The Song of Bernadette,Wilson,1
+My Sister Eileen,Mourning Becomes Electra,1
+My Sister Eileen,Auntie Mame,1
+Mourning Becomes Electra,Sister Kenny,1
+Mourning Becomes Electra,Auntie Mame,1
+Auntie Mame,Sister Kenny,1
+The Magnificent Ambersons,Johnny Belinda,1
+Johnny Belinda,The Farmer's Daughter,1
+Johnny Belinda,The Blue Veil,1
+Johnny Belinda,Magnificent Obsession,1
+Johnny Belinda,Hush...Hush  Sweet Charlotte,1
+Joan of Arc,Cyrano de Bergerac,1
+Joan of Arc,Moulin Rouge,1
+Joan of Arc,Anastasia,1
+Joan of Arc,Murder on the Orient Express,1
+Joan of Arc,Autumn Sonata,1
+Anastasia,Murder on the Orient Express,1
+Murder on the Orient Express,Tom Jones,1
+Murder on the Orient Express,The Dresser,1
+Murder on the Orient Express,Under the Volcano,1
+Murder on the Orient Express,Erin Brockovich,1
+Murder on the Orient Express,Autumn Sonata,1
+The Farmer's Daughter,Come to the Stable,1
+Love Letters,Duel in the Sun,1
+Duel in the Sun,Love Is a Many-Splendored Thing,1
+Gentleman's Agreement,The Keys of the Kingdom,1
+Gentleman's Agreement,Twelve O'Clock High,1
+Gentleman's Agreement,To Kill a Mockingbird,1
+Gentleman's Agreement,Come to the Stable,1
+Gentleman's Agreement,On the Waterfront,1
+Gentleman's Agreement,East of Eden,1
+Gentleman's Agreement,America America,1
+A Place in the Sun,The Search,1
+A Place in the Sun,From Here to Eternity,1
+A Place in the Sun,The Diary of Anne Frank,3
+A Place in the Sun,A Patch of Blue,1
+A Place in the Sun,The Poseidon Adventure,1
+A Place in the Sun,Shane,1
+A Place in the Sun,Giant,1
+Shane,Sudden Fear,1
+Shane,City Slickers,1
+Shane,Giant,1
+Shane,The Diary of Anne Frank,1
+Giant,All the King's Men,1
+Giant,East of Eden,1
+Giant,The Diary of Anne Frank,1
+The Diary of Anne Frank,A Patch of Blue,1
+The Diary of Anne Frank,The Poseidon Adventure,1
+Bonnie and Clyde,The Miracle Worker,1
+Bonnie and Clyde,Reds,2
+Bonnie and Clyde,Bugsy,1
+Bonnie and Clyde,I Never Sang for My Father,1
+Bonnie and Clyde,The French Connection,1
+Bonnie and Clyde,Mississippi Burning,1
+Bonnie and Clyde,Unforgiven,1
+Bonnie and Clyde,Chinatown,1
+Bonnie and Clyde,Network,1
+Bonnie and Clyde,Rachel  Rachel,1
+Bonnie and Clyde,Alice's Restaurant,1
+Reds,Lonelyhearts,1
+Reds,Easy Rider,1
+Reds,Five Easy Pieces,1
+Reds,The Last Detail,1
+Reds,Chinatown,1
+Reds,One Flew over the Cuckoo's Nest,1
+Reds,Annie Hall,1
+Reds,Interiors,1
+Reds,Bugsy,2
+Reds,Terms of Endearment,1
+Reds,Prizzi's Honor,1
+Reds,Ironweed,1
+Reds,A Few Good Men,1
+Reds,As Good as It Gets,1
+Reds,About Schmidt,1
+Reds,Marvin's Room,1
+Reds,Something's Gotta Give,1
+Bugsy,Gandhi,1
+Bugsy,Rain Man,1
+Bugsy,Sexy Beast,1
+Bugsy,House of Sand and Fog,1
+Shampoo,The Landlord,1
+Shampoo,Voyage of the Damned,1
+The Country Girl,Mogambo,1
+The Spiral Staircase,Pinky,1
+The Paradine Case,Pinky,1
+Laura,The Razor's Edge,1
+Laura,Sitting Pretty,1
+Laura,The Cardinal,1
+The Razor's Edge,Sitting Pretty,1
+The Cardinal,The Asphalt Jungle,1
+The Cardinal,Moulin Rouge,1
+The Cardinal,Prizzi's Honor,1
+The Lost Weekend,Stalag 17,1
+The Lost Weekend,Sabrina,1
+The Lost Weekend,Some Like It Hot,1
+The Lost Weekend,The Apartment,1
+Stalag 17,Network,1
+Stalag 17,Sabrina,1
+Stalag 17,Some Like It Hot,1
+Stalag 17,The Apartment,1
+Sabrina,The Nun's Story,1
+Sabrina,Breakfast at Tiffany's,1
+Sabrina,Wait until Dark,1
+Sabrina,Some Like It Hot,1
+Sabrina,The Apartment,1
+Some Like It Hot,Mister Roberts,1
+Some Like It Hot,The Apartment,3
+Some Like It Hot,Days of Wine and Roses,1
+Some Like It Hot,Save the Tiger,1
+Some Like It Hot,The China Syndrome,1
+Some Like It Hot,Tribute,1
+Some Like It Hot,Missing,1
+The Apartment,Mister Roberts,1
+The Apartment,Some Came Running,1
+The Apartment,Days of Wine and Roses,1
+The Apartment,Save the Tiger,1
+The Apartment,The China Syndrome,1
+The Apartment,Tribute,1
+The Apartment,Missing,1
+The Apartment,Irma La Douce,1
+The Apartment,The Turning Point,1
+The Apartment,Terms of Endearment,1
+The Keys of the Kingdom,Twelve O'Clock High,1
+The Keys of the Kingdom,To Kill a Mockingbird,1
+Twelve O'Clock High,To Kill a Mockingbird,1
+Mildred Pierce,Possessed,1
+Mildred Pierce,Sudden Fear,1
+Possessed,Sudden Fear,1
+Sudden Fear,City Slickers,1
+My Week with Marilyn,Brokeback Mountain,1
+My Week with Marilyn,Blue Valentine,1
+My Week with Marilyn,Manchester by the Sea,1
+The Blue Veil,Magnificent Obsession,1
+Brief Encounter,Great Expectations,1
+Brief Encounter,The Bridge on the River Kwai,1
+Brief Encounter,Doctor Zhivago,1
+Brief Encounter,A Passage to India,1
+Great Expectations,The Bridge on the River Kwai,1
+Great Expectations,Doctor Zhivago,1
+Great Expectations,A Passage to India,1
+The Bridge on the River Kwai,The Lavender Hill Mob,1
+The Bridge on the River Kwai,Star Wars,1
+The Bridge on the River Kwai,Little Dorrit,1
+The Bridge on the River Kwai,Doctor Zhivago,1
+The Bridge on the River Kwai,A Passage to India,1
+Doctor Zhivago,The Dresser,1
+Doctor Zhivago,A Passage to India,1
+A Passage to India,Husbands and Wives,1
+On the Waterfront,Viva Zapata!,1
+On the Waterfront,Julius Caesar,1
+On the Waterfront,Sayonara,1
+On the Waterfront,The Godfather,1
+On the Waterfront,Last Tango in Paris,1
+On the Waterfront,A Dry White Season,1
+On the Waterfront,The Brothers Karamazov,1
+On the Waterfront,The Pawnbroker,1
+On the Waterfront,In the Heat of the Night,1
+On the Waterfront,East of Eden,1
+On the Waterfront,America America,1
+East of Eden,America America,1
+Crossfire,The Bad and the Beautiful,1
+The Bad and the Beautiful,Champion,1
+The Bad and the Beautiful,Lust for Life,1
+Smash-Up--The Story of a Woman,With a Song in My Heart,1
+Smash-Up--The Story of a Woman,I Want to Live!,1
+With a Song in My Heart,My Foolish Heart,1
+With a Song in My Heart,The Mating Season,1
+With a Song in My Heart,I'll Cry Tomorrow,1
+With a Song in My Heart,I Want to Live!,1
+With a Song in My Heart,Pickup on South Street,1
+With a Song in My Heart,Pillow Talk,1
+With a Song in My Heart,Birdman of Alcatraz,1
+I Want to Live!,My Foolish Heart,1
+I Want to Live!,I'll Cry Tomorrow,1
+I Want to Live!,The Sound of Music,1
+The Search,From Here to Eternity,3
+The Search,The Nun's Story,1
+The Search,The Sundowners,1
+The Search,Julia,1
+From Here to Eternity,Edward  My Son,1
+From Here to Eternity,Elmer Gantry,1
+From Here to Eternity,Birdman of Alcatraz,1
+From Here to Eternity,Atlantic City,1
+From Here to Eternity,The Man with the Golden Arm,1
+From Here to Eternity,The King and I,1
+From Here to Eternity,Heaven Knows  Mr. Allison,1
+From Here to Eternity,The Sundowners,3
+From Here to Eternity,The Nun's Story,1
+From Here to Eternity,Julia,1
+The Nun's Story,Breakfast at Tiffany's,1
+The Nun's Story,Wait until Dark,1
+The Nun's Story,The Sundowners,1
+The Nun's Story,Julia,1
+The Sundowners,Edward  My Son,1
+The Sundowners,The King and I,1
+The Sundowners,Heaven Knows  Mr. Allison,1
+The Sundowners,Julia,1
+Julia,Morgan!,1
+Julia,Isadora,1
+Julia,They Shoot Horses  Don't They?,1
+Julia,Klute,1
+Julia,Mary  Queen of Scots,1
+Julia,The Man in the Glass Booth,1
+Julia,All the President's Men,1
+Julia,Melvin and Howard,1
+Julia,Coming Home,1
+Julia,The China Syndrome,1
+Julia,The Morning After,1
+Julia,The Bostonians,1
+Julia,Howards End,1
+Cyrano de Bergerac,Moulin Rouge,1
+Moulin Rouge,The Asphalt Jungle,1
+Moulin Rouge,Prizzi's Honor,1
+Moulin Rouge,The Hours,1
+Moulin Rouge,Rabbit Hole,1
+Moulin Rouge,Lion,1
+The Asphalt Jungle,Prizzi's Honor,1
+Prizzi's Honor,Easy Rider,1
+Prizzi's Honor,Five Easy Pieces,1
+Prizzi's Honor,The Last Detail,1
+Prizzi's Honor,Chinatown,1
+Prizzi's Honor,One Flew over the Cuckoo's Nest,1
+Prizzi's Honor,Terms of Endearment,1
+Prizzi's Honor,Ironweed,1
+Prizzi's Honor,A Few Good Men,1
+Prizzi's Honor,As Good as It Gets,1
+Prizzi's Honor,About Schmidt,1
+Prizzi's Honor,Enemies  A Love Story,1
+Prizzi's Honor,The Grifters,1
+All the King's Men,The Hustler,1
+The Hustler,Cat on a Hot Tin Roof,1
+The Hustler,Hud,1
+The Hustler,Cool Hand Luke,1
+The Hustler,Absence of Malice,1
+The Hustler,The Color of Money,1
+The Hustler,Nobody's Fool,1
+The Hustler,Road to Perdition,1
+The Hustler,Patton,1
+The Hustler,The Hospital,1
+The Hustler,Carrie,1
+The Hustler,Children of a Lesser God,1
+Champion,Lust for Life,1
+Champion,Bright Victory,1
+Champion,Trial,1
+Champion,Peyton Place,1
+Champion,Some Came Running,1
+Lust for Life,Viva Zapata!,1
+Lust for Life,Wild Is the Wind,1
+Lust for Life,Zorba the Greek,1
+Bright Victory,Peyton Place,1
+Bright Victory,Some Came Running,1
+Trial,Peyton Place,1
+Trial,Some Came Running,1
+Peyton Place,Some Came Running,1
+Peyton Place,The Inn of the Sixth Happiness,1
+Some Came Running,Irma La Douce,1
+Some Came Running,The Turning Point,1
+Some Came Running,Terms of Endearment,1
+Sands of Iwo Jima,True Grit,1
+True Grit,The Last Picture Show,1
+True Grit,Thunderbolt and Lightfoot,1
+True Grit,Starman,1
+True Grit,The Contender,1
+True Grit,Crazy Heart,1
+True Grit,Hell or High Water,1
+True Grit,No Country for Old Men,1
+Battleground,Give 'em Hell  Harry!,1
+Edward My Son,,1
+The King and I,Heaven Knows  Mr. Allison,1
+The Fallen Idol,Oliver!,1
+Oliver!,The Third Man,1
+Network,12 Angry Men,1
+Network,Sunday Bloody Sunday,1
+Network,Chinatown,1
+Network,Dog Day Afternoon,1
+The Mating Season,Pillow Talk,1
+The Mating Season,Birdman of Alcatraz,1
+Pickup on South Street,Pillow Talk,1
+Pickup on South Street,Birdman of Alcatraz,1
+Pillow Talk,Birdman of Alcatraz,1
+Birdman of Alcatraz,Elmer Gantry,1
+Birdman of Alcatraz,Atlantic City,1
+Caged,Interrupted Melody,1
+Viva Zapata!,Julius Caesar,1
+Viva Zapata!,Sayonara,1
+Viva Zapata!,The Godfather,1
+Viva Zapata!,Last Tango in Paris,1
+Viva Zapata!,A Dry White Season,1
+Viva Zapata!,Wild Is the Wind,1
+Viva Zapata!,Zorba the Greek,1
+Julius Caesar,Sayonara,1
+Julius Caesar,The Godfather,1
+Julius Caesar,Last Tango in Paris,1
+Sayonara,Picnic,1
+Sayonara,The Godfather,1
+Sayonara,Last Tango in Paris,1
+Sayonara,A Dry White Season,1
+The Godfather,Last Tango in Paris,1
+The Godfather,A Dry White Season,1
+The Godfather,Apocalypse Now,1
+The Godfather,The Great Santini,1
+The Godfather,Tender Mercies,1
+The Godfather,The Apostle,1
+The Godfather,A Civil Action,1
+The Godfather,The Judge,1
+The Godfather,Serpico,1
+The Godfather,The Godfather Part II,3
+The Godfather,Dog Day Afternoon,1
+The Godfather,...And Justice for All,1
+The Godfather,Dick Tracy,1
+The Godfather,Scent of a Woman,1
+The Godfather,Glengarry Glen Ross,1
+The Godfather,The Irishman,1
+The Godfather,The Godfather  Part III,1
+Last Tango in Paris,A Dry White Season,1
+Last Tango in Paris,The Last Emperor,1
+A Patch of Blue,The Poseidon Adventure,1
+Quo Vadis,Spartacus,1
+Quo Vadis,Topkapi,1
+Come Fill the Cup,They Shoot Horses  Don't They?,1
+They Shoot Horses  Don't They?,Teacher's Pet,1
+They Shoot Horses  Don't They?,Klute,1
+They Shoot Horses  Don't They?,Coming Home,1
+They Shoot Horses  Don't They?,The China Syndrome,1
+They Shoot Horses  Don't They?,The Morning After,1
+They Shoot Horses  Don't They?,Tootsie,1
+They Shoot Horses  Don't They?,Out of Africa,1
+Wild Is the Wind,The Rose Tattoo,1
+Wild Is the Wind,Zorba the Greek,1
+The Hours,Apollo 13,1
+The Hours,Boogie Nights,1
+The Hours,The Truman Show,1
+The Hours,The End of the Affair,1
+The Hours,Pollock,1
+The Hours,Billy Elliot,1
+The Hours,Rabbit Hole,1
+The Hours,Lion,1
+The Hours,Far from Heaven,1
+The Hours,Still Alice,1
+The Hours,The Reader,1
+Rabbit Hole,Lion,1
+The Lavender Hill Mob,Star Wars,1
+Star Wars,American Graffiti,1
+Star Wars,Little Dorrit,1
+My Cousin Rachel,Who's Afraid of Virginia Woolf?,1
+My Cousin Rachel,Anne of the Thousand Days,1
+My Cousin Rachel,Equus,1
+Who's Afraid of Virginia Woolf?,The Robe,1
+Who's Afraid of Virginia Woolf?,Raintree County,1
+Who's Afraid of Virginia Woolf?,Cat on a Hot Tin Roof,1
+Who's Afraid of Virginia Woolf?,Butterfield 8,1
+Who's Afraid of Virginia Woolf?,The Spy Who Came In from the Cold,1
+Who's Afraid of Virginia Woolf?,Anne of the Thousand Days,1
+Who's Afraid of Virginia Woolf?,Equus,1
+Who's Afraid of Virginia Woolf?,The Graduate,1
+Who's Afraid of Virginia Woolf?,Silkwood,1
+Who's Afraid of Virginia Woolf?,Working Girl,1
+Anne of the Thousand Days,The Robe,1
+Anne of the Thousand Days,The Spy Who Came In from the Cold,1
+Anne of the Thousand Days,Equus,1
+Equus,The Robe,1
+Equus,The Spy Who Came In from the Cold,1
+Elmer Gantry,Atlantic City,1
+Atlantic City,Thelma & Louise,1
+Atlantic City,Lorenzo's Oil,1
+Atlantic City,The Client,1
+Atlantic City,Dead Man Walking,1
+Lili,The L-Shaped Room,1
+Hondo,Summer and Smoke,1
+Hondo,Sweet Bird of Youth,1
+Hondo,Interiors,1
+Summer and Smoke,Sweet Bird of Youth,1
+Summer and Smoke,You're a Big Boy Now,1
+Summer and Smoke,Pete 'n' Tillie,1
+Summer and Smoke,Interiors,1
+Summer and Smoke,The Pope of Greenwich Village,1
+Summer and Smoke,The Trip to Bountiful,1
+Sweet Bird of Youth,The Dark at the Top of the Stairs,1
+Sweet Bird of Youth,You're a Big Boy Now,1
+Sweet Bird of Youth,Pete 'n' Tillie,1
+Sweet Bird of Youth,Interiors,1
+Sweet Bird of Youth,The Pope of Greenwich Village,1
+Sweet Bird of Youth,The Trip to Bountiful,1
+Interiors,Lonelyhearts,1
+Interiors,You're a Big Boy Now,1
+Interiors,Pete 'n' Tillie,1
+Interiors,Annie Hall,2
+Interiors,The Pope of Greenwich Village,1
+Interiors,The Trip to Bountiful,1
+Interiors,Broadway Danny Rose,1
+Interiors,Hannah and Her Sisters,1
+Interiors,Crimes and Misdemeanors,1
+Interiors,Bullets over Broadway,1
+Interiors,Midnight in Paris,1
+The Pawnbroker,In the Heat of the Night,1
+In the Heat of the Night,Fiddler on the Roof,1
+In the Heat of the Night,Moonstruck,1
+Mister Roberts,Days of Wine and Roses,1
+Mister Roberts,Save the Tiger,1
+Mister Roberts,The China Syndrome,1
+Mister Roberts,Missing,1
+Days of Wine and Roses,Save the Tiger,1
+Days of Wine and Roses,The China Syndrome,1
+Days of Wine and Roses,Tribute,1
+Days of Wine and Roses,Missing,1
+Save the Tiger,The China Syndrome,1
+Save the Tiger,Tribute,1
+Save the Tiger,Missing,1
+The China Syndrome,Klute,1
+The China Syndrome,Coming Home,1
+The China Syndrome,Tribute,1
+The China Syndrome,Missing,1
+The China Syndrome,The Morning After,1
+Missing,Carrie,1
+Missing,Tribute,1
+Missing,Coal Miner's Daughter,1
+Missing,The River,1
+Missing,Crimes of the Heart,1
+Missing,In the Bedroom,1
+Rebel without a Cause,Exodus,1
+Rebel without a Cause,Splendor in the Grass,1
+Rebel without a Cause,Love with the Proper Stranger,1
+The Bad Seed,Butterflies Are Free,1
+Raintree County,Cat on a Hot Tin Roof,1
+Cat on a Hot Tin Roof,Hud,1
+Cat on a Hot Tin Roof,Cool Hand Luke,1
+Cat on a Hot Tin Roof,Absence of Malice,1
+Cat on a Hot Tin Roof,The Color of Money,1
+Cat on a Hot Tin Roof,Nobody's Fool,1
+Cat on a Hot Tin Roof,Road to Perdition,1
+Cat on a Hot Tin Roof,Butterfield 8,1
+Cat on a Hot Tin Roof,The Professionals,1
+Cat on a Hot Tin Roof,In Cold Blood,1
+The Three Faces of Eve,Rachel  Rachel,1
+The Three Faces of Eve,Summer Wishes,1
+Rachel  Rachel,Summer Wishes  Winter Dreams,1
+Rachel  Rachel,Mr. & Mrs. Bridge,1
+Summer Wishes  Winter Dreams, Winter Dreams,1
+12 Angry Men,Dog Day Afternoon,1
+Dog Day Afternoon,Serpico,1
+Dog Day Afternoon,The Godfather Part II,1
+Dog Day Afternoon,...And Justice for All,1
+Dog Day Afternoon,Dick Tracy,1
+Dog Day Afternoon,Scent of a Woman,1
+Dog Day Afternoon,Glengarry Glen Ross,1
+Dog Day Afternoon,The Irishman,1
+The Defiant Ones,Lilies of the Field,1
+Hud,Cool Hand Luke,1
+Hud,Absence of Malice,1
+Hud,The Color of Money,1
+Hud,Nobody's Fool,1
+Hud,Road to Perdition,1
+Hud,I Never Sang for My Father,1
+Hud,Being There,1
+Hud,The Subject Was Roses,1
+Cool Hand Luke,Absence of Malice,1
+Cool Hand Luke,The Color of Money,1
+Cool Hand Luke,Nobody's Fool,1
+Cool Hand Luke,Road to Perdition,1
+Absence of Malice,Close Encounters of the Third Kind,1
+Absence of Malice,The Color of Money,1
+Absence of Malice,Nobody's Fool,1
+Absence of Malice,Road to Perdition,1
+The Color of Money,Nobody's Fool,1
+The Color of Money,Road to Perdition,1
+Irma La Douce,The Turning Point,1
+Irma La Douce,Terms of Endearment,1
+The Turning Point,The Miracle Worker,1
+The Turning Point,The Pumpkin Eater,1
+The Turning Point,The Graduate,1
+The Turning Point,Agnes of God,1
+The Turning Point,Terms of Endearment,1
+Terms of Endearment,Easy Rider,1
+Terms of Endearment,Five Easy Pieces,1
+Terms of Endearment,The Last Detail,1
+Terms of Endearment,Chinatown,1
+Terms of Endearment,One Flew over the Cuckoo's Nest,1
+Terms of Endearment,An Officer and a Gentleman,1
+Terms of Endearment,The World According to Garp,1
+Terms of Endearment,Ironweed,1
+Terms of Endearment,A Few Good Men,1
+Terms of Endearment,As Good as It Gets,1
+Terms of Endearment,About Schmidt,1
+Terms of Endearment,Shadowlands,1
+The Sound of Music,Mary Poppins,1
+The Sound of Music,Victor/Victoria,1
+Room at the Top,Ship of Fools,1
+Tom Jones,The Dresser,1
+Tom Jones,Under the Volcano,1
+Tom Jones,Erin Brockovich,1
+Tom Jones,The Chalk Garden,1
+Tom Jones,The Whisperers,1
+Patton,The Hospital,1
+Carrie,Coal Miner's Daughter,1
+Carrie,The River,1
+Carrie,Crimes of the Heart,1
+Carrie,In the Bedroom,1
+Carrie,Children of a Lesser God,1
+Children of a Lesser God,Kiss of the Spider Woman,1
+Children of a Lesser God,Broadcast News,1
+Children of a Lesser God,A History of Violence,1
+Divorce--Italian Style,A Special Day,1
+Divorce--Italian Style,Dark Eyes,1
+The Miracle Worker,The Pumpkin Eater,1
+The Miracle Worker,The Graduate,1
+The Miracle Worker,Agnes of God,1
+The Miracle Worker,Alice's Restaurant,1
+The Pumpkin Eater,The Graduate,1
+The Pumpkin Eater,Agnes of God,1
+The Graduate,Midnight Cowboy,1
+The Graduate,Lenny,1
+The Graduate,Kramer vs. Kramer,1
+The Graduate,Tootsie,1
+The Graduate,Rain Man,1
+The Graduate,Wag the Dog,1
+The Graduate,Agnes of God,1
+The Graduate,Silkwood,1
+The Graduate,Working Girl,1
+The Dresser,Breaking Away,1
+The Dresser,Under the Volcano,1
+The Dresser,Erin Brockovich,1
+Under the Volcano,Erin Brockovich,1
+Erin Brockovich,Steel Magnolias,1
+Erin Brockovich,Pretty Woman,1
+Erin Brockovich,Traffic,1
+Erin Brockovich,August: Osage County,1
+This Sporting Life,The Field,1
+I Never Sang for My Father,Being There,1
+I Never Sang for My Father,The French Connection,1
+I Never Sang for My Father,Mississippi Burning,1
+I Never Sang for My Father,Unforgiven,1
+Being There,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,2001: A Space Odyssey,1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,A Clockwork Orange,1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Barry Lyndon,1
+Mary Poppins,Victor/Victoria,1
+Seance on a Wet Afternoon,Frances,1
+Frances,Tootsie,1
+Frances,Country,1
+Frances,Sweet Dreams,1
+Frances,Music Box,1
+Frances,Blue Sky,1
+The Prime of Miss Jean Brodie,A Room with a View,1
+The Prime of Miss Jean Brodie,Gosford Park,1
+Travels with My Aunt,A Room with a View,1
+Travels with My Aunt,Gosford Park,1
+California Suite,A Room with a View,1
+California Suite,Gosford Park,1
+A Room with a View,Gosford Park,1
+A Room with a View,Howards End,1
+A Room with a View,The Remains of the Day,1
+Gosford Park,M*A*S*H,1
+Gosford Park,Nashville,1
+Gosford Park,The Player,1
+Gosford Park,Short Cuts,1
+Gosford Park,The Madness of King George,1
+Gosford Park,The Queen,1
+Gosford Park,The Last Station,1
+Darling,McCabe & Mrs. Miller,1
+Darling,Afterglow,1
+Darling,Away from Her,1
+Darling,Midnight Cowboy,1
+Darling,Sunday Bloody Sunday,1
+Midnight Cowboy,Lenny,1
+Midnight Cowboy,Kramer vs. Kramer,1
+Midnight Cowboy,Tootsie,1
+Midnight Cowboy,Rain Man,1
+Midnight Cowboy,Wag the Dog,1
+Midnight Cowboy,Coming Home,1
+Midnight Cowboy,Runaway Train,1
+Midnight Cowboy,Ali,1
+Midnight Cowboy,Farewell  My Lovely,1
+Midnight Cowboy,Sunday Bloody Sunday,1
+Sunday Bloody Sunday,Women in Love,1
+Sunday Bloody Sunday,A Touch of Class,1
+Sunday Bloody Sunday,Hedda,1
+The Russians Are Coming The Russians Are Coming,The Heart Is a Lonely Hunter,1
+The Russians Are Coming The Russians Are Coming,Little Miss Sunshine,1
+The Heart Is a Lonely Hunter,Little Miss Sunshine,1
+The Heart Is a Lonely Hunter,Argo,1
+Little Miss Sunshine,Argo,1
+Silkwood,The Deer Hunter,1
+Silkwood,Kramer vs. Kramer,1
+Silkwood,The French Lieutenant's Woman,1
+Silkwood,Sophie's Choice,1
+Silkwood,Out of Africa,1
+Silkwood,Ironweed,1
+Silkwood,A Cry in the Dark,1
+Silkwood,Postcards from the Edge,1
+Silkwood,The Bridges of Madison County,1
+Silkwood,One True Thing,1
+Silkwood,Music of the Heart,1
+Silkwood,Adaptation,1
+Silkwood,The Devil Wears Prada,1
+Silkwood,Doubt,1
+Silkwood,Julie & Julia,1
+Silkwood,The Iron Lady,1
+Silkwood,August: Osage County,1
+Silkwood,Into the Woods,1
+Silkwood,Florence Foster Jenkins,1
+Silkwood,The Post,1
+Silkwood,Moonstruck,1
+Silkwood,Working Girl,1
+Working Girl,Aliens,1
+Working Girl,In & Out,1
+Working Girl,Gorillas in the Mist,1
+Alfie,Educating Rita,1
+Alfie,Hannah and Her Sisters,1
+Alfie,The Cider House Rules,1
+Alfie,The Quiet American,1
+Educating Rita,Hannah and Her Sisters,1
+Educating Rita,The Cider House Rules,1
+Educating Rita,The Quiet American,1
+Educating Rita,Billy Elliot,1
+Hannah and Her Sisters,Annie Hall,2
+Hannah and Her Sisters,Broadway Danny Rose,1
+Hannah and Her Sisters,The Cider House Rules,1
+Hannah and Her Sisters,The Quiet American,1
+Hannah and Her Sisters,Parenthood,1
+Hannah and Her Sisters,Bullets over Broadway,3
+Hannah and Her Sisters,Crimes and Misdemeanors,1
+Hannah and Her Sisters,Midnight in Paris,1
+The Cider House Rules,My Life as a Dog,1
+The Cider House Rules,The Quiet American,1
+The Sand Pebbles,12 Years a Slave,1
+12 Years a Slave,Steve Jobs,1
+Quiz Show,The Sting,1
+Quiz Show,Ordinary People,1
+Gods and Monsters,The Lord of the Rings: The Fellowship of the Ring,1
+The Fortune Cookie,The Sunshine Boys,1
+The Sunshine Boys,Kotch,1
+Morgan!,Howards End,1
+Howards End,Isadora,1
+Howards End,Mary  Queen of Scots,1
+Howards End,The Bostonians,1
+Howards End,In the Name of the Father,1
+Howards End,The Remains of the Day,3
+Howards End,Sense and Sensibility,1
+The French Connection,Mississippi Burning,1
+The French Connection,Unforgiven,1
+The French Connection,All That Jazz,1
+The French Connection,The Exorcist,1
+Mississippi Burning,Midnight Express,1
+Mississippi Burning,Unforgiven,1
+Mississippi Burning,Fargo,1
+Mississippi Burning,Almost Famous,1
+Mississippi Burning,North Country,1
+Mississippi Burning,Three Billboards outside Ebbing  Missouri,1
+Unforgiven,Mystic River,2
+Unforgiven,Million Dollar Baby,3
+Unforgiven,Letters from Iwo Jima,2
+Chinatown,Easy Rider,1
+Chinatown,Five Easy Pieces,1
+Chinatown,The Last Detail,1
+Chinatown,One Flew over the Cuckoo's Nest,1
+Chinatown,Ironweed,1
+Chinatown,A Few Good Men,1
+Chinatown,As Good as It Gets,1
+Chinatown,About Schmidt,1
+Chinatown,Tess,1
+Chinatown,The Pianist,1
+Lenny,Cabaret,1
+Lenny,Kramer vs. Kramer,1
+Lenny,Tootsie,1
+Lenny,Rain Man,1
+Lenny,Wag the Dog,1
+Lenny,All That Jazz,1
+Kramer vs. Kramer,The Great White Hope,1
+Kramer vs. Kramer,All the President's Men,1
+Kramer vs. Kramer,The Deer Hunter,1
+Kramer vs. Kramer,Tootsie,1
+Kramer vs. Kramer,Rain Man,1
+Kramer vs. Kramer,Wag the Dog,1
+Kramer vs. Kramer,Testament,1
+Kramer vs. Kramer,The French Lieutenant's Woman,1
+Kramer vs. Kramer,Sophie's Choice,1
+Kramer vs. Kramer,Out of Africa,1
+Kramer vs. Kramer,Ironweed,1
+Kramer vs. Kramer,A Cry in the Dark,1
+Kramer vs. Kramer,Postcards from the Edge,1
+Kramer vs. Kramer,The Bridges of Madison County,1
+Kramer vs. Kramer,One True Thing,1
+Kramer vs. Kramer,Music of the Heart,1
+Kramer vs. Kramer,Adaptation,1
+Kramer vs. Kramer,The Devil Wears Prada,1
+Kramer vs. Kramer,Doubt,1
+Kramer vs. Kramer,Julie & Julia,1
+Kramer vs. Kramer,The Iron Lady,1
+Kramer vs. Kramer,August: Osage County,1
+Kramer vs. Kramer,Into the Woods,1
+Kramer vs. Kramer,Florence Foster Jenkins,1
+Kramer vs. Kramer,The Post,1
+Kramer vs. Kramer,Places in the Heart,1
+Tootsie,Rain Man,1
+Tootsie,Wag the Dog,1
+Tootsie,Country,1
+Tootsie,Sweet Dreams,1
+Tootsie,Music Box,1
+Tootsie,Blue Sky,1
+Tootsie,Out of Africa,1
+Rain Man,Wag the Dog,1
+Fiddler on the Roof,Moonstruck,1
+Moonstruck,Bang the Drum Slowly,1
+The Dirty Dozen,A Woman under the Influence,1
+A Woman under the Influence,Gloria,1
+Funny Girl,The Way We Were,1
+Coming Home,Klute,1
+Coming Home,Runaway Train,1
+Coming Home,Ali,1
+Coming Home,Nebraska,1
+Coming Home,The Morning After,1
+Runaway Train,Ali,1
+Ali,The Pursuit of Happyness,1
+The Last Picture Show,Thunderbolt and Lightfoot,1
+The Last Picture Show,Starman,1
+The Last Picture Show,The Contender,1
+The Last Picture Show,Crazy Heart,1
+The Last Picture Show,Hell or High Water,1
+The Last Picture Show,The Exorcist,1
+The Last Picture Show,Alice Doesn't Live Here Anymore,1
+The Last Picture Show,Same Time  Next Year,1
+The Last Picture Show,Resurrection,1
+The Last Picture Show,Requiem for a Dream,1
+Thunderbolt and Lightfoot,The Contender,1
+Thunderbolt and Lightfoot,Crazy Heart,1
+Starman,The Contender,1
+Starman,Crazy Heart,1
+The Contender,Nixon,1
+The Contender,The Crucible,1
+The Contender,Crazy Heart,1
+The Contender,Hell or High Water,1
+Crazy Heart,Hell or High Water,1
+No Country for Old Men,Before Night Falls,1
+No Country for Old Men,Biutiful,1
+Easy Rider,Five Easy Pieces,1
+Easy Rider,The Last Detail,1
+Easy Rider,One Flew over the Cuckoo's Nest,1
+Easy Rider,Ironweed,1
+Easy Rider,As Good as It Gets,1
+Easy Rider,About Schmidt,1
+Five Easy Pieces,The Last Detail,1
+Five Easy Pieces,One Flew over the Cuckoo's Nest,1
+Five Easy Pieces,Ironweed,1
+Five Easy Pieces,A Few Good Men,1
+Five Easy Pieces,As Good as It Gets,1
+Five Easy Pieces,About Schmidt,1
+The Last Detail,One Flew over the Cuckoo's Nest,1
+The Last Detail,Ironweed,1
+The Last Detail,A Few Good Men,1
+The Last Detail,As Good as It Gets,1
+The Last Detail,About Schmidt,1
+One Flew over the Cuckoo's Nest,Ironweed,1
+One Flew over the Cuckoo's Nest,A Few Good Men,1
+One Flew over the Cuckoo's Nest,As Good as It Gets,1
+One Flew over the Cuckoo's Nest,About Schmidt,1
+One Flew over the Cuckoo's Nest,Amadeus,1
+One Flew over the Cuckoo's Nest,The People vs. Larry Flynt,1
+Ironweed,The Deer Hunter,1
+Ironweed,The French Lieutenant's Woman,1
+Ironweed,Sophie's Choice,1
+Ironweed,Out of Africa,1
+Ironweed,A Few Good Men,1
+Ironweed,As Good as It Gets,1
+Ironweed,About Schmidt,1
+Ironweed,A Cry in the Dark,1
+Ironweed,Postcards from the Edge,1
+Ironweed,The Bridges of Madison County,1
+Ironweed,One True Thing,1
+Ironweed,Music of the Heart,1
+Ironweed,Adaptation,1
+Ironweed,The Devil Wears Prada,1
+Ironweed,Doubt,1
+Ironweed,Julie & Julia,1
+Ironweed,The Iron Lady,1
+Ironweed,August: Osage County,1
+Ironweed,Into the Woods,1
+Ironweed,Florence Foster Jenkins,1
+Ironweed,The Post,1
+As Good as It Gets,A Few Good Men,1
+As Good as It Gets,About Schmidt,1
+As Good as It Gets,The Sessions,1
+About Schmidt,Misery,1
+About Schmidt,A Few Good Men,1
+About Schmidt,Primary Colors,1
+About Schmidt,Richard Jewell,1
+Out of Africa,The Deer Hunter,1
+Out of Africa,The French Lieutenant's Woman,1
+Out of Africa,Sophie's Choice,1
+Out of Africa,A Cry in the Dark,1
+Out of Africa,Postcards from the Edge,1
+Out of Africa,The Bridges of Madison County,1
+Out of Africa,One True Thing,1
+Out of Africa,Music of the Heart,1
+Out of Africa,Adaptation,1
+Out of Africa,The Devil Wears Prada,1
+Out of Africa,Doubt,1
+Out of Africa,Julie & Julia,1
+Out of Africa,The Iron Lady,1
+Out of Africa,August: Osage County,1
+Out of Africa,Into the Woods,1
+Out of Africa,Florence Foster Jenkins,1
+Out of Africa,The Post,1
+The Sterile Cuckoo,Cabaret,1
+Cabaret,All That Jazz,1
+Cactus Flower,Private Benjamin,1
+Butch Cassidy and the Sundance Kid,The Sting,1
+The Sting,Ordinary People,1
+The Great White Hope,All the President's Men,1
+The Great White Hope,Testament,1
+All the President's Men,Melvin and Howard,1
+All the President's Men,Testament,1
+Women in Love,A Touch of Class,1
+Women in Love,Hedda,1
+M*A*S*H,Nashville,1
+M*A*S*H,The Player,1
+M*A*S*H,Short Cuts,1
+Nashville,The Player,1
+Nashville,Short Cuts,1
+The Exorcist,Alice Doesn't Live Here Anymore,1
+The Exorcist,Same Time  Next Year,1
+The Exorcist,Resurrection,1
+The Exorcist,Requiem for a Dream,1
+Alice Doesn't Live Here Anymore,Same Time  Next Year,1
+Alice Doesn't Live Here Anymore,Resurrection,1
+Alice Doesn't Live Here Anymore,Requiem for a Dream,1
+Alice Doesn't Live Here Anymore,Wild at Heart,1
+Alice Doesn't Live Here Anymore,Rambling Rose,1
+Resurrection,Requiem for a Dream,1
+Apocalypse Now,The Great Santini,1
+Apocalypse Now,Tender Mercies,1
+Apocalypse Now,The Apostle,1
+Apocalypse Now,A Civil Action,1
+Apocalypse Now,The Judge,1
+The Great Santini,Tender Mercies,1
+The Great Santini,The Apostle,1
+The Great Santini,A Civil Action,1
+The Great Santini,The Judge,1
+Tender Mercies,The Apostle,1
+Tender Mercies,A Civil Action,1
+Tender Mercies,The Judge,1
+Serpico,The Godfather Part II,1
+Serpico,Scent of a Woman,1
+Serpico,The Irishman,1
+The Godfather Part II,...And Justice for All,1
+The Godfather Part II,Dick Tracy,1
+The Godfather Part II,Scent of a Woman,1
+The Godfather Part II,Glengarry Glen Ross,1
+The Godfather Part II,The Irishman,1
+The Godfather Part II,Taxi Driver,1
+The Godfather Part II,The Deer Hunter,1
+The Godfather Part II,Raging Bull,1
+The Godfather Part II,Awakenings,1
+The Godfather Part II,Cape Fear,1
+The Godfather Part II,Rocky,1
+The Godfather Part II,The Godfather  Part III,1
+...And Justice for All,Scent of a Woman,1
+...And Justice for All,The Irishman,1
+Dick Tracy,Scent of a Woman,1
+Dick Tracy,The Irishman,1
+Scent of a Woman,Glengarry Glen Ross,1
+Scent of a Woman,The Irishman,1
+Glengarry Glen Ross,The Irishman,1
+The Irishman,Raging Bull,3
+The Irishman,The Last Temptation of Christ,1
+The Irishman,Good Fellas,3
+The Irishman,Gangs of New York,1
+The Irishman,The Aviator,1
+The Irishman,The Departed,1
+The Irishman,Hugo,1
+The Irishman,The Wolf of Wall Street,1
+The Emigrants,Face to Face,1
+Face to Face,Cries and Whispers,1
+Face to Face,Fanny & Alexander,1
+Cinderella Liberty,The Goodbye Girl,1
+Cinderella Liberty,Only When I Laugh,1
+The Goodbye Girl,Mr. Holland's Opus,1
+The Goodbye Girl,Chapter Two,1
+The Goodbye Girl,Only When I Laugh,1
+Only When I Laugh,Chapter Two,1
+Paper Moon,Blazing Saddles,1
+Tess,The Pianist,1
+Taxi Driver,The Deer Hunter,1
+Taxi Driver,Raging Bull,1
+Taxi Driver,Awakenings,1
+Taxi Driver,Cape Fear,1
+Taxi Driver,The Accused,1
+Taxi Driver,The Silence of the Lambs,1
+Taxi Driver,Nell,1
+The Deer Hunter,Raging Bull,1
+The Deer Hunter,Awakenings,1
+The Deer Hunter,Cape Fear,1
+The Deer Hunter,Catch Me If You Can,1
+The Deer Hunter,The French Lieutenant's Woman,1
+The Deer Hunter,Sophie's Choice,1
+The Deer Hunter,A Cry in the Dark,1
+The Deer Hunter,Postcards from the Edge,1
+The Deer Hunter,The Bridges of Madison County,1
+The Deer Hunter,One True Thing,1
+The Deer Hunter,Music of the Heart,1
+The Deer Hunter,Adaptation,1
+The Deer Hunter,The Devil Wears Prada,1
+The Deer Hunter,Doubt,1
+The Deer Hunter,Julie & Julia,1
+The Deer Hunter,The Iron Lady,1
+The Deer Hunter,August: Osage County,1
+The Deer Hunter,Into the Woods,1
+The Deer Hunter,Florence Foster Jenkins,1
+The Deer Hunter,The Post,1
+Raging Bull,Awakenings,1
+Raging Bull,Cape Fear,1
+Raging Bull,Good Fellas,3
+Raging Bull,The Last Temptation of Christ,1
+Raging Bull,Gangs of New York,1
+Raging Bull,The Aviator,1
+Raging Bull,The Departed,1
+Raging Bull,Hugo,1
+Raging Bull,The Wolf of Wall Street,1
+Awakenings,Cape Fear,1
+Rocky,The Day of the Locust,1
+Rocky,Creed,1
+Wild at Heart,Rambling Rose,1
+Rambling Rose,Wild,1
+Rambling Rose,Marriage Story,1
+Amadeus,The People vs. Larry Flynt,1
+The People vs. Larry Flynt,The Messenger,1
+The People vs. Larry Flynt,Three Billboards outside Ebbing  Missouri,1
+The Accused,The Silence of the Lambs,1
+The Silence of the Lambs,The Remains of the Day,1
+The Silence of the Lambs,Nixon,1
+The Silence of the Lambs,Amistad,1
+The Silence of the Lambs,The Two Popes,1
+The Silence of the Lambs,Nell,1
+Coal Miner's Daughter,Crimes of the Heart,1
+Coal Miner's Daughter,In the Bedroom,1
+The River,Crimes of the Heart,1
+The River,In the Bedroom,1
+Crimes of the Heart,In the Bedroom,1
+In the Bedroom,My Cousin Vinny,1
+In the Bedroom,Michael Clayton,1
+In the Bedroom,The Wrestler,1
+Annie Hall,Broadway Danny Rose,2
+Annie Hall,Crimes and Misdemeanors,2
+Annie Hall,Bullets over Broadway,2
+Annie Hall,Midnight in Paris,2
+Annie Hall,Marvin's Room,1
+Annie Hall,Something's Gotta Give,1
+Broadway Danny Rose,Crimes and Misdemeanors,1
+Broadway Danny Rose,Bullets over Broadway,1
+Crimes and Misdemeanors,Tucker The Man and His Dream,1
+Crimes and Misdemeanors,Ed Wood,1
+Crimes and Misdemeanors,Bullets over Broadway,1
+Crimes and Misdemeanors,Midnight in Paris,1
+Bullets over Broadway,Parenthood,1
+Bullets over Broadway,Midnight in Paris,1
+Saturday Night Fever,Pulp Fiction,1
+Pulp Fiction,Inglourious Basterds,1
+Pulp Fiction,Once upon a Time...in Hollywood,1
+Close Encounters of the Third Kind,Raiders of the Lost Ark,1
+Close Encounters of the Third Kind,E.T. The Extra-Terrestrial,1
+Close Encounters of the Third Kind,Schindler's List,1
+Close Encounters of the Third Kind,Saving Private Ryan,1
+Close Encounters of the Third Kind,Munich,1
+Close Encounters of the Third Kind,Lincoln,1
+Raiders of the Lost Ark,Schindler's List,1
+Raiders of the Lost Ark,Saving Private Ryan,1
+Raiders of the Lost Ark,Lincoln,1
+E.T. The Extra-Terrestrial,Schindler's List,1
+E.T. The Extra-Terrestrial,Saving Private Ryan,1
+E.T. The Extra-Terrestrial,Lincoln,1
+Schindler's List,The English Patient,1
+Schindler's List,Saving Private Ryan,1
+Schindler's List,Munich,1
+Schindler's List,Lincoln,1
+Saving Private Ryan,Big,1
+Saving Private Ryan,Philadelphia,1
+Saving Private Ryan,Forrest Gump,1
+Saving Private Ryan,Cast Away,1
+Saving Private Ryan,A Beautiful Day in the Neighborhood,1
+Saving Private Ryan,Munich,1
+Saving Private Ryan,Lincoln,1
+Munich,Lincoln,1
+Lincoln,Norma Rae,1
+Lincoln,Places in the Heart,1
+Lincoln,JFK,1
+Lincoln,In the Name of the Father,1
+Lincoln,The Fugitive,1
+Lincoln,Gangs of New York,1
+Lincoln,There Will Be Blood,1
+Lincoln,In the Valley of Elah,1
+Lincoln,Phantom Thread,1
+The French Lieutenant's Woman,Adaptation,1
+The French Lieutenant's Woman,Doubt,1
+The French Lieutenant's Woman,August: Osage County,1
+Sophie's Choice,Adaptation,1
+Sophie's Choice,Doubt,1
+Sophie's Choice,August: Osage County,1
+A Cry in the Dark,Adaptation,1
+A Cry in the Dark,Doubt,1
+A Cry in the Dark,August: Osage County,1
+Postcards from the Edge,Adaptation,1
+Postcards from the Edge,Doubt,1
+Postcards from the Edge,August: Osage County,1
+The Bridges of Madison County,Adaptation,1
+The Bridges of Madison County,Doubt,1
+The Bridges of Madison County,August: Osage County,1
+One True Thing,Adaptation,1
+One True Thing,Doubt,1
+One True Thing,August: Osage County,1
+Music of the Heart,Adaptation,1
+Music of the Heart,Doubt,1
+Music of the Heart,August: Osage County,1
+Adaptation,Leaving Las Vegas,1
+Adaptation,The Devil Wears Prada,1
+Adaptation,Doubt,1
+Adaptation,Julie & Julia,1
+Adaptation,The Iron Lady,1
+Adaptation,August: Osage County,1
+Adaptation,Into the Woods,1
+Adaptation,Florence Foster Jenkins,1
+Adaptation,The Post,1
+The Devil Wears Prada,Doubt,1
+The Devil Wears Prada,August: Osage County,1
+Doubt,Capote,1
+Doubt,Junebug,1
+Doubt,Charlie Wilson's War,1
+Doubt,The Master,3
+Doubt,Julie & Julia,1
+Doubt,The Iron Lady,1
+Doubt,August: Osage County,1
+Doubt,Into the Woods,1
+Doubt,Florence Foster Jenkins,1
+Doubt,The Post,1
+Doubt,The Fighter,1
+Doubt,Vice,1
+Doubt,The Help,1
+Julie & Julia,August: Osage County,1
+The Iron Lady,August: Osage County,1
+August: Osage County,Steel Magnolias,1
+August: Osage County,Pretty Woman,1
+August: Osage County,Into the Woods,1
+August: Osage County,Florence Foster Jenkins,1
+August: Osage County,The Post,1
+Nebraska,Sideways,1
+Nebraska,The Descendants,1
+Midnight Express,The Elephant Man,1
+The Elephant Man,Blue Velvet,1
+The Elephant Man,Mulholland Drive,1
+An Unmarried Woman,Starting Over,1
+Places in the Heart,Norma Rae,1
+Places in the Heart,In the Line of Fire,1
+The Rose,For the Boys,1
+Good Fellas,The Last Temptation of Christ,1
+Good Fellas,Gangs of New York,1
+Good Fellas,The Aviator,1
+Good Fellas,The Departed,1
+Good Fellas,Hugo,1
+Good Fellas,The Wolf of Wall Street,1
+The Last Temptation of Christ,Gangs of New York,1
+The Last Temptation of Christ,The Aviator,1
+The Last Temptation of Christ,The Departed,1
+The Last Temptation of Christ,The Wolf of Wall Street,1
+Gangs of New York,In the Name of the Father,1
+Gangs of New York,There Will Be Blood,1
+Gangs of New York,Phantom Thread,1
+Gangs of New York,The Aviator,1
+Gangs of New York,The Departed,1
+Gangs of New York,Hugo,1
+Gangs of New York,The Wolf of Wall Street,1
+The Aviator,What's Eating Gilbert Grape,1
+The Aviator,Elizabeth,1
+The Aviator,Blood Diamond,1
+The Aviator,The Wolf of Wall Street,3
+The Aviator,The Revenant,1
+The Aviator,Once upon a Time...in Hollywood,1
+The Aviator,Notes on a Scandal,1
+The Aviator,Elizabeth: The Golden Age,1
+The Aviator,I'm Not There,1
+The Aviator,Blue Jasmine,1
+The Aviator,Carol,1
+The Aviator,The Departed,1
+The Aviator,Hugo,1
+The Departed,Hugo,1
+The Departed,The Wolf of Wall Street,1
+Hugo,The Wolf of Wall Street,1
+The Wolf of Wall Street,What's Eating Gilbert Grape,1
+The Wolf of Wall Street,Blood Diamond,1
+The Wolf of Wall Street,Moneyball,1
+The Wolf of Wall Street,The Revenant,1
+The Wolf of Wall Street,Once upon a Time...in Hollywood,1
+Thelma & Louise,The Accidental Tourist,1
+Thelma & Louise,Lorenzo's Oil,1
+Thelma & Louise,The Client,1
+Thelma & Louise,Dead Man Walking,1
+Thelma & Louise,Gladiator,1
+Thelma & Louise,Black Hawk Down,1
+Lorenzo's Oil,Dead Man Walking,1
+The Client,Dead Man Walking,1
+Dead Man Walking,Sweet and Lowdown,1
+Dead Man Walking,I Am Sam,1
+Dead Man Walking,Mystic River,3
+Dead Man Walking,Milk,1
+Gandhi,Sexy Beast,1
+Gandhi,House of Sand and Fog,1
+Sexy Beast,House of Sand and Fog,1
+An Officer and a Gentleman,Shadowlands,1
+The World According to Garp,The Big Chill,1
+The World According to Garp,The Natural,1
+The World According to Garp,Fatal Attraction,1
+The World According to Garp,Dangerous Liaisons,1
+The World According to Garp,Albert Nobbs,1
+The World According to Garp,The Wife,1
+The Big Chill,Fatal Attraction,1
+The Big Chill,Dangerous Liaisons,1
+The Big Chill,Albert Nobbs,1
+The Natural,Fatal Attraction,1
+The Natural,Dangerous Liaisons,1
+The Natural,Albert Nobbs,1
+Fatal Attraction,Dangerous Liaisons,1
+Fatal Attraction,Albert Nobbs,1
+Fatal Attraction,The Wife,1
+Dangerous Liaisons,Albert Nobbs,1
+Dangerous Liaisons,The Wife,1
+Dangerous Liaisons,The Fabulous Baker Boys,1
+Dangerous Liaisons,Love Field,1
+Albert Nobbs,Tumbleweeds,1
+Albert Nobbs,The Wife,1
+Billy Elliot,The Reader,1
+The Killing Fields,The Mission,1
+Witness,Dead Poets Society,1
+Witness,The Truman Show,1
+Witness,Master and Commander: The Far Side of the World,1
+Dead Poets Society,Good Morning  Vietnam,1
+Dead Poets Society,The Fisher King,1
+Dead Poets Society,Good Will Hunting,1
+Dead Poets Society,The Truman Show,1
+Dead Poets Society,Master and Commander: The Far Side of the World,1
+The Truman Show,Apollo 13,1
+The Truman Show,Pollock,1
+The Truman Show,Master and Commander: The Far Side of the World,1
+Kiss of the Spider Woman,Broadcast News,1
+Kiss of the Spider Woman,A History of Violence,1
+Broadcast News,A History of Violence,1
+Broadcast News,The Piano,1
+Broadcast News,The Firm,1
+Broadcast News,Thirteen,1
+Enemies  A Love Story,The Grifters,1
+The Grifters,American Beauty,1
+The Grifters,Being Julia,1
+The Grifters,The Kids Are All Right,1
+The Grifters,The Queen,1
+The Color Purple,Ghost,1
+Platoon,Shadow of the Vampire,1
+Platoon,The Florida Project,1
+Platoon,At Eternity's Gate,1
+Platoon,Born on the Fourth of July,1
+Platoon,JFK,1
+Born on the Fourth of July,Jerry Maguire,1
+Born on the Fourth of July,Magnolia,1
+Born on the Fourth of July,JFK,1
+JFK,The Fugitive,1
+JFK,In the Valley of Elah,1
+The Remains of the Day,In the Name of the Father,1
+The Remains of the Day,Nixon,1
+The Remains of the Day,Amistad,1
+The Remains of the Day,The Two Popes,1
+The Remains of the Day,Sense and Sensibility,1
+The Piano,The Firm,1
+The Piano,Thirteen,1
+Good Morning  Vietnam, Vietnam,1
+Good Morning  Vietnam, Vietnam,1
+The Fisher King,Good Will Hunting,1
+Good Will Hunting,Invictus,1
+Good Will Hunting,The Martian,1
+Good Will Hunting,Milk,1
+Street Smart,Driving Miss Daisy,1
+Street Smart,Million Dollar Baby,1
+Street Smart,Invictus,1
+Driving Miss Daisy,The Shawshank Redemption,1
+Driving Miss Daisy,Million Dollar Baby,1
+Driving Miss Daisy,Invictus,1
+Driving Miss Daisy,Fried Green Tomatoes,1
+Million Dollar Baby,The Shawshank Redemption,1
+Million Dollar Baby,Boys Don't Cry,1
+Million Dollar Baby,Mystic River,2
+Million Dollar Baby,Letters from Iwo Jima,2
+Million Dollar Baby,Invictus,1
+Invictus,The Shawshank Redemption,1
+Invictus,The Martian,1
+Fargo,Almost Famous,1
+Fargo,North Country,1
+Fargo,Three Billboards outside Ebbing  Missouri,1
+Almost Famous,North Country,1
+Almost Famous,Three Billboards outside Ebbing  Missouri,1
+North Country,Monster,1
+North Country,Bombshell,1
+North Country,Three Billboards outside Ebbing  Missouri,1
+Three Billboards outside Ebbing  Missouri, Missouri,1
+Three Billboards outside Ebbing  Missouri, Missouri,1
+Big,Forrest Gump,1
+Forrest Gump,Philadelphia,1
+Forrest Gump,Cast Away,1
+Forrest Gump,A Beautiful Day in the Neighborhood,1
+Jerry Maguire,Magnolia,1
+My Left Foot,In the Name of the Father,1
+In the Name of the Father,There Will Be Blood,1
+In the Name of the Father,Phantom Thread,1
+In the Name of the Father,Sense and Sensibility,1
+Dances With Wolves,Passion Fish,1
+American Beauty,The Usual Suspects,1
+American Beauty,Being Julia,1
+American Beauty,The Kids Are All Right,1
+American Beauty,1917,1
+Being Julia,The Kids Are All Right,1
+The Kids Are All Right,Foxcatcher,1
+The Kids Are All Right,Spotlight,1
+The Queen,The Madness of King George,1
+The Queen,The Last Station,1
+Nixon,Amistad,1
+Nixon,The Two Popes,1
+Nixon,The Crucible,1
+Amistad,The Two Popes,1
+The Prince of Tides,Affliction,1
+The Prince of Tides,Warrior,1
+Affliction,Warrior,1
+Gladiator,The Insider,1
+Gladiator,A Beautiful Mind,1
+Gladiator,Walk the Line,1
+Gladiator,The Master,1
+Gladiator,Joker,1
+Gladiator,Black Hawk Down,1
+Wild,Walk the Line,1
+Wild,Marriage Story,1
+Marriage Story,BlacKkKlansman,1
+Marriage Story,Jojo Rabbit,1
+Mystic River,Sweet and Lowdown,1
+Mystic River,Pollock,1
+Mystic River,I Am Sam,1
+Mystic River,Milk,1
+Mystic River,Letters from Iwo Jima,1
+Sense and Sensibility,Titanic,1
+Sense and Sensibility,Iris,1
+Sense and Sensibility,Eternal Sunshine of the Spotless Mind,1
+Sense and Sensibility,Little Children,1
+Sense and Sensibility,The Reader,1
+Sense and Sensibility,Steve Jobs,1
+Damage,Tom & Viv,1
+My Cousin Vinny,The Wrestler,1
+There Will Be Blood,Phantom Thread,3
+The English Patient,Chocolat,1
+What's Eating Gilbert Grape,Blood Diamond,1
+What's Eating Gilbert Grape,The Revenant,1
+What's Eating Gilbert Grape,Once upon a Time...in Hollywood,1
+Blood Diamond,In America,1
+Blood Diamond,The Revenant,1
+Blood Diamond,Once upon a Time...in Hollywood,1
+The Revenant,Birdman or (The Unexpected Virtue of Ignorance),1
+The Revenant,Once upon a Time...in Hollywood,1
+Once upon a Time...in Hollywood,12 Monkeys,1
+Once upon a Time...in Hollywood,The Curious Case of Benjamin Button,1
+Once upon a Time...in Hollywood,Inglourious Basterds,1
+Once upon a Time...in Hollywood,Moneyball,1
+The Madness of King George,The Last Station,1
+The Last Station,Beginners,1
+The Last Station,All the Money in the World,1
+Inglourious Basterds,Django Unchained,1
+Sweet and Lowdown,I Am Sam,1
+Sweet and Lowdown,Milk,1
+Sweet and Lowdown,In America,1
+I Am Sam,Milk,1
+Apollo 13,Pollock,1
+12 Monkeys,The Curious Case of Benjamin Button,1
+12 Monkeys,Moneyball,1
+The Curious Case of Benjamin Button,Moneyball,1
+The Curious Case of Benjamin Button,The Social Network,1
+Titanic,Iris,1
+Titanic,Eternal Sunshine of the Spotless Mind,1
+Titanic,Little Children,1
+Titanic,The Reader,1
+Titanic,Steve Jobs,1
+Titanic,Avatar,1
+Iris,Mrs. Brown,1
+Iris,Shakespeare in Love,1
+Iris,Chocolat,1
+Iris,Mrs. Henderson Presents,1
+Iris,Notes on a Scandal,1
+Iris,Philomena,1
+Iris,Eternal Sunshine of the Spotless Mind,1
+Iris,Little Children,1
+Iris,The Reader,1
+Iris,Steve Jobs,1
+Eternal Sunshine of the Spotless Mind,Little Children,1
+Eternal Sunshine of the Spotless Mind,The Reader,1
+Eternal Sunshine of the Spotless Mind,Steve Jobs,1
+Little Children,The Reader,1
+Little Children,Steve Jobs,1
+The Reader,Steve Jobs,1
+Braveheart,Hacksaw Ridge,1
+Chocolat,Mrs. Brown,1
+Chocolat,Shakespeare in Love,1
+Chocolat,Mrs. Henderson Presents,1
+Chocolat,Notes on a Scandal,1
+Chocolat,Philomena,1
+Shine,Shakespeare in Love,1
+Shine,Quills,1
+Shine,The King's Speech,1
+Shakespeare in Love,Mrs. Brown,1
+Shakespeare in Love,Quills,1
+Shakespeare in Love,The King's Speech,1
+Shakespeare in Love,Mrs. Henderson Presents,1
+Shakespeare in Love,Notes on a Scandal,1
+Shakespeare in Love,Philomena,1
+Quills,The King's Speech,1
+The King's Speech,The Wings of the Dove,1
+The King's Speech,A Single Man,1
+Primal Fear,Birdman or (The Unexpected Virtue of Ignorance),1
+Birdman or (The Unexpected Virtue of Ignorance),American History X,1
+Birdman or (The Unexpected Virtue of Ignorance),La La Land,1
+Birdman or (The Unexpected Virtue of Ignorance),The Favourite,1
+Secrets & Lies,Little Voice,1
+Secrets & Lies,Vera Drake,1
+Breaking the Waves,Hilary and Jackie,1
+Boogie Nights,The End of the Affair,1
+Boogie Nights,Far from Heaven,1
+Boogie Nights,Still Alice,1
+Mrs. Brown,Notes on a Scandal,1
+Notes on a Scandal,Elizabeth,1
+Notes on a Scandal,Mrs. Henderson Presents,1
+Notes on a Scandal,Philomena,1
+Notes on a Scandal,Elizabeth: The Golden Age,1
+Notes on a Scandal,I'm Not There,1
+Notes on a Scandal,Blue Jasmine,1
+Notes on a Scandal,Carol,1
+The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Return of the King,1
+Elizabeth,Blue Jasmine,1
+Elizabeth,Carol,1
+Blue Jasmine,Elizabeth: The Golden Age,1
+Blue Jasmine,I'm Not There,1
+Blue Jasmine,Carol,1
+Blue Jasmine,The Shape of Water,1
+Carol,Elizabeth: The Golden Age,1
+Carol,I'm Not There,1
+Carol,The Girl with the Dragon Tattoo,1
+The Insider,A Beautiful Mind,1
+A Beautiful Mind,Frost/Nixon,1
+The Talented Mr. Ripley,Cold Mountain,1
+Cold Mountain,Bridget Jones's Diary,1
+Cold Mountain,Chicago,1
+Cold Mountain,Judy,1
+Being John Malkovich,Capote,1
+Capote,Charlie Wilson's War,1
+Capote,The Master,1
+Capote,Foxcatcher,1
+Walk the Line,The Master,1
+Walk the Line,Joker,1
+The Master,Junebug,1
+The Master,Charlie Wilson's War,1
+The Master,The Fighter,1
+The Master,Joker,1
+The Master,Vice,1
+Traffic,21 Grams,1
+21 Grams,The Impossible,1
+Crouching Tiger  Hidden Dragon,Brokeback Mountain,1
+Brokeback Mountain,The Dark Knight,1
+Brokeback Mountain,Blue Valentine,1
+Brokeback Mountain,Manchester by the Sea,1
+Brokeback Mountain,Life of Pi,1
+Michael Clayton,Good Night  and Good Luck.,1
+Michael Clayton,Syriana,1
+Michael Clayton,Up in the Air,1
+Michael Clayton,The Descendants,1
+Bridget Jones's Diary,Chicago,1
+Chicago,Judy,1
+Monster,Bombshell,1
+Bombshell,I  Tonya,1
+Ray,Collateral,1
+Sideways,The Descendants,1
+The Descendants,Good Night  and Good Luck.,1
+The Descendants,Syriana,1
+The Descendants,Up in the Air,1
+Closer,Black Swan,1
+Closer,Jackie,1
+Black Swan,Jackie,1
+Foxcatcher,Spotlight,1
+Blue Valentine,Manchester by the Sea,1
+Manchester by the Sea,The Assassination of Jesse James by the Coward Robert Ford,1
+Good Night  and Good Luck.,Syriana,1
+Good Night  and Good Luck.,Up in the Air,1
+Syriana,Up in the Air,1
+Up in the Air,Juno,1
+Pride & Prejudice,The Imitation Game,1
+Junebug,The Fighter,1
+Junebug,Vice,1
+The Fighter,Frozen River,1
+The Fighter,The Big Short,1
+The Fighter,Vice,3
+Vice,The Big Short,3
+The Constant Gardener,The Favourite,1
+The Favourite,La La Land,1
+Half Nelson,La La Land,1
+Eastern Promises,Green Book,1
+Green Book,Captain Fantastic,1
+Green Book,Moonlight,1
+The Visitor,The Shape of Water,1
+The Shape of Water,The Help,1
+The Shape of Water,Hidden Figures,1
+The Help,Zero Dark Thirty,1
+The Help,Hidden Figures,1
+Rachel Getting Married,Les Misérables,1
+The Hurt Locker,The Town,1
+The Blind Side,Gravity,1
+Gravity,Roma,1
+Winter's Bone,Joy,1
+Bridesmaids,Can You Ever Forgive Me?,1
+The Theory of Everything,The Danish Girl,1

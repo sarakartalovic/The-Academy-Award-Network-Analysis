@@ -1,0 +1,1336 @@
+Source,Target,Weight
+Janet Gaynor,Frank Borzage,1
+Janet Gaynor,Fredric March,1
+Janet Gaynor,William Wellman,1
+Janet Gaynor,James Mason,1
+Janet Gaynor,Judy Garland,1
+Janet Gaynor,Bradley Cooper,1
+Janet Gaynor,Sam Elliott,1
+Janet Gaynor,Lady Gaga,1
+Fredric March,William Wellman,1
+Fredric March,James Mason,1
+Fredric March,Judy Garland,1
+Fredric March,Bradley Cooper,1
+Fredric March,Sam Elliott,1
+Fredric March,Lady Gaga,1
+Fredric March,William Wyler,1
+Fredric March,Harold Russell,1
+Fredric March,Kevin McCarthy,1
+Fredric March,Mildred Dunnock,1
+William Wellman,Claire Trevor,1
+William Wellman,James Mason,1
+William Wellman,Judy Garland,1
+William Wellman,Bradley Cooper,1
+William Wellman,Sam Elliott,1
+William Wellman,Lady Gaga,1
+William Wellman,Jan Sterling,1
+James Mason,Judy Garland,1
+James Mason,Bradley Cooper,1
+James Mason,Sam Elliott,1
+James Mason,Lady Gaga,1
+James Mason,Lynn Redgrave,1
+James Mason,Sidney Lumet,1
+James Mason,Paul Newman,1
+Judy Garland,Spencer Tracy,1
+Judy Garland,Montgomery Clift,1
+Judy Garland,Bradley Cooper,1
+Judy Garland,Sam Elliott,1
+Judy Garland,Lady Gaga,1
+Judy Garland,Stanley Kramer,1
+Judy Garland,Maximilian Schell,1
+Bradley Cooper,Robert De Niro,1
+Bradley Cooper,Amy Adams,1
+Bradley Cooper,Christian Bale,1
+Bradley Cooper,Jennifer Lawrence,3
+Bradley Cooper,Jacki Weaver,1
+Bradley Cooper,David O. Russell,3
+Bradley Cooper,Sam Elliott,1
+Bradley Cooper,Lady Gaga,1
+Gloria Swanson,Billy Wilder,1
+Gloria Swanson,William Holden,1
+Gloria Swanson,Erich von Stroheim,1
+Gloria Swanson,Nancy Olson,1
+Billy Wilder,Charles Laughton,1
+Billy Wilder,Barbara Stanwyck,1
+Billy Wilder,Ray Milland,1
+Billy Wilder,William Holden,3
+Billy Wilder,Erich von Stroheim,1
+Billy Wilder,Nancy Olson,1
+Billy Wilder,Robert Strauss,1
+Billy Wilder,Audrey Hepburn,1
+Billy Wilder,Elsa Lanchester,1
+Billy Wilder,Jack Lemmon,3
+Billy Wilder,Shirley MacLaine,1
+Billy Wilder,Jack Kruschen,1
+William Holden,Erich von Stroheim,1
+William Holden,Nancy Olson,1
+William Holden,Robert Strauss,1
+William Holden,Sidney Lumet,1
+William Holden,Faye Dunaway,1
+William Holden,Peter Finch,1
+William Holden,Ned Beatty,1
+William Holden,Beatrice Straight,1
+Lewis Milestone,Adolphe Menjou,1
+King Vidor,Wallace Beery,1
+King Vidor,Robert Donat,1
+Robert Donat,Greer Garson,1
+Robert Donat,Sam Wood,1
+Robert Donat,Peter O'Toole,1
+Paul Muni,Joseph Schildkraut,1
+Paul Muni,William Dieterle,1
+Lewis Stone,Ernst Lubitsch,1
+Ernst Lubitsch,Warren Beatty,1
+Ernst Lubitsch,Dyan Cannon,1
+Ernst Lubitsch,Jack Warden,1
+Ernst Lubitsch,Warren Beatty,1
+Ruth Chatterton,Lionel Barrymore,1
+Lionel Barrymore,Norma Shearer,1
+Lionel Barrymore,Clarence Brown,1
+Jeanne Eagels,Bette Davis,1
+Jeanne Eagels,William Wyler,1
+Bette Davis,Fay Bainter,1
+Bette Davis,William Wyler,3
+Bette Davis,James Stephenson,1
+Bette Davis,Patricia Collinge,1
+Bette Davis,Teresa Wright,1
+Bette Davis,Gladys Cooper,1
+Bette Davis,Claude Rains,1
+Bette Davis,Anne Baxter,1
+Bette Davis,Celeste Holm,1
+Bette Davis,Joseph L. Mankiewicz,1
+Bette Davis,George Sanders,1
+Bette Davis,Thelma Ritter,1
+Bette Davis,Victor Buono,1
+William Wyler,Walter Huston,1
+William Wyler,Maria Ouspenskaya,1
+William Wyler,Laurence Olivier,1
+William Wyler,Geraldine Fitzgerald,1
+William Wyler,James Stephenson,1
+William Wyler,Patricia Collinge,1
+William Wyler,Teresa Wright,3
+William Wyler,Dame May Whitty,1
+William Wyler,Greer Garson,1
+William Wyler,Walter Pidgeon,1
+William Wyler,Henry Travers,1
+William Wyler,Harold Russell,1
+William Wyler,Olivia de Havilland,1
+William Wyler,Ralph Richardson,1
+William Wyler,Eleanor Parker,1
+William Wyler,Lee Grant,1
+William Wyler,Eddie Albert,1
+William Wyler,Audrey Hepburn,1
+William Wyler,Anthony Perkins,1
+William Wyler,Charlton Heston,1
+William Wyler,Hugh Griffith,1
+William Wyler,Samantha Eggar,1
+Corinne Griffith,Frank Lloyd,1
+Frank Lloyd,Diana Wynyard,1
+Frank Lloyd,Charles Laughton,1
+Frank Lloyd,Clark Gable,1
+Frank Lloyd,Franchot Tone,1
+Norma Shearer,Robert Leonard,1
+Norma Shearer,Clarence Brown,1
+Norma Shearer,Basil Rathbone,1
+Norma Shearer,Franco Zeffirelli,1
+Norma Shearer,Robert Morley,1
+Clarence Brown,Mickey Rooney,1
+Clarence Brown,Anne Revere,1
+Clarence Brown,Gregory Peck,1
+Clarence Brown,Jane Wyman,1
+Charles Laughton,Clark Gable,1
+Charles Laughton,Franchot Tone,1
+Charles Laughton,Elsa Lanchester,1
+Clark Gable,Frank Capra,1
+Clark Gable,Claudette Colbert,1
+Clark Gable,Franchot Tone,1
+Clark Gable,Vivien Leigh,1
+Clark Gable,Olivia de Havilland,1
+Clark Gable,Hattie McDaniel,1
+Clark Gable,Victor Fleming,1
+Warren Beatty,Maureen Stapleton,2
+Warren Beatty,Arthur Penn,1
+Warren Beatty,Gene Hackman,1
+Warren Beatty,Michael J. Pollard,1
+Warren Beatty,Faye Dunaway,1
+Warren Beatty,Estelle Parsons,1
+Warren Beatty,Dyan Cannon,1
+Warren Beatty,Jack Warden,1
+Warren Beatty,Warren Beatty,1
+Warren Beatty,Jack Nicholson,2
+Warren Beatty,Diane Keaton,2
+Warren Beatty,Ben Kingsley,1
+Warren Beatty,Barry Levinson,1
+Warren Beatty,Harvey Keitel,1
+Dyan Cannon,Elliott Gould,1
+Dyan Cannon,Jack Warden,1
+Dyan Cannon,Warren Beatty,1
+Jack Warden,Lee Grant,1
+Jack Warden,Warren Beatty,1
+Ronald Colman,Susan Peters,1
+Ronald Colman,Mervyn LeRoy,1
+Ronald Colman,George Cukor,1
+George Cukor,Katharine Hepburn,1
+George Cukor,Winona Ryder,1
+George Cukor,Saoirse Ronan,1
+George Cukor,Florence Pugh,1
+George Cukor,James Stewart,1
+George Cukor,Ruth Hussey,1
+George Cukor,Judy Holliday,1
+George Cukor,Gladys Cooper,1
+George Cukor,Rex Harrison,1
+George Cukor,Stanley Holloway,1
+Basil Rathbone,Franco Zeffirelli,1
+Anne Revere,Gladys Cooper,1
+Anne Revere,Charles Bickford,1
+Anne Revere,Jennifer Jones,1
+Anne Revere,Henry King,1
+Anne Revere,Gregory Peck,1
+Anne Revere,Dorothy McGuire,1
+Anne Revere,Celeste Holm,1
+Anne Revere,Elia Kazan,1
+Gregory Peck,Jane Wyman,1
+Gregory Peck,Dorothy McGuire,1
+Gregory Peck,Celeste Holm,1
+Gregory Peck,Elia Kazan,1
+Gregory Peck,Dean Jagger,1
+Gregory Peck,Mary Badham,1
+Gregory Peck,Robert Mulligan,1
+Jane Wyman,Agnes Moorehead,1
+Jane Wyman,Charles Bickford,1
+Jane Wyman,Lew Ayres,1
+Jane Wyman,Jean Negulesco,1
+Jane Wyman,Joan Blondell,1
+Jackie Cooper,Norman Taurog,1
+Norman Taurog,Spencer Tracy,1
+Richard Dix,Irene Dunne,1
+Irene Dunne,Wesley Ruggles,1
+Irene Dunne,Ralph Bellamy,1
+Irene Dunne,Leo McCarey,1
+Irene Dunne,Maria Ouspenskaya,1
+Irene Dunne,Oscar Homolka,1
+Irene Dunne,Barbara Bel Geddes,1
+Irene Dunne,Ellen Corby,1
+Kevin McCarthy,Mildred Dunnock,1
+Mildred Dunnock,Carroll Baker,1
+Marlene Dietrich,Josef Von Sternberg,1
+Ralph Bellamy,Leo McCarey,1
+Leo McCarey,Bing Crosby,3
+Leo McCarey,Barry Fitzgerald,2
+Leo McCarey,Ingrid Bergman,1
+Maria Ouspenskaya,Walter Huston,1
+Spencer Tracy,Katharine Hepburn,1
+Spencer Tracy,W. S. Van Dyke,1
+Spencer Tracy,John Sturges,1
+Spencer Tracy,Montgomery Clift,1
+Spencer Tracy,Stanley Kramer,3
+Spencer Tracy,Maximilian Schell,1
+Spencer Tracy,Cecil Kellaway,1
+Spencer Tracy,Beah Richards,1
+Helen Hayes,Maureen Stapleton,1
+Maureen Stapleton,Geraldine Page,1
+Maureen Stapleton,Woody Allen,1
+Maureen Stapleton,Jack Nicholson,1
+Maureen Stapleton,Diane Keaton,1
+Leslie Howard,Wendy Hiller,1
+Wendy Hiller,Deborah Kerr,1
+Wendy Hiller,David Niven,1
+Wendy Hiller,Fred Zinnemann,1
+Wendy Hiller,Paul Scofield,1
+Wendy Hiller,Robert Shaw,1
+Elsa Lanchester,Loretta Young,1
+Elsa Lanchester,Celeste Holm,1
+Katharine Hepburn,James Stewart,1
+Katharine Hepburn,Ruth Hussey,1
+Katharine Hepburn,Humphrey Bogart,1
+Katharine Hepburn,John Huston,1
+Katharine Hepburn,David Lean,1
+Katharine Hepburn,Elizabeth Taylor,1
+Katharine Hepburn,Cecil Kellaway,1
+Katharine Hepburn,Stanley Kramer,1
+Katharine Hepburn,Beah Richards,1
+Katharine Hepburn,Peter O'Toole,1
+Katharine Hepburn,Anthony Harvey,1
+Katharine Hepburn,Henry Fonda,1
+Katharine Hepburn,Jane Fonda,1
+Katharine Hepburn,Mark Rydell,1
+James Stewart,Frank Capra,3
+James Stewart,Harry Carey,1
+James Stewart,Claude Rains,1
+James Stewart,Ruth Hussey,1
+James Stewart,Josephine Hull,1
+James Stewart,Arthur O'Connell,1
+James Stewart,George C. Scott,1
+Humphrey Bogart,Michael Curtiz,1
+Humphrey Bogart,Claude Rains,1
+Humphrey Bogart,John Huston,1
+Humphrey Bogart,Tom Tully,1
+John Huston,Walter Huston,1
+John Huston,Otto Preminger,1
+John Huston,José Ferrer,1
+John Huston,Sam Jaffe,1
+John Huston,Colette Marchand,1
+John Huston,Nicole Kidman,1
+John Huston,Jack Nicholson,1
+John Huston,William Hickey,1
+John Huston,Anjelica Huston,1
+David Lean,Celia Johnson,1
+David Lean,Alec Guinness,1
+David Lean,Sessue Hayakawa,1
+David Lean,Peter O'Toole,1
+David Lean,Omar Sharif,1
+David Lean,Tom Courtenay,1
+David Lean,Judy Davis,1
+David Lean,Peggy Ashcroft,1
+Elizabeth Taylor,Richard Burton,1
+Elizabeth Taylor,Paul Newman,1
+Elizabeth Taylor,Richard Brooks,1
+Elizabeth Taylor,George Segal,1
+Elizabeth Taylor,Sandy Dennis,1
+Elizabeth Taylor,Mike Nichols,1
+Cecil Kellaway,Stanley Kramer,1
+Cecil Kellaway,Beah Richards,1
+Stanley Kramer,Montgomery Clift,1
+Stanley Kramer,Tony Curtis,1
+Stanley Kramer,Sidney Poitier,1
+Stanley Kramer,Theodore Bikel,1
+Stanley Kramer,Cara Williams,1
+Stanley Kramer,Maximilian Schell,1
+Stanley Kramer,Beah Richards,1
+Peter O'Toole,Greer Garson,1
+Peter O'Toole,Sam Wood,1
+Peter O'Toole,Richard Burton,1
+Peter O'Toole,Omar Sharif,1
+Peter O'Toole,John Gielgud,1
+Peter O'Toole,Peter Glenville,1
+Peter O'Toole,Anthony Harvey,1
+Peter O'Toole,Richard Rush,1
+Henry Fonda,John Ford,1
+Henry Fonda,Jane Darwell,1
+Henry Fonda,Jane Fonda,1
+Henry Fonda,Mark Rydell,1
+Jane Fonda,Fred Zinnemann,1
+Jane Fonda,Gig Young,1
+Jane Fonda,Jack Lemmon,1
+Jane Fonda,Maximilian Schell,1
+Jane Fonda,Vanessa Redgrave,1
+Jane Fonda,Jon Voight,1
+Jane Fonda,Susannah York,1
+Jane Fonda,Sydney Pollack,1
+Jane Fonda,Jason Robards,1
+Jane Fonda,Bruce Dern,1
+Jane Fonda,Penelope Milford,1
+Jane Fonda,Hal Ashby,1
+Jane Fonda,Mark Rydell,1
+May Robson,Frank Capra,1
+Frank Capra,Claudette Colbert,1
+Frank Capra,Gary Cooper,1
+Frank Capra,Spring Byington,1
+Frank Capra,Harry Carey,1
+Frank Capra,Claude Rains,1
+Claudette Colbert,Monty Woolley,1
+Claudette Colbert,Jennifer Jones,1
+Gary Cooper,Walter Brennan,1
+Gary Cooper,Margaret Wycherly,1
+Gary Cooper,Howard Hawks,1
+Gary Cooper,Teresa Wright,1
+Gary Cooper,Akim Tamiroff,1
+Gary Cooper,Ingrid Bergman,1
+Gary Cooper,Katina Paxinou,1
+Gary Cooper,Fred Zinnemann,1
+Harry Carey,Claude Rains,1
+Claude Rains,Michael Curtiz,1
+Winona Ryder,Saoirse Ronan,1
+Winona Ryder,Florence Pugh,1
+Saoirse Ronan,Laurie Metcalf,1
+Saoirse Ronan,Greta Gerwig,1
+Saoirse Ronan,Florence Pugh,1
+Gladys Cooper,Charles Bickford,1
+Gladys Cooper,Jennifer Jones,1
+Gladys Cooper,Henry King,1
+Gladys Cooper,Rex Harrison,1
+Gladys Cooper,Stanley Holloway,1
+Rex Harrison,Stanley Holloway,1
+Vivien Leigh,Olivia de Havilland,1
+Vivien Leigh,Hattie McDaniel,1
+Vivien Leigh,Victor Fleming,1
+Vivien Leigh,Elia Kazan,1
+Vivien Leigh,Marlon Brando,1
+Vivien Leigh,Karl Malden,1
+Vivien Leigh,Kim Hunter,1
+Olivia de Havilland,Hattie McDaniel,1
+Olivia de Havilland,Victor Fleming,1
+Olivia de Havilland,Anatole Litvak,1
+Olivia de Havilland,Ralph Richardson,1
+William Powell,W. S. Van Dyke,1
+William Powell,Mischa Auer,1
+William Powell,Carole Lombard,1
+William Powell,Alice Brady,1
+William Powell,Gregory La Cava,1
+Mischa Auer,Alice Brady,1
+Mischa Auer,Gregory La Cava,1
+Carole Lombard,Alice Brady,1
+Carole Lombard,Gregory La Cava,1
+Alice Brady,Gregory La Cava,1
+Gregory La Cava,Andrea Leeds,1
+Monty Woolley,Jennifer Jones,1
+Jennifer Jones,Charles Bickford,1
+Jennifer Jones,Henry King,1
+Jennifer Jones,Lillian Gish,1
+Patricia Collinge,Teresa Wright,1
+Teresa Wright,Dame May Whitty,1
+Teresa Wright,Greer Garson,1
+Teresa Wright,Walter Pidgeon,1
+Teresa Wright,Henry Travers,1
+Anne Baxter,Clifton Webb,1
+Anne Baxter,Celeste Holm,1
+Anne Baxter,Joseph L. Mankiewicz,1
+Anne Baxter,George Sanders,1
+Anne Baxter,Thelma Ritter,1
+Celeste Holm,Dorothy McGuire,1
+Celeste Holm,Loretta Young,1
+Celeste Holm,Elia Kazan,1
+Celeste Holm,Joseph L. Mankiewicz,1
+Celeste Holm,George Sanders,1
+Celeste Holm,Thelma Ritter,1
+Joseph L. Mankiewicz,Laurence Olivier,1
+Joseph L. Mankiewicz,George Sanders,1
+Joseph L. Mankiewicz,Thelma Ritter,1
+Joseph L. Mankiewicz,Michael Caine,1
+George Sanders,Thelma Ritter,1
+Thelma Ritter,Susan Hayward,1
+Thelma Ritter,Doris Day,1
+Thelma Ritter,Burt Lancaster,1
+Thelma Ritter,Telly Savalas,1
+Victor McLaglen,John Ford,3
+John Ford,Thomas Mitchell,1
+John Ford,Jane Darwell,1
+John Ford,Donald Crisp,1
+John Ford,Sara Allgood,1
+Michael Curtiz,James Cagney,3
+Michael Curtiz,John Garfield,1
+Michael Curtiz,Walter Huston,1
+James Cagney,Walter Huston,1
+Thomas Mitchell,Denzel Washington,1
+Walter Brennan,Margaret Wycherly,1
+Walter Brennan,Howard Hawks,1
+Akim Tamiroff,Ingrid Bergman,1
+Akim Tamiroff,Katina Paxinou,1
+Ingrid Bergman,Charles Boyer,1
+Ingrid Bergman,Katina Paxinou,1
+Ingrid Bergman,Angela Lansbury,1
+Ingrid Bergman,Bing Crosby,1
+Ingrid Bergman,José Ferrer,1
+Ingrid Bergman,Albert Finney,1
+Fred Zinnemann,Montgomery Clift,3
+Fred Zinnemann,Deborah Kerr,3
+Fred Zinnemann,Burt Lancaster,1
+Fred Zinnemann,Frank Sinatra,1
+Fred Zinnemann,Donna Reed,1
+Fred Zinnemann,Audrey Hepburn,1
+Fred Zinnemann,Glynis Johns,1
+Fred Zinnemann,Paul Scofield,1
+Fred Zinnemann,Robert Shaw,1
+Fred Zinnemann,Maximilian Schell,1
+Fred Zinnemann,Vanessa Redgrave,1
+Fred Zinnemann,Jason Robards,1
+Montgomery Clift,George Stevens,1
+Montgomery Clift,Shelley Winters,1
+Montgomery Clift,Deborah Kerr,1
+Montgomery Clift,Burt Lancaster,1
+Montgomery Clift,Frank Sinatra,1
+Montgomery Clift,Donna Reed,1
+Montgomery Clift,Maximilian Schell,1
+Maximilian Schell,Vanessa Redgrave,1
+Maximilian Schell,Jason Robards,1
+Luise Rainer,Robert Z. Leonard,1
+Luise Rainer,Sidney Franklin,1
+Laurence Olivier,Geraldine Fitzgerald,1
+Laurence Olivier,Joan Fontaine,1
+Laurence Olivier,Judith Anderson,1
+Laurence Olivier,Alfred Hitchcock,1
+Laurence Olivier,Kenneth Branagh,2
+Laurence Olivier,Jean Simmons,2
+Laurence Olivier,Joyce Redman,1
+Laurence Olivier,Frank Finlay,1
+Laurence Olivier,Maggie Smith,1
+Laurence Olivier,Michael Caine,1
+Dame May Whitty,Robert Montgomery,1
+Dame May Whitty,Greer Garson,1
+Dame May Whitty,Walter Pidgeon,1
+Dame May Whitty,Henry Travers,1
+Greer Garson,Sam Wood,1
+Greer Garson,Walter Pidgeon,3
+Greer Garson,Henry Travers,1
+Greer Garson,Agnes Moorehead,1
+Walter Pidgeon,Henry Travers,1
+Eleanor Parker,Hope Emerson,1
+Eleanor Parker,Lee Grant,1
+Eddie Albert,Audrey Hepburn,1
+Eddie Albert,Jeannie Berlin,1
+Charlton Heston,Hugh Griffith,1
+Hugh Griffith,Albert Finney,1
+Hugh Griffith,Diane Cilento,1
+Hugh Griffith,Dame Edith Evans,1
+Hugh Griffith,Joyce Redman,1
+Hugh Griffith,Tony Richardson,1
+Charles Boyer,Gene Lockhart,1
+Charles Boyer,Angela Lansbury,1
+Robert Montgomery,James Gleason,1
+Robert Montgomery,Alexander Hall,1
+Denzel Washington,Ethan Hawke,1
+Denzel Washington,Viola Davis,1
+Barbara Stanwyck,Anne Shirley,1
+Claire Trevor,Jan Sterling,1
+Bing Crosby,Barry Fitzgerald,2
+Bing Crosby,Grace Kelly,1
+Bing Crosby,George Seaton,1
+Sam Wood,Ginger Rogers,1
+Deborah Kerr,Burt Lancaster,1
+Deborah Kerr,Frank Sinatra,1
+Deborah Kerr,Donna Reed,1
+Deborah Kerr,Yul Brynner,1
+Deborah Kerr,Walter Lang,1
+Deborah Kerr,David Niven,1
+Deborah Kerr,Glynis Johns,1
+Paul Scofield,Robert Shaw,1
+Paul Scofield,Robert Redford,1
+Joan Fontaine,Judith Anderson,1
+Joan Fontaine,Alfred Hitchcock,1
+Judith Anderson,Alfred Hitchcock,1
+Alfred Hitchcock,Michael Chekhov,1
+Alfred Hitchcock,Janet Leigh,1
+Kenneth Branagh,Michelle Williams,1
+Joyce Redman,Albert Finney,1
+Joyce Redman,Diane Cilento,1
+Joyce Redman,Dame Edith Evans,1
+Joyce Redman,Tony Richardson,1
+Joyce Redman,Frank Finlay,1
+Joyce Redman,Maggie Smith,1
+Frank Finlay,Maggie Smith,1
+Maggie Smith,Denholm Elliott,1
+Maggie Smith,James Ivory,1
+Maggie Smith,Robert Altman,1
+Maggie Smith,Helen Mirren,1
+Michael Caine,Vivien Merchant,1
+Michael Caine,Julie Walters,1
+Michael Caine,Woody Allen,1
+Michael Caine,Dianne Wiest,1
+Michael Caine,Lasse Hallström,1
+Arthur O'Connell,Joshua Logan,1
+Arthur O'Connell,George C. Scott,1
+George C. Scott,Robert Rossen,1
+George C. Scott,Paul Newman,1
+George C. Scott,Jackie Gleason,1
+George C. Scott,Piper Laurie,1
+George C. Scott,Franklin J. Schaffner,1
+Agnes Moorehead,Charles Bickford,1
+Agnes Moorehead,Lew Ayres,1
+Agnes Moorehead,Jean Negulesco,1
+Elia Kazan,Dorothy McGuire,1
+Elia Kazan,Marlon Brando,3
+Elia Kazan,Karl Malden,3
+Elia Kazan,Kim Hunter,1
+Elia Kazan,Lee J. Cobb,1
+Elia Kazan,Rod Steiger,1
+Elia Kazan,Eva Marie Saint,1
+Elia Kazan,James Dean,1
+Elia Kazan,Jo Van Fleet,1
+Marlon Brando,Karl Malden,3
+Marlon Brando,Kim Hunter,1
+Marlon Brando,Anthony Quinn,1
+Marlon Brando,Lee J. Cobb,1
+Marlon Brando,Rod Steiger,1
+Marlon Brando,Eva Marie Saint,1
+Marlon Brando,Joshua Logan,1
+Marlon Brando,Red Buttons,1
+Marlon Brando,Miyoshi Umeki,1
+Marlon Brando,James Caan,1
+Marlon Brando,Robert Duvall,1
+Marlon Brando,Al Pacino,1
+Marlon Brando,Francis Ford Coppola,1
+Marlon Brando,Bernardo Bertolucci,1
+Karl Malden,Kim Hunter,1
+Karl Malden,Lee J. Cobb,1
+Karl Malden,Rod Steiger,1
+Karl Malden,Eva Marie Saint,1
+Cary Grant,Ethel Barrymore,1
+Ethel Barrymore,Jeanne Crain,1
+Ethel Barrymore,Ethel Waters,1
+Charles Coburn,Jean Arthur,1
+Charles Coburn,George Stevens,1
+Jean Arthur,George Stevens,1
+George Stevens,Shelley Winters,3
+George Stevens,Jack Palance,1
+George Stevens,Brandon De Wilde,1
+George Stevens,Mercedes McCambridge,1
+George Stevens,James Dean,1
+George Stevens,Rock Hudson,1
+George Stevens,Ed Wynn,1
+Rosalind Russell,Michael Redgrave,1
+Rosalind Russell,Peggy Cass,1
+Charles Bickford,Henry King,1
+Charles Bickford,Loretta Young,1
+Charles Bickford,Lew Ayres,1
+Charles Bickford,Jean Negulesco,1
+Henry King,Alexander Knox,1
+José Ferrer,Gerard Depardieu,1
+José Ferrer,Colette Marchand,1
+José Ferrer,Nicole Kidman,1
+Albert Finney,Diane Cilento,1
+Albert Finney,Dame Edith Evans,1
+Albert Finney,Tony Richardson,1
+Albert Finney,Tom Courtenay,1
+Albert Finney,Peter Yates,1
+Albert Finney,Julia Roberts,1
+Albert Finney,Steven Soderbergh,1
+Shelley Winters,Ed Wynn,1
+Shelley Winters,Elizabeth Hartman,1
+Jack Palance,Joan Crawford,1
+Jack Palance,Brandon De Wilde,1
+Mercedes McCambridge,Broderick Crawford,1
+Mercedes McCambridge,John Ireland,1
+Mercedes McCambridge,Robert Rossen,1
+Mercedes McCambridge,James Dean,1
+Mercedes McCambridge,Rock Hudson,1
+James Dean,Jo Van Fleet,1
+James Dean,Rock Hudson,1
+Grace Kelly,Ava Gardner,1
+Grace Kelly,George Seaton,1
+Clifton Webb,Otto Preminger,1
+Jack Lemmon,Shirley MacLaine,1
+Jack Lemmon,Jack Kruschen,1
+Jack Lemmon,Lee Remick,1
+Jack Lemmon,Jack Gilford,1
+Jack Lemmon,Sissy Spacek,1
+Shirley MacLaine,Arthur Kennedy,1
+Shirley MacLaine,Martha Hyer,1
+Shirley MacLaine,Jack Kruschen,1
+Shirley MacLaine,Anne Bancroft,1
+Shirley MacLaine,Mikhail Baryshnikov,1
+Shirley MacLaine,Leslie Browne,1
+Shirley MacLaine,Herbert Ross,1
+Shirley MacLaine,Jack Nicholson,1
+Shirley MacLaine,John Lithgow,1
+Shirley MacLaine,Debra Winger,1
+Shirley MacLaine,James L. Brooks,1
+Joan Crawford,Eve Arden,1
+Joan Crawford,Ann Blyth,1
+Alec Guinness,Sessue Hayakawa,1
+Alec Guinness,George Lucas,1
+Tom Courtenay,Peter Yates,1
+Judy Davis,Peggy Ashcroft,1
+Robert Ryan,Gloria Grahame,1
+Gloria Grahame,Edward Dmytryk,1
+Gloria Grahame,Kirk Douglas,1
+Susan Hayward,Robert Wise,1
+Robert Wise,Julie Andrews,1
+Robert Wise,Peggy Wood,1
+Kirk Douglas,Arthur Kennedy,1
+Kirk Douglas,Anthony Quinn,1
+Lee J. Cobb,Rod Steiger,1
+Lee J. Cobb,Eva Marie Saint,1
+Rod Steiger,Eva Marie Saint,1
+Rod Steiger,Norman Jewison,1
+Burt Lancaster,Frank Sinatra,1
+Burt Lancaster,Donna Reed,1
+Burt Lancaster,Shirley Jones,1
+Burt Lancaster,Telly Savalas,1
+Burt Lancaster,Susan Sarandon,1
+Burt Lancaster,Louis Malle,1
+Frank Sinatra,Donna Reed,1
+Colette Marchand,Nicole Kidman,1
+Nicole Kidman,Ed Harris,1
+Nicole Kidman,Julianne Moore,1
+Nicole Kidman,Stephen Daldry,1
+Nicole Kidman,Dev Patel,1
+Vanessa Redgrave,Jason Robards,1
+Vanessa Redgrave,James Ivory,1
+Vanessa Redgrave,Emma Thompson,1
+Jason Robards,Jane Alexander,1
+Jason Robards,Alan J. Pakula,1
+Jason Robards,Mary Steenburgen,1
+Jack Nicholson,Faye Dunaway,1
+Jack Nicholson,Karen Black,1
+Jack Nicholson,Randy Quaid,1
+Jack Nicholson,Roman Polanski,1
+Jack Nicholson,Brad Dourif,1
+Jack Nicholson,Louise Fletcher,1
+Jack Nicholson,Milos Forman,1
+Jack Nicholson,Diane Keaton,1
+Jack Nicholson,John Lithgow,1
+Jack Nicholson,Debra Winger,1
+Jack Nicholson,James L. Brooks,1
+Jack Nicholson,William Hickey,1
+Jack Nicholson,Anjelica Huston,1
+Jack Nicholson,Meryl Streep,1
+Jack Nicholson,Greg Kinnear,1
+Jack Nicholson,Helen Hunt,1
+Jack Nicholson,Kathy Bates,1
+William Hickey,Anjelica Huston,1
+Anjelica Huston,Lena Olin,1
+Anjelica Huston,Annette Bening,1
+Anjelica Huston,Stephen Frears,1
+Broderick Crawford,Robert Rossen,1
+Robert Rossen,John Ireland,1
+Robert Rossen,Paul Newman,1
+Robert Rossen,Jackie Gleason,1
+Robert Rossen,Piper Laurie,1
+Arthur Kennedy,Russ Tamblyn,1
+Arthur Kennedy,Lana Turner,1
+Arthur Kennedy,Hope Lange,1
+Arthur Kennedy,Diane Varsi,1
+Arthur Kennedy,Mark Robson,1
+Arthur Kennedy,Martha Hyer,1
+Anthony Quinn,Anna Magnani,1
+Anthony Quinn,Lila Kedrova,1
+Anthony Quinn,Michael Cacoyannis,1
+John Wayne,Jeff Bridges,1
+John Wayne,Joel Coen and Ethan Coen,1
+John Wayne,Hailee Steinfeld,1
+Jeff Bridges,Ben Johnson,1
+Jeff Bridges,Ellen Burstyn,1
+Jeff Bridges,Cloris Leachman,1
+Jeff Bridges,Peter Bogdanovich,1
+Jeff Bridges,Joan Allen,1
+Jeff Bridges,Maggie Gyllenhaal,1
+Jeff Bridges,Joel Coen and Ethan Coen,1
+Jeff Bridges,Hailee Steinfeld,1
+Joel Coen and Ethan Coen,Javier Bardem,1
+Joel Coen and Ethan Coen,Hailee Steinfeld,1
+Russ Tamblyn,Mark Robson,1
+Lana Turner,Mark Robson,1
+Hope Lange,Mark Robson,1
+Diane Varsi,Mark Robson,1
+James Whitmore,William A. Wellman,1
+Paul Newman,Sidney Lumet,1
+Paul Newman,Richard Brooks,1
+Paul Newman,Jackie Gleason,1
+Paul Newman,Piper Laurie,1
+Paul Newman,Melvyn Douglas,1
+Paul Newman,Patricia Neal,1
+Paul Newman,Martin Ritt,1
+Paul Newman,George Kennedy,1
+Paul Newman,Melinda Dillon,1
+Paul Newman,Mary Elizabeth Mastrantonio,1
+Jackie Gleason,Piper Laurie,1
+Piper Laurie,Sissy Spacek,1
+Piper Laurie,William Hurt,1
+Piper Laurie,Marlee Matlin,1
+Carol Reed,Ron Moody,1
+Carol Reed,Jack Wild,1
+Sidney Lumet,Al Pacino,1
+Sidney Lumet,Chris Sarandon,1
+Sidney Lumet,Faye Dunaway,1
+Sidney Lumet,Peter Finch,1
+Sidney Lumet,Ned Beatty,1
+Sidney Lumet,Beatrice Straight,1
+Faye Dunaway,Arthur Penn,1
+Faye Dunaway,Gene Hackman,1
+Faye Dunaway,Michael J. Pollard,1
+Faye Dunaway,Estelle Parsons,1
+Faye Dunaway,Roman Polanski,1
+Faye Dunaway,Peter Finch,1
+Faye Dunaway,Ned Beatty,1
+Faye Dunaway,Beatrice Straight,1
+Peter Finch,John Schlesinger,1
+Peter Finch,Glenda Jackson,1
+Peter Finch,Ned Beatty,1
+Peter Finch,Beatrice Straight,1
+Joshua Logan,Red Buttons,1
+Joshua Logan,Miyoshi Umeki,1
+James Caan,Robert Duvall,1
+James Caan,Al Pacino,1
+James Caan,Francis Ford Coppola,1
+Robert Duvall,Al Pacino,1
+Robert Duvall,Francis Ford Coppola,1
+Robert Duvall,Francis Coppola,1
+Robert Duvall,Michael O'Keefe,1
+Robert Duvall,Bruce Beresford,1
+Al Pacino,Francis Ford Coppola,3
+Al Pacino,Robert De Niro,1
+Al Pacino,Michael V. Gazzo,1
+Al Pacino,Lee Strasberg,1
+Al Pacino,Talia Shire,1
+Al Pacino,Chris Sarandon,1
+Al Pacino,Martin Brest,1
+Al Pacino,Joe Pesci,1
+Al Pacino,Martin Scorsese,1
+Francis Ford Coppola,Robert De Niro,1
+Francis Ford Coppola,Michael V. Gazzo,1
+Francis Ford Coppola,Lee Strasberg,1
+Francis Ford Coppola,Talia Shire,1
+Francis Ford Coppola,Andy Garcia,1
+Leo Genn,Peter Ustinov,1
+Gig Young,Susannah York,1
+Gig Young,Sydney Pollack,1
+Susannah York,Sydney Pollack,1
+Sydney Pollack,Dustin Hoffman,1
+Sydney Pollack,Jessica Lange,1
+Sydney Pollack,Teri Garr,1
+Sydney Pollack,Meryl Streep,1
+Sydney Pollack,Klaus Maria Brandauer,1
+George Lucas,Candy Clark,1
+Richard Burton,John Gielgud,1
+Richard Burton,Peter Glenville,1
+Richard Burton,George Segal,1
+Richard Burton,Sandy Dennis,1
+Richard Burton,Mike Nichols,1
+Richard Burton,Anthony Quayle,1
+Richard Burton,Genevieve Bujold,1
+Richard Burton,Peter Firth,1
+John Gielgud,Peter Glenville,1
+John Gielgud,Dudley Moore,1
+George Segal,Mike Nichols,1
+Sandy Dennis,Mike Nichols,1
+Mike Nichols,Anne Bancroft,1
+Mike Nichols,Dustin Hoffman,1
+Mike Nichols,Katharine Ross,1
+Mike Nichols,Meryl Streep,1
+Mike Nichols,Cher,1
+Mike Nichols,Sigourney Weaver,1
+Mike Nichols,Melanie Griffith,1
+Mike Nichols,Joan Cusack,1
+Anna Magnani,Marisa Pavan,1
+Susan Sarandon,Louis Malle,1
+Susan Sarandon,Geena Davis,1
+Susan Sarandon,Ridley Scott,1
+Susan Sarandon,Sean Penn,1
+Susan Sarandon,Tim Robbins,1
+Leslie Caron,Charles Walters,1
+Geraldine Page,Una Merkel,1
+Geraldine Page,Shirley Knight,1
+Geraldine Page,Ed Begley,1
+Geraldine Page,Woody Allen,1
+Shirley Knight,Ed Begley,1
+Woody Allen,Diane Keaton,2
+Woody Allen,Dianne Wiest,3
+Woody Allen,Martin Landau,1
+Woody Allen,Chazz Palminteri,1
+Woody Allen,Jennifer Tilly,1
+Lynn Redgrave,Ian McKellen,1
+Norman Jewison,Topol,1
+Norman Jewison,Leonard Frey,1
+Norman Jewison,Vincent Gardenia,1
+Norman Jewison,Cher,1
+Norman Jewison,Olympia Dukakis,1
+Sissy Spacek,Tess Harper,1
+Sissy Spacek,Marisa Tomei,1
+Sissy Spacek,Tom Wilkinson,1
+Sal Mineo,Natalie Wood,1
+Nancy Kelly,Eileen Heckart,1
+Eileen Heckart,Patty McCormack,1
+Joanne Woodward,Estelle Parsons,1
+Joanne Woodward,Sylvia Sidney,1
+Estelle Parsons,Arthur Penn,1
+Estelle Parsons,Gene Hackman,1
+Estelle Parsons,Michael J. Pollard,1
+Tony Curtis,Sidney Poitier,1
+Sidney Poitier,Theodore Bikel,1
+Sidney Poitier,Cara Williams,1
+Sidney Poitier,Lilia Skala,1
+Melvyn Douglas,Patricia Neal,1
+Melvyn Douglas,Martin Ritt,1
+Melvyn Douglas,Gene Hackman,1
+Melvyn Douglas,Peter Sellers,1
+Patricia Neal,Martin Ritt,1
+Patricia Neal,Jack Albertson,1
+Melinda Dillon,Steven Spielberg,1
+Anne Bancroft,Patty Duke,1
+Anne Bancroft,Arthur Penn,1
+Anne Bancroft,Dustin Hoffman,1
+Anne Bancroft,Katharine Ross,1
+Anne Bancroft,Mikhail Baryshnikov,1
+Anne Bancroft,Leslie Browne,1
+Anne Bancroft,Herbert Ross,1
+Anne Bancroft,Meg Tilly,1
+John Lithgow,Glenn Close,1
+John Lithgow,Debra Winger,1
+John Lithgow,James L. Brooks,1
+Debra Winger,Louis Gossett,1
+Debra Winger,James L. Brooks,1
+Julie Andrews,Robert Stevenson,1
+Julie Andrews,Peggy Wood,1
+Julie Andrews,Robert Preston,1
+Julie Andrews,Lesley Ann Warren,1
+Laurence Harvey,Simone Signoret,1
+Simone Signoret,Hermione Baddeley,1
+Simone Signoret,Jack Clayton,1
+Simone Signoret,Oskar Werner,1
+Simone Signoret,Michael Dunn,1
+Diane Cilento,Dame Edith Evans,1
+Dame Edith Evans,Tony Richardson,1
+William Hurt,Hector Babenco,1
+William Hurt,Marlee Matlin,1
+William Hurt,Albert Brooks,1
+William Hurt,Holly Hunter,1
+Marcello Mastroianni,Pietro Germi,1
+Patty Duke,Arthur Penn,1
+Arthur Penn,Gene Hackman,1
+Arthur Penn,Michael J. Pollard,1
+Dustin Hoffman,John Schlesinger,1
+Dustin Hoffman,Katharine Ross,1
+Dustin Hoffman,Jon Voight,1
+Dustin Hoffman,Sylvia Miles,1
+Dustin Hoffman,Bob Fosse,1
+Dustin Hoffman,Valerie Perrine,1
+Dustin Hoffman,Jane Alexander,1
+Dustin Hoffman,Meryl Streep,1
+Dustin Hoffman,Justin Henry,1
+Dustin Hoffman,Robert Benton,1
+Dustin Hoffman,Jessica Lange,1
+Dustin Hoffman,Teri Garr,1
+Dustin Hoffman,Barry Levinson,1
+Gene Hackman,Michael J. Pollard,1
+Gene Hackman,Roy Scheider,1
+Gene Hackman,William Friedkin,1
+Gene Hackman,Alan Parker,1
+Gene Hackman,Frances McDormand,1
+Gene Hackman,Clint Eastwood,2
+Peter Yates,Barbara Barrie,1
+Julia Roberts,Meryl Streep,1
+Julia Roberts,Steven Soderbergh,1
+Steven Soderbergh,Benicio Del Toro,1
+Richard Harris,Rachel Roberts,1
+Peter Sellers,Stanley Kubrick,1
+Kim Stanley,Jessica Lange,1
+Jessica Lange,Teri Garr,1
+Julie Christie,John Schlesinger,1
+John Schlesinger,Jon Voight,1
+John Schlesinger,Sylvia Miles,1
+John Schlesinger,Glenda Jackson,1
+Denholm Elliott,James Ivory,1
+James Ivory,Emma Thompson,3
+James Ivory,Anthony Hopkins,1
+Robert Altman,Sally Kellerman,1
+Robert Altman,Ronee Blakley,1
+Robert Altman,Lily Tomlin,1
+Robert Altman,Helen Mirren,1
+Helen Mirren,Stephen Frears,1
+Helen Mirren,Nigel Hawthorne,1
+Helen Mirren,Christopher Plummer,1
+Jon Voight,Sylvia Miles,1
+Jon Voight,Bruce Dern,1
+Jon Voight,Penelope Milford,1
+Jon Voight,Hal Ashby,1
+Jon Voight,Eric Roberts,1
+Jon Voight,Will Smith,1
+Glenda Jackson,Ken Russell,1
+Alan Arkin,Sondra Locke,1
+Alan Arkin,Abigail Breslin,1
+Julie Walters,Stephen Daldry,1
+Dianne Wiest,Chazz Palminteri,1
+Dianne Wiest,Jennifer Tilly,1
+Steve McQueen,Mako,1
+Steve McQueen,Chiwetel Ejiofor,1
+Steve McQueen,Michael Fassbender,1
+Steve McQueen,Lupita Nyong'o,1
+Chiwetel Ejiofor,Michael Fassbender,1
+Michael Fassbender,Kate Winslet,1
+Michael Fassbender,Lupita Nyong'o,1
+Robert Redford,George Roy Hill,1
+Robert Redford,Judd Hirsch,1
+Robert Redford,Timothy Hutton,1
+Robert Redford,Mary Tyler Moore,1
+Walter Matthau,George Burns,1
+Ian McKellen,Peter Jackson,1
+Emma Thompson,Jim Sheridan,1
+Emma Thompson,Anthony Hopkins,1
+Emma Thompson,Daniel Day-Lewis,1
+Emma Thompson,Pete Postlethwaite,1
+Emma Thompson,Kate Winslet,1
+Meryl Streep,Jane Alexander,1
+Meryl Streep,Robert De Niro,1
+Meryl Streep,Christopher Walken,1
+Meryl Streep,Michael Cimino,1
+Meryl Streep,Justin Henry,1
+Meryl Streep,Robert Benton,1
+Meryl Streep,Cher,1
+Meryl Streep,Klaus Maria Brandauer,1
+Meryl Streep,Nicolas Cage,1
+Meryl Streep,Chris Cooper,1
+Meryl Streep,Philip Seymour Hoffman,1
+Meryl Streep,Amy Adams,1
+Meryl Streep,Viola Davis,1
+Cher,Vincent Gardenia,1
+Cher,Olympia Dukakis,1
+Sigourney Weaver,Melanie Griffith,1
+Sigourney Weaver,Joan Cusack,1
+Melanie Griffith,Joan Cusack,1
+Ben Kingsley,Richard Attenborough,1
+Ben Kingsley,Barry Levinson,1
+Ben Kingsley,Harvey Keitel,1
+Ben Kingsley,Shohreh Aghdashloo,1
+Barry Levinson,Harvey Keitel,1
+Bob Fosse,Liza Minnelli,1
+Bob Fosse,Roy Scheider,1
+Bob Fosse,Joel Grey,1
+Bob Fosse,Valerie Perrine,1
+Jane Alexander,James Earl Jones,1
+Jane Alexander,Alan J. Pakula,1
+Jane Alexander,Justin Henry,1
+Jane Alexander,Robert Benton,1
+Justin Henry,Robert Benton,1
+Robert Benton,Sally Field,1
+Robert Benton,John Malkovich,1
+Robert Benton,Lindsay Crouse,1
+John Cassavetes,Gena Rowlands,1
+Roy Scheider,William Friedkin,1
+William Friedkin,Ellen Burstyn,1
+William Friedkin,Jason Miller,1
+William Friedkin,Linda Blair,1
+Alan Parker,John Hurt,1
+Alan Parker,Frances McDormand,1
+Frances McDormand,William H. Macy,1
+Frances McDormand,Joel Coen,1
+Frances McDormand,Kate Hudson,1
+Frances McDormand,Charlize Theron,1
+Frances McDormand,Woody Harrelson,1
+Frances McDormand,Sam Rockwell,1
+Clint Eastwood,Morgan Freeman,2
+Clint Eastwood,Sean Penn,1
+Clint Eastwood,Tim Robbins,1
+Clint Eastwood,Marcia Gay Harden,1
+Clint Eastwood,Hilary Swank,2
+Roman Polanski,Adrien Brody,1
+Vincent Gardenia,Olympia Dukakis,1
+Barbra Streisand,Kay Medford,1
+Bruce Dern,Penelope Milford,1
+Bruce Dern,Hal Ashby,1
+Bruce Dern,Alexander Payne,1
+Bruce Dern,June Squibb,1
+Brad Dourif,Milos Forman,1
+Louise Fletcher,Milos Forman,1
+Milos Forman,F. Murray Abraham,1
+Milos Forman,Tom Hulce,1
+Milos Forman,Woody Harrelson,1
+Greg Kinnear,Helen Hunt,1
+Liza Minnelli,Joel Grey,1
+Goldie Hawn,Eileen Brennan,1
+Ben Johnson,Ellen Burstyn,1
+Ellen Burstyn,Cloris Leachman,1
+Ellen Burstyn,Peter Bogdanovich,1
+Ellen Burstyn,Jason Miller,1
+Ellen Burstyn,Linda Blair,1
+Ellen Burstyn,Diane Ladd,1
+Ellen Burstyn,Eva Le Gallienne,1
+Joan Allen,Anthony Hopkins,1
+Diane Ladd,Laura Dern,1
+Robert De Niro,Michael V. Gazzo,1
+Robert De Niro,Lee Strasberg,1
+Robert De Niro,Talia Shire,1
+Robert De Niro,Jodie Foster,1
+Robert De Niro,Christopher Walken,1
+Robert De Niro,Michael Cimino,1
+Robert De Niro,Joe Pesci,1
+Robert De Niro,Cathy Moriarty,1
+Robert De Niro,Martin Scorsese,1
+Robert De Niro,Juliette Lewis,1
+Robert De Niro,Jennifer Lawrence,1
+Robert De Niro,Jacki Weaver,1
+Robert De Niro,David O. Russell,1
+Michael V. Gazzo,Talia Shire,1
+Lee Strasberg,Talia Shire,1
+Talia Shire,Burgess Meredith,1
+Talia Shire,Sylvester Stallone,1
+Talia Shire,Burt Young,1
+Talia Shire,John G. Avildsen,1
+Joe Pesci,Cathy Moriarty,1
+Joe Pesci,Martin Scorsese,5
+Joe Pesci,Lorraine Bracco,1
+Martin Scorsese,Cathy Moriarty,1
+Martin Scorsese,Lorraine Bracco,1
+Martin Scorsese,Daniel Day-Lewis,1
+Martin Scorsese,Leonardo DiCaprio,3
+Martin Scorsese,Cate Blanchett,1
+Martin Scorsese,Alan Alda,1
+Martin Scorsese,Mark Wahlberg,1
+Martin Scorsese,Jonah Hill,1
+Liv Ullmann,Jan Troell,1
+Liv Ullmann,Ingmar Bergman,1
+Marsha Mason,Richard Dreyfuss,1
+Marsha Mason,Quinn Cummings,1
+Marsha Mason,James Coco,1
+Marsha Mason,Joan Hackett,1
+Richard Dreyfuss,Quinn Cummings,1
+Madeline Kahn,Tatum O'Neal,1
+Jodie Foster,Anthony Hopkins,1
+Jodie Foster,Jonathan Demme,1
+Christopher Walken,Michael Cimino,1
+Jennifer Lawrence,Amy Adams,1
+Jennifer Lawrence,Christian Bale,1
+Jennifer Lawrence,John Hawkes,1
+Jennifer Lawrence,Jacki Weaver,1
+Jennifer Lawrence,David O. Russell,3
+Jacki Weaver,David O. Russell,1
+David O. Russell,Amy Adams,3
+David O. Russell,Melissa Leo,1
+David O. Russell,Christian Bale,3
+Laura Dern,Reese Witherspoon,1
+Laura Dern,Adam Driver,1
+Laura Dern,Scarlett Johansson,1
+Burgess Meredith,Sylvester Stallone,1
+Burgess Meredith,Burt Young,1
+Burgess Meredith,John G. Avildsen,1
+Sylvester Stallone,Burt Young,1
+Sylvester Stallone,John G. Avildsen,1
+Woody Harrelson,Sam Rockwell,1
+Marisa Tomei,Tom Wilkinson,1
+Marisa Tomei,Mickey Rourke,1
+Tom Wilkinson,George Clooney,1
+Tom Wilkinson,Tilda Swinton,1
+Tom Wilkinson,Tony Gilroy,1
+Anthony Hopkins,Jonathan Demme,1
+Anthony Hopkins,Jonathan Pryce,1
+John Travolta,Samuel L. Jackson,1
+John Travolta,Uma Thurman,1
+John Travolta,Quentin Tarantino,1
+Samuel L. Jackson,Quentin Tarantino,1
+Uma Thurman,Quentin Tarantino,1
+Quentin Tarantino,Leonardo DiCaprio,1
+Quentin Tarantino,Christoph Waltz,1
+Quentin Tarantino,Brad Pitt,1
+Steven Spielberg,Liam Neeson,1
+Steven Spielberg,Ralph Fiennes,1
+Steven Spielberg,Tom Hanks,1
+Steven Spielberg,Sally Field,1
+Steven Spielberg,Tommy Lee Jones,1
+Steven Spielberg,Daniel Day-Lewis,1
+Liam Neeson,Ralph Fiennes,1
+Ralph Fiennes,Kristin Scott Thomas,1
+Ralph Fiennes,Juliette Binoche,1
+Ralph Fiennes,Anthony Minghella,1
+Tom Hanks,Gary Sinise,1
+Tom Hanks,Robert Zemeckis,1
+Sally Field,John Malkovich,1
+Sally Field,Lindsay Crouse,1
+Sally Field,Tommy Lee Jones,1
+Sally Field,Daniel Day-Lewis,1
+Tommy Lee Jones,Oliver Stone,1
+Tommy Lee Jones,Daniel Day-Lewis,1
+Daniel Day-Lewis,Jim Sheridan,1
+Daniel Day-Lewis,Pete Postlethwaite,1
+Daniel Day-Lewis,Paul Thomas Anderson,3
+Daniel Day-Lewis,Lesley Manville,1
+Alexander Payne,Thomas Haden Church,1
+Alexander Payne,Virginia Madsen,1
+Alexander Payne,George Clooney,1
+Alexander Payne,June Squibb,1
+John Hurt,David Lynch,1
+Jill Clayburgh,Candice Bergen,1
+Nicolas Cage,Elisabeth Shue,1
+Nicolas Cage,Mike Figgis,1
+Nicolas Cage,Chris Cooper,1
+Philip Seymour Hoffman,Catherine Keener,1
+Philip Seymour Hoffman,Joaquin Phoenix,1
+Philip Seymour Hoffman,Bennett Miller,1
+Philip Seymour Hoffman,Amy Adams,3
+Philip Seymour Hoffman,Viola Davis,1
+Amy Adams,Joaquin Phoenix,1
+Amy Adams,Viola Davis,1
+Amy Adams,Melissa Leo,1
+Amy Adams,Christian Bale,5
+Amy Adams,Adam McKay,1
+Amy Adams,Sam Rockwell,1
+Viola Davis,Jessica Chastain,1
+Viola Davis,Octavia Spencer,1
+Frederic Forrest,Bette Midler,1
+John Malkovich,Lindsay Crouse,1
+Leonardo DiCaprio,Cate Blanchett,1
+Leonardo DiCaprio,Alan Alda,1
+Leonardo DiCaprio,Djimon Hounsou,1
+Leonardo DiCaprio,Jonah Hill,1
+Leonardo DiCaprio,Alejandro G. Iñárritu,1
+Leonardo DiCaprio,Tom Hardy,1
+Leonardo DiCaprio,Brad Pitt,1
+Cate Blanchett,Judi Dench,1
+Cate Blanchett,Alan Alda,1
+Cate Blanchett,Sally Hawkins,1
+Cate Blanchett,Rooney Mara,1
+Jonah Hill,Brad Pitt,1
+Geena Davis,Ridley Scott,1
+Ridley Scott,Russell Crowe,1
+Ridley Scott,Joaquin Phoenix,1
+Sean Penn,Tim Robbins,3
+Sean Penn,Samantha Morton,1
+Sean Penn,Marcia Gay Harden,1
+Sean Penn,Gus Van Sant,1
+Sean Penn,Josh Brolin,1
+Tim Robbins,Marcia Gay Harden,1
+Glenn Close,Anne Archer,1
+Glenn Close,Adrian Lyne,1
+Glenn Close,Michelle Pfeiffer,1
+Glenn Close,Janet McTeer,1
+Stephen Daldry,Ed Harris,1
+Stephen Daldry,Kate Winslet,1
+Stephen Daldry,Julianne Moore,1
+Sam Waterston,Roland Joffé,1
+Roland Joffé,Haing S. Ngor,1
+Harrison Ford,Peter Weir,1
+Peter Weir,Robin Williams,1
+Peter Weir,Ed Harris,1
+Albert Brooks,Holly Hunter,1
+Holly Hunter,Anna Paquin,1
+Holly Hunter,Jane Campion,1
+Whoopi Goldberg,Margaret Avery,1
+Whoopi Goldberg,Oprah Winfrey,1
+Annette Bening,Stephen Frears,1
+Annette Bening,Kevin Spacey,1
+Annette Bening,Sam Mendes,1
+Annette Bening,Mark Ruffalo,1
+Robin Williams,Mercedes Ruehl,1
+Robin Williams,Matt Damon,1
+Robin Williams,Minnie Driver,1
+Robin Williams,Gus Van Sant,1
+Ed Harris,Kathleen Quinlan,1
+Ed Harris,Marcia Gay Harden,1
+Ed Harris,Julianne Moore,1
+Tom Berenger,Willem Dafoe,1
+Tom Berenger,Oliver Stone,1
+Willem Dafoe,Oliver Stone,1
+Oliver Stone,Tom Cruise,1
+Tom Cruise,Cuba Gooding,1
+Matt Damon,Morgan Freeman,1
+Matt Damon,Minnie Driver,1
+Matt Damon,Gus Van Sant,1
+Minnie Driver,Gus Van Sant,1
+Gus Van Sant,Josh Brolin,1
+Morgan Freeman,Dan Aykroyd,1
+Morgan Freeman,Jessica Tandy,1
+Morgan Freeman,Hilary Swank,1
+Dan Aykroyd,Jessica Tandy,1
+Hilary Swank,Chloë Sevigny,1
+Ethan Hawke,Patricia Arquette,1
+Ethan Hawke,Richard Linklater,1
+Charlize Theron,Margot Robbie,1
+Sam Rockwell,Christian Bale,1
+Sam Rockwell,Adam McKay,1
+Michelle Williams,Ang Lee,1
+Michelle Williams,Heath Ledger,1
+Michelle Williams,Jake Gyllenhaal,1
+Michelle Williams,Casey Affleck,1
+Michelle Williams,Lucas Hedges,1
+Michelle Williams,Kenneth Lonergan,1
+Daniel Day Lewis,Jim Sheridan,1
+Jim Sheridan,Brenda Fricker,1
+Jim Sheridan,Pete Postlethwaite,1
+Kevin Costner,Graham Greene,2
+Kevin Costner,Mary McDonnell,2
+Graham Greene,Mary McDonnell,1
+Kevin Spacey,Sam Mendes,1
+Mark Ruffalo,Bennett Miller,1
+Mark Ruffalo,Steve Carell,1
+Mark Ruffalo,Rachel McAdams,1
+Mark Ruffalo,Tom McCarthy,1
+Nick Nolte,Kate Nelligan,1
+Nick Nolte,James Coburn,1
+Reese Witherspoon,Joaquin Phoenix,1
+Adam Driver,Spike Lee,1
+Adam Driver,Scarlett Johansson,1
+Russell Crowe,Michael Mann,1
+Russell Crowe,Joaquin Phoenix,1
+Russell Crowe,Jennifer Connelly,1
+Russell Crowe,Ron Howard,1
+Joaquin Phoenix,Todd Phillips,1
+Kate Winslet,Gloria Stuart,1
+Kate Winslet,James Cameron,1
+Kate Winslet,Judi Dench,1
+Kate Winslet,Jim Broadbent,1
+Kate Winslet,Jackie Earle Haley,1
+Miranda Richardson,Rosemary Harris,1
+Paul Thomas Anderson,Lesley Manville,1
+Djimon Hounsou,Samantha Morton,1
+Alejandro G. Iñárritu,Edward Norton,1
+Alejandro G. Iñárritu,Michael Keaton,1
+Alejandro G. Iñárritu,Emma Stone,1
+Alejandro G. Iñárritu,Tom Hardy,1
+Brad Pitt,Taraji P. Henson,1
+Brad Pitt,David Fincher,1
+Kristin Scott Thomas,Juliette Binoche,1
+Juliette Binoche,Anthony Minghella,1
+Juliette Binoche,Judi Dench,1
+Julianne Moore,Burt Reynolds,1
+Taraji P. Henson,David Fincher,1
+David Fincher,Jesse Eisenberg,1
+Gloria Stuart,James Cameron,1
+Judi Dench,Geoffrey Rush,1
+Judi Dench,Gwyneth Paltrow,1
+Judi Dench,John Madden,1
+Judi Dench,Jim Broadbent,1
+Mel Gibson,Andrew Garfield,1
+Geoffrey Rush,Armin Mueller-Stahl,1
+Geoffrey Rush,Scott Hicks,1
+Geoffrey Rush,Gwyneth Paltrow,1
+Geoffrey Rush,John Madden,1
+Geoffrey Rush,Helena Bonham Carter,1
+Geoffrey Rush,Colin Firth,1
+Geoffrey Rush,Tom Hooper,1
+Helena Bonham Carter,Colin Firth,1
+Helena Bonham Carter,Tom Hooper,1
+Colin Firth,Tom Hooper,1
+Edward Norton,Michael Keaton,1
+Edward Norton,Emma Stone,1
+Michael Keaton,Emma Stone,1
+Emma Stone,Rachel Weisz,1
+Emma Stone,Ryan Gosling,1
+Emma Stone,Damien Chazelle,1
+Emma Stone,Olivia Colman,1
+Emma Stone,Yorgos Lanthimos,1
+Brenda Blethyn,Marianne Jean-Baptiste,1
+Brenda Blethyn,Mike Leigh,1
+Marianne Jean-Baptiste,Mike Leigh,1
+Mike Leigh,Imelda Staunton,1
+Emily Watson,Rachel Griffiths,1
+Sally Hawkins,Richard Jenkins,1
+Sally Hawkins,Octavia Spencer,1
+Sally Hawkins,Guillermo del Toro,1
+Jennifer Connelly,Ron Howard,1
+Ron Howard,Frank Langella,1
+Jude Law,Renée Zellweger,1
+Renée Zellweger,John C. Reilly,1
+Renée Zellweger,Queen Latifah,1
+Renée Zellweger,Catherine Zeta-Jones,1
+Renée Zellweger,Rob Marshall,1
+Catherine Keener,Spike Jonze,1
+Catherine Keener,Bennett Miller,1
+Bennett Miller,Steve Carell,1
+Benicio Del Toro,Naomi Watts,1
+Ang Lee,Heath Ledger,1
+Ang Lee,Jake Gyllenhaal,1
+Heath Ledger,Jake Gyllenhaal,1
+George Clooney,David Strathairn,1
+George Clooney,Tilda Swinton,1
+George Clooney,Tony Gilroy,1
+George Clooney,Jason Reitman,1
+George Clooney,Vera Farmiga,1
+George Clooney,Anna Kendrick,1
+Margot Robbie,Allison Janney,1
+Jamie Foxx,Taylor Hackford,1
+Clive Owen,Natalie Portman,1
+Natalie Portman,Darren Aronofsky,1
+Jason Reitman,Ellen Page,1
+Jason Reitman,Vera Farmiga,1
+Jason Reitman,Anna Kendrick,1
+Keira Knightley,Benedict Cumberbatch,1
+Keira Knightley,Morten Tyldum,1
+Melissa Leo,Christian Bale,1
+Christian Bale,Adam McKay,3
+Rachel Weisz,Olivia Colman,1
+Rachel Weisz,Yorgos Lanthimos,1
+Casey Affleck,Lucas Hedges,1
+Casey Affleck,Kenneth Lonergan,1
+Ryan Gosling,Damien Chazelle,1
+Viggo Mortensen,Mahershala Ali,1
+Mahershala Ali,Naomie Harris,1
+Mahershala Ali,Barry Jenkins,1
+Richard Jenkins,Octavia Spencer,1
+Richard Jenkins,Guillermo del Toro,1
+Octavia Spencer,Jessica Chastain,1
+Octavia Spencer,Guillermo del Toro,1
+Anne Hathaway,Hugh Jackman,1
+Jeremy Renner,Kathryn Bigelow,1
+Sandra Bullock,Alfonso Cuarón,1
+Alfonso Cuarón,Yalitza Aparicio,1
+Alfonso Cuarón,Marina de Tavira,1
+Melissa McCarthy,Richard E. Grant,1
+Eddie Redmayne,Felicity Jones,1
+Eddie Redmayne,Alicia Vikander,1

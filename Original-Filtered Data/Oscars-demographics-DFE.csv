@@ -1,0 +1,442 @@
+year_of_award,award,movie,person,birthplace,date_of_birth,race_ethnicity,sexual_orientation,religion
+1927,Best Director,Two Arabian Knights,Lewis Milestone,Moldova,30/Sep/1895,White,Straight,Na
+1930,Best Director,The Divine Lady,Frank Lloyd,Scotland,2/Feb/1886,White,Straight,Na
+1931,Best Director,All Quiet on the Western Front,Lewis Milestone,Moldova,30/Sep/1895,White,Straight,Na
+1932,Best Director,Skippy,Norman Taurog,USA,23/Feb/1899,White,Straight,Na
+1933,Best Director,Bad Girl,Frank Borzage,USA,23/Apr/1894,White,Straight,Roman Catholic
+1934,Best Director,Cavalcade,Frank Lloyd,Scotland,2/Feb/1886,White,Straight,Na
+1935,Best Director,It Happened One Night,Frank Capra,Italy,18/May/1897,White,Straight,Roman Catholic
+1936,Best Director,The Informer,John Ford,USA,1/Feb/1894,White,Bisexual,Roman Catholic
+1937,Best Director,Mr. Deeds Goes to Town,Frank Capra,Italy,18/May/1897,White,Straight,Roman Catholic
+1938,Best Director,The Awful Truth,Leo McCarey,USA,3/Oct/1898,White,Straight,Na
+1939,Best Director,You Can't Take It with You,Frank Capra,Italy,18/May/1897,White,Straight,Roman Catholic
+1940,Best Director,Gone with the Wind,Victor Fleming,USA,23/Feb/1883,White,Straight,Na
+1941,Best Director,The Grapes of Wrath,John Ford,USA,1/Feb/1894,White,Bisexual,Roman Catholic
+1942,Best Director,How Green Was My Valley,John Ford,USA,1/Feb/1894,White,Bisexual,Roman Catholic
+1943,Best Director,Mrs. Miniver,William Wyler,France,01/07/2002,White,Straight,Na
+1944,Best Director,Casablanca,Michael Curtiz,Hungary,24/Dec/1886,White,Straight,Na
+1945,Best Director,Going My Way,Leo McCarey,USA,3/Oct/1898,White,Straight,Na
+1962,Best Director,West Side Story,Jerome Robbins,USA,11/10/2018,White,Gay,Jewish
+1946,Best Director,The Lost Weekend,Billy Wilder,Austria,22/06/2006,White,Straight,Jewish
+1947,Best Director,The Best Years of Our Lives,William Wyler,France,01/07/2002,White,Straight,Na
+1948,Best Director,Gentleman's Agreement,Elia Kazan,Turkey,07/09/2009,White,Straight,Na
+1949,Best Director,The Treasure of the Sierra Madre,John Huston,USA,05/08/2006,White,Straight,Na
+1950,Best Director,A Letter to Three Wives,Joseph L. Mankiewicz,USA,11/02/2009,White,Straight,Jewish
+1951,Best Director,All About Eve,Joseph L. Mankiewicz,USA,11/02/2009,White,Straight,Jewish
+1952,Best Director,A Place in the Sun,George Stevens,USA,18/12/2004,White,Straight,Na
+1953,Best Director,The Quiet Man,John Ford,USA,1/Feb/1894,White,Bisexual,Roman Catholic
+1954,Best Director,From Here to Eternity,Fred Zinnemann,Austria,29/04/2007,White,Straight,Jewish
+1955,Best Director,On the Waterfront,Elia Kazan,Turkey,07/09/2009,White,Straight,Na
+1956,Best Director,Marty,Delbert Mann,USA,30/01/2020,White,Straight,Presbyterian
+1957,Best Director,Giant,George Stevens,USA,18/12/2004,White,Straight,Na
+1958,Best Director,The Bridge on the River Kwai,David Lean,England,25/03/2008,White,Straight,Na
+1959,Best Director,Gigi,Vincente Minnelli,USA,28/02/2003,White,Bisexual,Na
+1960,Best Director,Ben-Hur,William Wyler,France,01/07/2002,White,Straight,Na
+1961,Best Director,The Apartment,Billy Wilder,Austria,22/06/2006,White,Straight,Jewish
+1961,Best Director,West Side Story,Robert Wise,USA,10/09/2014,White,Straight,Na
+1963,Best Director,Lawrence of Arabia,David Lean,England,25/03/2008,White,Straight,Na
+1964,Best Director,Tom Jones,Tony Richardson,England,05/06/2028,White,Bisexual,Na
+1965,Best Director,My Fair Lady,George Cukor,USA,7/Jul/1899,White,Gay,Na
+1966,Best Director,The Sound of Music,Robert Wise,USA,10/09/2014,White,Straight,Na
+1967,Best Director,A Man for All Seasons,Fred Zinnemann,Austria,29/04/2007,White,Straight,Jewish
+1968,Best Director,The Graduate,Mike Nichols,Germany,06/11/1931,White,Straight,Jewish
+2008,Best Director,No Country for Old Men,Joel Coen,USA,29/11/1954,White,Straight,Jewish
+1969,Best Director,Oliver!,Carol Reed,England,30/12/2006,White,Straight,Na
+1969,Best Director,Midnight Cowboy,John Schlesinger,England,16/02/2026,White,Gay,Na
+1970,Best Director,Patton,Franklin J. Schaffner,Japan,30/05/2020,White,Straight,Na
+1972,Best Director,The French Connection,William Friedkin,USA,29/08/1935,White,Straight,Jewish
+1973,Best Director,Cabaret,Bob Fosse,USA,23/06/2027,White,Straight,Na
+1973,Best Director,The Sting,George Roy Hill,USA,20/12/2021,White,Straight,Na
+1975,Best Director,The Godfather Part II,Francis Ford Coppola,USA,07/04/1939,White,Straight,Na
+1976,Best Director,One Flew over the Cuckoo's Nest,Milos Forman,Czechoslovakia,18/02/1932,White,Straight,Na
+1976,Best Director,Rocky,John G. Avildsen,USA,21/12/1935,White,Straight,Na
+1978,Best Director,Annie Hall,Woody Allen,USA,01/12/1935,White,Straight,Jewish
+1979,Best Director,The Deer Hunter,Michael Cimino,USA,03/02/1939,White,Straight,Na
+1980,Best Director,Kramer vs. Kramer,Robert Benton,USA,29/09/1932,White,Straight,Na
+1980,Best Director,Ordinary People,Robert Redford,USA,18/Aug/1936 [1],White,Straight,Na
+1981,Best Director,Reds,Warren Beatty,USA,30/03/1937,White,Straight,Baptist
+1982,Best Director,Gandhi,Richard Attenborough,England,29/08/2023,White,Straight,Na
+1983,Best Director,Terms of Endearment,James L. Brooks,USA,09/05/1940,White,Straight,Na
+1985,Best Director,Amadeus,Milos Forman,Czechoslovakia,18/02/1932,White,Straight,Na
+1986,Best Director,Out of Africa,Sydney Pollack,USA,01/07/1934,White,Straight,Jewish
+1990,Best Director,Platoon,Oliver Stone,USA,15/09/1946,White,Straight,Atheist
+1988,Best Director,The Last Emperor,Bernardo Bertolucci,Italy,16/03/1941,White,Straight,Na
+1989,Best Director,Rain Man,Barry Levinson,USA,06/04/1942,White,Straight,Jewish
+1990,Best Director,Born on the Fourth of July,Oliver Stone,USA,15/09/1946,White,Straight,Atheist
+1991,Best Director,Dances with Wolves,Kevin Costner,USA,18/01/1955,White,Straight,Baptist
+1992,Best Director,The Silence of the Lambs,Jonathan Demme,USA,22/02/1944,White,Straight,Na
+1993,Best Director,Unforgiven,Clint Eastwood,USA,31/05/1930,White,Straight,Na
+1994,Best Director,Schindler's List,Steven Spielberg,USA,18/12/1946,White,Straight,Jewish
+1995,Best Director,Forrest Gump,Robert Zemeckis,USA,14/05/1952,White,Straight,Roman Catholic
+1996,Best Director,Braveheart,Mel Gibson,USA,03/01/1956,White,Straight,Roman Catholic
+1997,Best Director,The English Patient,Anthony Minghella,England,06/01/1954,White,Straight,Na
+1998,Best Director,Titanic,James Cameron,Canada,16/08/1954,White,Straight,Atheist
+1999,Best Director,Saving Private Ryan,Steven Spielberg,USA,18/12/1946,White,Straight,Jewish
+2000,Best Director,American Beauty,Sam Mendes,England,01/08/1965,White,Straight,Na
+2001,Best Director,Traffic,Steven Soderbergh,USA,14/01/1963,White,Straight,Atheist
+2002,Best Director,A Beautiful Mind,Ron Howard,USA,01/03/1954,White,Straight,Na
+2003,Best Director,The Pianist,Roman Polanski,France,18/08/1933,White,Straight,See Note
+2004,Best Director,The Lord of the Rings: Return of the King,Peter Jackson,New Zealand,31/10/1961,White,Straight,Na
+2005,Best Director,Million Dollar Baby,Clint Eastwood,USA,31/05/1930,White,Straight,Na
+2006,Best Director,Brokeback Mountain,Ang Lee,Taiwan,23/10/1954,Asian,Straight,Na
+2007,Best Director,The Departed,Martin Scorsese,USA,17/11/1942,White,Straight,Roman Catholic
+2008,Best Director,No Country for Old Men,Ethan Coen,USA,21/09/1957,White,Straight,Jewish
+2009,Best Director,Slumdog Millionaire,Danny Boyle,England,20/10/1956,White,Straight,Roman Catholic
+2009,Best Director,The Hurt Locker,Kathryn Bigelow,USA,27/11/1951,White,Straight,Na
+2011,Best Director,The King's Speech,Tom Hooper,England,25/05/1905,White,Na,Na
+2012,Best Director,The Artist,Michel Hazanavicius,France,29/03/1967,White,Straight,Jewish
+2013,Best Director,Life of Pi,Ang Lee,Taiwan,23/10/1954,Asian,Straight,Na
+1929,Best Actor,The Last Command,Emil Jannings,Switzerland,23/Jul/1884,White,Bisexual,Na
+1930,Best Actor,In Old Arizona,Warner Baxter,USA,29/Mar/1889,White,Straight,Na
+1930,Best Actor,Desraeli,George Arliss,England,10/Apr/1868,White,Straight,Na
+1931,Best Actor,A Free Soul,Lionel Barrymore,USA,28/Apr/1878,White,Straight,Roman Catholic
+1932,Best Actor,The Champ,Wallace Beery,USA,1/Apr/1885,White,Straight,Na
+1934,Best Actor,The Private Life of Henry VIII,Charles Laughton,England,1/Jul/1899,White,Gay,Roman Catholic
+1935,Best Actor,It Happened One Night,Clark Gable,USA,01/02/2001,White,Straight,Na
+1936,Best Actor,The Informer,Victor McLaglen,England,11/Dec/1883,White,Straight,Anglican-episcopalian
+1937,Best Actor,The Story of Louis Pasteur,Paul Muni,Ukraine,22/Sep/1895,White,Straight,Jewish
+1938,Best Actor,Captains Courageous,Spencer Tracy,USA,05/04/2000,White,Straight,Roman Catholic
+1939,Best Actor,Boys Town,Spencer Tracy,USA,05/04/2000,White,Straight,Roman Catholic
+1940,Best Actor,Goodbye Mr. Chips,Robert Donat,England,18/03/2005,White,Straight,Na
+1941,Best Actor,The Philadelphia Story,Jimmy Stewart,USA,20/05/2008,White,Straight,Presbyterian
+1942,Best Actor,Sergeant York,Gary Cooper,USA,07/05/2001,White,Straight,Roman Catholic
+1943,Best Actor,Yankee Doodle Dandy,James Cagney,USA,17/Jul/1899,White,Straight,Roman Catholic
+1944,Best Actor,Watch on the Rhine,Paul Lukas,Hungary,26/May/1887,White,Straight,Na
+1945,Best Actor,Going My Way,Bing Crosby,USA,03/05/2003,White,Straight,Roman Catholic
+1946,Best Actor,The Lost Weekend,Ray Milland,Wales,03/01/2007,White,Straight,Na
+1947,Best Actor,The Best Years of Our Lives,Fredric March,USA,31/Aug/1897,White,Straight,Na
+1948,Best Actor,A Double Life,Ronald Colman,England,9/Feb/1891,White,Straight,Na
+1949,Best Actor,Hamlet,Laurence Olivier,England,22/05/2007,White,Bisexual,Na
+1950,Best Actor,All The King's Men,Broderick Crawford,USA,09/12/2011,White,Straight,Na
+1951,Best Actor,Cyrano de Bergerac,Jose Ferrer,Puerto Rico,08/01/2009,Hispanic,Straight,Na
+1952,Best Actor,The Africa Queen,Humphrey Bogart,USA,25/Dec/1899,White,Straight,Na
+1953,Best Actor,High Noon,Gary Cooper,USA,07/05/2001,White,Straight,Roman Catholic
+1954,Best Actor,Stalag 17,William Holden,USA,17/04/2018,White,Straight,Na
+1955,Best Actor,On the Waterfront,Marlon Brando,USA,03/04/2024,White,Bisexual,Deist
+1956,Best Actor,Marty,Ernest Borgnine,USA,24/01/2017,White,Straight,Na
+1957,Best Actor,The King and I,Yul Brynner,Russia,11/07/2020,White,Straight,Na
+1958,Best Actor,The Bridge on the River Kwai,Alec Guinness,England,02/04/2014,White,Bisexual,Roman Catholic
+1959,Best Actor,Separate Tables,David Niven,England,01/03/2009,White,Straight,Na
+1960,Best Actor,Ben-hur,Charlton Heston,USA,04/10/2023,White,Straight,Protestant
+1961,Best Actor,Elmer Gantry,Burt Lancaster,USA,02/11/2013,White,Straight,Protestant
+1962,Best Actor,Judgement at Nuremberg,Maximilian Schell,Austria,08/12/1930,White,Straight,Na
+1963,Best Actor,To Kill a Mockingbird,Gregory Peck,USA,05/04/2016,White,Straight,Roman Catholic
+1964,Best Actor,Lilies of the Field,Sidney Poitier,USA,20/02/2027,Black,Straight,Deist
+1965,Best Actor,My Fair Lady,Rex Harrison,England,05/03/2008,White,Straight,Na
+1966,Best Actor,Cat Ballou,Lee Marvin,USA,19/02/2024,White,Straight,Na
+1967,Best Actor,A Man For All Seasons,Paul Scofield,England,21/01/2022,White,Straight,Na
+1968,Best Actor,In the Heat of the Night,Rod Steiger,USA,14/04/2025,White,Straight,Lutheran
+1969,Best Actor,Charly,Cliff Robertson,USA,09/09/2023,White,Straight,Na
+1970,Best Actor,True Grit,John Wayne,USA,26/05/2007,White,Straight,Roman Catholic
+1971,Best Actor,Patton,George C. Scott,USA,18/10/2027,White,Straight,Na
+1972,Best Actor,The French Connection,Gene Hackman,USA,30/01/1930,White,Straight,Na
+1973,Best Actor,The Godfather,Marlon Brando,USA,03/04/2024,White,Bisexual,Deist
+1974,Best Actor,Save the Tiger,Jack Lemmon,USA,08/02/2025,White,Straight,Roman Catholic
+1975,Best Actor,Harry and Tonto,Art Carney,USA,04/11/2018,White,Straight,Na
+1976,Best Actor,One Flew Over the Cuckoo's Nest,Jack Nicholson,USA,22/04/1937,White,Straight,Atheist
+1977,Best Actor,Network,Peter Finch,England,28/09/2016,White,Straight,Na
+1978,Best Actor,The Goodbye Girl,Richard Dreyfuss,USA,29/10/1947,White,Straight,Jewish
+1979,Best Actor,Coming Home,Jon Voight,USA,29/12/1938,White,Straight,Roman Catholic
+1980,Best Actor,Kramer vs. Kramer,Dustin Hoffman,USA,08/08/1937,White,Straight,Jewish
+1981,Best Actor,Raging Bull,Robert De Niro,USA,17/08/1943,White,Straight,Roman Catholic
+1982,Best Actor,On Golden Pond,Henry Fonda,USA,16/05/2005,White,Straight,Na
+1983,Best Actor,Gandhi,Ben Kingsley,England,31/12/1943,Multiracial,Straight,Quaker
+1984,Best Actor,Tender Mercies,Robert Duvall,USA,05/01/1931,White,Straight,Na
+1985,Best Actor,Amadeus,F. Murray Abraham,USA,24/10/1939,Middle Eastern,Straight,Na
+1986,Best Actor,Kiss of the Spider Woman,William Hurt,USA,20/03/1950,White,Straight,Lutheran
+1987,Best Actor,The Color of Money,Paul Newman,USA,26/01/2025,White,Straight,Jewish
+1988,Best Actor,Wall Street,Michael Douglas,USA,25/09/1944,White,Straight,Jewish
+1989,Best Actor,Rainman,Dustin Hoffman,USA,08/08/1937,White,Straight,Jewish
+1990,Best Actor,My Left Foot,Daniel Day-Lewis,England,29/04/1957,White,Straight,Na
+1991,Best Actor,Reversal of Fortune,Jeremy Irons,England,19/09/1948,White,Straight,Na
+1992,Best Actor,Silence of the Lambs,Anthony Hopkins,Wales,31/12/1937,White,Straight,Na
+1993,Best Actor,Scent of a Woman,Al Pacino,USA,25/04/1940,White,Straight,Roman Catholic
+1994,Best Actor,Philadelphia,Tom Hanks,USA,09/07/1956,White,Straight,Born-Again Christian
+1995,Best Actor,Forrest Gump,Tom Hanks,USA,09/07/1956,White,Straight,Born-Again Christian
+1996,Best Actor,Leaving Las Vegas,Nicolas Cage,USA,07/01/1964,White,Straight,Roman Catholic
+1997,Best Actor,Shine,Geoffrey Rush,Australia,06/07/1951,White,Straight,Na
+1997,Best Actor,As Good as It Gets,Jack Nicholson,USA,22/04/1937,White,Straight,Atheist
+1999,Best Actor,Life is Beautiful,Roberto Benigni,Italy,27/10/1952,White,Straight,Na
+2000,Best Actor,American Beauty,Kevin Spacey,USA,26/07/1959,White,Matter of Dispute,Na
+2001,Best Actor,Gladiator,Russell Crowe,New Zealand,07/04/1964,White,Straight,Na
+2002,Best Actor,Training Day,Denzel Washington,USA,28/12/1954,Black,Straight,Protestant
+2003,Best Actor,The Pianist,Adrien Brody,USA,14/04/1973,White,Straight,Jewish
+2003,Best Actor,Mystic River,Sean Penn,USA,17/08/1960,White,Straight,Roman Catholic
+2005,Best Actor,Ray,Jamie Foxx,USA,13/12/1967,Black,Straight,Baptist
+2006,Best Actor,Capote,Philip Seymour Hoffman,USA,23/07/1967,White,Straight,Na
+2007,Best Actor,The Last King of Scotland,Forest Whitaker,USA,15/07/1961,Black,Straight,Na
+2008,Best Actor,There Will Be Blood,Daniel Day-Lewis,England,29/04/1957,White,Straight,Na
+2009,Best Actor,Milk,Sean Penn,USA,17/08/1960,White,Straight,Roman Catholic
+2010,Best Actor,Crazy Heart,Jeff Bridges,USA,04/12/1949,White,Straight,Lutheran
+2011,Best Actor,The King's Speech,Colin Firth,England,10/09/1960,White,Straight,Na
+2012,Best Actor,The Artist,Jean Dujardin,France,19/06/1972,White,Straight,Na
+2013,Best Actor,Lincoln,Daniel Day-Lewis,England,29/04/1957,White,Straight,Na
+2014,Best Actor,Dallas Buyers Club,Matthew McConaughey,USA,04/11/1969,White,Straight,Na
+1938,Best Supporting Actor,Come and Get It,Walter Brennan,USA,25/Jul/1894,White,Straight,Na
+1938,Best Supporting Actor,The Life of Emile Zola,Joseph Schildkraut,Austria,22/Mar/1896,White,Straight,Na
+1939,Best Supporting Actor,Kentucky,Walter Brennan,USA,25/Jul/1894,White,Straight,Na
+1940,Best Supporting Actor,Stagecoach,Thomas Mitchell,USA,11/Jul/1892,White,Straight,Na
+1941,Best Supporting Actor,The Westerner,Walter Brennan,USA,25/Jul/1894,White,Straight,Na
+1942,Best Supporting Actor,How Green Was My Valley,Donald Crisp,England,27/Jul/1880,White,Straight,Na
+1943,Best Supporting Actor,Johnny Eager,Van Heflin,USA,13/12/2010,White,Straight,Na
+1944,Best Supporting Actor,The More the Merrier,Charles Coburn,USA,17/Jun/1877,White,Straight,Na
+1945,Best Supporting Actor,Going My Way,Barry Fitzgerald,Ireland,10/Mar/1888,White,Na,Protestant
+1946,Best Supporting Actor,A Tree Grows in Brooklyn,James Dunn,USA,02/11/2001,White,Straight,Na
+1947,Best Supporting Actor,The Best Years of Our Lives,Harold Russell,Canada,14/01/2014,White,Straight,Na
+1948,Best Supporting Actor,Miracle on 34th Street,Edmund Gwenn,Wales,26/Sep/1875,White,Na,Na
+1949,Best Supporting Actor,The Treasure of the Sierra Madre,Walter Huston,Canada,6/Apr/1884,White,Straight,Na
+1950,Best Supporting Actor,Twelve O'Clock High,Dean Jagger,USA,07/11/2003,White,Straight,Na
+1951,Best Supporting Actor,All About Eve,George Sanders,Russia,03/07/2006,White,Straight,Na
+1952,Best Supporting Actor,A Streetcar Named Desire,Karl Malden,USA,22/03/2012,White,Straight,Na
+1953,Best Supporting Actor,Viva Zapata!,Anthony Quinn,Mexico,21/04/2015,Hispanic,Straight,Na
+1954,Best Supporting Actor,From Here to Eternity,Frank Sinatra,USA,12/12/2015,White,Straight,Na
+1955,Best Supporting Actor,The Barefoot Contessa,Edmond O'Brien,USA,10/09/2015,White,Straight,Roman Catholic
+1956,Best Supporting Actor,Mister Roberts,Jack Lemmon,USA,08/02/2025,White,Straight,Roman Catholic
+1957,Best Supporting Actor,Lust for Life,Anthony Quinn,Mexico,21/04/2015,Hispanic,Straight,Na
+1958,Best Supporting Actor,Sayonara,Red Buttons,USA,05/02/2019,White,Straight,Jewish
+1959,Best Supporting Actor,The Big Country,Burl Ives,USA,14/06/2009,White,Straight,Na
+1960,Best Supporting Actor,Ben-Hur,Hugh Griffith,Wales,30/05/2012,White,Na,Na
+1961,Best Supporting Actor,Spartacus,Peter Ustinov,England,16/04/2021,White,Straight,Na
+1962,Best Supporting Actor,West Side Story,George Chakiris,USA,16/09/1934,White,Gay,Na
+1963,Best Supporting Actor,Sweet Bird of Youth,"Ed Begley, Sr.",USA,25/03/2001,White,Straight,Na
+1964,Best Supporting Actor,Hud,Melvyn Douglas,USA,05/04/2001,White,Straight,Jewish
+1965,Best Supporting Actor,Topkapi,Peter Ustinov,England,16/04/2021,White,Straight,Na
+1966,Best Supporting Actor,A Thousand Clowns,Martin Balsam,USA,04/11/2019,White,Straight,Na
+1967,Best Supporting Actor,The Fortune Cookie,Walter Matthau,USA,01/10/2020,White,Straight,Jewish
+1968,Best Supporting Actor,Cool Hand Luke,George Kennedy,USA,18/02/2025,White,Straight,Na
+1969,Best Supporting Actor,The Subject Was Roses,Jack Albertson,USA,16/06/2007,White,Na,Na
+1970,Best Supporting Actor,"They Shoot Horses, Don't They?",Gig Young,USA,04/11/2013,White,Straight,Na
+1971,Best Supporting Actor,Ryan's Daughter,John Mills,England,22/02/2008,White,Straight,Na
+1972,Best Supporting Actor,The Last Picture Show,Ben Johnson,USA,13/06/2018,White,Straight,Na
+1973,Best Supporting Actor,Cabaret,Joel Grey,USA,11/04/1932,White,Gay,Jewish
+1974,Best Supporting Actor,The Paper Chase,John Houseman,Romania,22/09/2002,White,Straight,Na
+1975,Best Supporting Actor,The Godfather Part II,Robert De Niro,USA,17/08/1943,White,Straight,Roman Catholic
+1976,Best Supporting Actor,The Sunshine Boys,George Burns,USA,20/Jan/1896,White,Straight,Jewish
+1977,Best Supporting Actor,All the President's Men,Jason Robards,USA,26/07/2022,White,Straight,Na
+1978,Best Supporting Actor,Julia,Jason Robards,USA,26/07/2022,White,Straight,Na
+1979,Best Supporting Actor,The Deer Hunter,Christopher Walken,USA,31/03/1943,White,Straight,Na
+1980,Best Supporting Actor,Being There,Melvyn Douglas,USA,05/04/2001,White,Straight,Jewish
+1981,Best Supporting Actor,Oridnary People,Timothy Hutton,USA,16/08/1960,White,Straight,Na
+1982,Best Supporting Actor,Arthur,John Gielgud,England,14/04/2004,White,Gay,Na
+1983,Best Supporting Actor,An Officer and a Gentleman,"Lou Gossett, Jr.",USA,27/05/1936,Black,Straight,Na
+1984,Best Supporting Actor,Terms of Endearment,Jack Nicholson,USA,22/04/1937,White,Straight,Atheist
+1985,Best Supporting Actor,The Killing Fields,Haing S. Ngor,Cambodia,22/03/1940,Asian,Straight,Buddhist
+1986,Best Supporting Actor,Cocoon,Don Ameche,USA,31/05/2004,White,Straight,Roman Catholic
+1987,Best Supporting Actor,Hannah and Her Sisters,Michael Caine,England,14/03/1933,White,Straight,Na
+1988,Best Supporting Actor,The Untouchables,Sean Connery,Scotland,25/08/1930,White,Straight,Roman Catholic
+1989,Best Supporting Actor,A Fish Called Wanda,Kevin Kline,USA,24/10/1947,White,Straight,Roman Catholic
+1990,Best Supporting Actor,Glory,Denzel Washington,USA,28/12/1954,Black,Straight,Protestant
+1991,Best Supporting Actor,Good Fellas,Joe Pesci,USA,09/02/1943,White,Straight,Na
+1992,Best Supporting Actor,City Slickers,Jack Palance,USA,18/02/2019,White,Straight,Na
+1993,Best Supporting Actor,Unforgiven,Gene Hackman,USA,30/01/1930,White,Straight,Na
+1994,Best Supporting Actor,The Fugitive,Tommy Lee Jones,USA,15/09/1946,White,Straight,Na
+1995,Best Supporting Actor,Ed Wood,Martin Landau,USA,20/06/1931,White,Straight,Jewish
+1996,Best Supporting Actor,The Usual Suspects,Kevin Spacey,USA,26/07/1959,White,Matter of Dispute,Na
+1997,Best Supporting Actor,Jerry Maguire,"Cuba Gooding, Jr.",USA,02/01/1968,Black,Straight,Na
+1998,Best Supporting Actor,Good Will Hunting,Robin Williams,USA,21/07/1951,White,Straight,Anglican-episcopalian
+1999,Best Supporting Actor,Affliction,James Coburn,USA,31/08/2028,White,Straight,Na
+2000,Best Supporting Actor,The Cider House Rules,Michael Caine,England,14/03/1933,White,Straight,Na
+2001,Best Supporting Actor,Traffic,Benicio Del Toro,Puerto Rico,19/02/1967,Hispanic,Straight,Na
+2002,Best Supporting Actor,Iris,Jim Broadbent,England,24/05/1949,White,Straight,Na
+2003,Best Supporting Actor,Adaptation,Chris Cooper,USA,09/07/1951,White,Straight,Na
+2004,Best Supporting Actor,Mystic River,Tim Robbins,USA,16/10/1958,White,Straight,Roman Catholic
+2005,Best Supporting Actor,Million Dollar Baby,Morgan Freeman,USA,01/06/1937,Black,Straight,Na
+2006,Best Supporting Actor,Syriana,George Clooney,USA,06/05/1961,White,Straight,Na
+2007,Best Supporting Actor,Little Miss Sunshine,Alan Arkin,USA,26/03/1934,White,Straight,Jewish
+2008,Best Supporting Actor,No Country for Old Men,Javier Bardem,Canary Islands,01/03/1969,Hispanic,Straight,Na
+2009,Best Supporting Actor,The Dark Knight,Heath Ledger,Australia,04/04/1979,White,Straight,Na
+2010,Best Supporting Actor,Inglourious Basterds,Christoph Waltz,Na,04/10/1956,White,Straight,Na
+2011,Best Supporting Actor,The Fighter,Christian Bale,Wales,30/01/1974,White,Straight,Na
+2012,Best Supporting Actor,Beginning,Christopher Plummer,Canada,13/12/2029,White,Straight,Na
+2013,Best Supporting Actor,Django Unchained,Christoph Waltz,Na,04/10/1956,White,Straight,Na
+2014,Best Supporting Actor,Dallas Buyers Club,Jared Leto,USA,26/12/1971,White,Straight,Na
+1929,Best Actress,7th Heaven,Janet Gaynor,USA,06/10/2006,White,Straight,Na
+1930,Best Actress,Coquette,Mary Pickford,Canada,8/Apr/1892,White,Straight,Na
+1930,Best Actress,The Divorcee,Norma Shearer,Canada,10/08/2002,White,Straight,Na
+1931,Best Actress,Min and Bill,Marie Dressler,Canada,2/Nov/1868,White,Straight,Na
+1932,Best Actress,The Sin of Madelon Claudet,Helen Hayes,USA,10/10/2000,White,Straight,Na
+1934,Best Actress,Morning Glory,Katharine Hepburn,USA,12/05/2007,White,Bisexual,Atheist
+1935,Best Actress,It Happened One Night,Claudette Colbert,France,13/09/2003,White,Straight,Na
+1936,Best Actress,Dangerous,Bette Davis,USA,05/04/2008,White,Straight,Na
+1937,Best Actress,The Great Ziegfeld,Luise Rainer,Germany,12/01/2010,White,Straight,Jewish
+1938,Best Actress,The Good Earth,Luise Rainer,Germany,12/01/2010,White,Straight,Jewish
+1939,Best Actress,Jezebel,Bette Davis,USA,05/04/2008,White,Straight,Na
+1940,Best Actress,Gone with the Wind,Vivien Leigh,India,05/11/2013,White,Straight,Roman Catholic
+1941,Best Actress,Kitty Foyle,Ginger Rogers,USA,16/07/2011,White,Straight,Christian Science
+1940,Best Actress,Suspicion,Joan Fontaine,Japan,22/10/2017,White,Straight,Na
+1942,Best Actress,Mrs. Miniver,Greer Garson,England,29/09/2004,White,Straight,Na
+1944,Best Actress,The Song of Bernadette,Jennifer Jones,USA,02/03/2019,White,Straight,Roman Catholic
+1945,Best Actress,Gaslight,Ingrid Bergman,Sweden,29/08/2015,White,Straight,Na
+1946,Best Actress,Mildred Pierce,Joan Crawford,USA,23/03/2005,White,Bisexual,Christian Science
+1947,Best Actress,To Each His Own,Olivia de Havilland,Japan,01/07/2016,White,Straight,Na
+1948,Best Actress,The Farmer's Daughter,Loretta Young,USA,06/01/2013,White,Straight,Roman Catholic
+1949,Best Actress,Johnny Belinda,Jane Wyman,USA,05/01/2017,White,Straight,Roman Catholic
+1950,Best Actress,The Heiress,Olivia de Havilland,Japan,01/07/2016,White,Straight,Na
+1951,Best Actress,Born Yesterday,Judy Holliday,USA,21/06/2021,White,Straight,Na
+1952,Best Actress,A Streetcar Named Desire,Vivien Leigh,India,05/11/2013,White,Straight,Roman Catholic
+1953,Best Actress,"Come Back, Little Sheba",Shirley Booth,USA,30/Aug/1898,White,Straight,Na
+1954,Best Actress,Roman Holiday,Audrey Hepburn,Belgium,04/05/2029,White,Straight,Christian Science
+1955,Best Actress,The Country Girl,Grace Kelly,USA,12/11/2029,White,Straight,Roman Catholic
+1956,Best Actress,The Rose Tattoo,Anna Magnani,Italy,07/03/2008,White,Straight,Na
+1957,Best Actress,Anastasia,Ingrid Bergman,Sweden,29/08/2015,White,Straight,Na
+1958,Best Actress,The Three Faces of Eve,Joanne Woodward,USA,27/02/1930,White,Straight,Na
+1959,Best Actress,I Want To Live!,Susan Hayward,USA,30/06/2018,White,Straight,Roman Catholic
+1960,Best Actress,Room at the Top,Simone Signoret,Germany,25/03/2021,White,Straight,Na
+1961,Best Actress,Butterfield 8,Elizabeth Taylor,England,27/02/1932,White,Straight,Jewish
+1962,Best Actress,Two Women,Sophia Loren,Italy,20/09/1934,White,Straight,Roman Catholic
+1963,Best Actress,The Miracle Worker,Anne Bancroft,USA,17/09/1931,White,Straight,Roman Catholic
+1964,Best Actress,Hud,Patricia Neal,USA,20/01/2026,White,Straight,Roman Catholic
+1965,Best Actress,Mary Poppins,Julie Andrews,England,01/10/1935,White,Straight,Na
+1966,Best Actress,Darling,Julie Christie,India,14/04/1941,White,Straight,Na
+1967,Best Actress,Who's Afraid of Virginia Woolf?,Elizabeth Taylor,England,27/02/1932,White,Straight,Jewish
+1968,Best Actress,Guess Who's Coming to Dinner,Katharine Hepburn,USA,12/05/2007,White,Bisexual,Atheist
+1969,Best Actress,Funny Girl,Barbra Streisand,USA,24/04/1942,White,Straight,Jewish
+1969,Best Actress,The Lion in Winter,Katharine Hepburn,USA,12/05/2007,White,Bisexual,Atheist
+1970,Best Actress,The Prime of Miss Jean Brodie,Maggie Smith,England,28/12/1934,White,Straight,Na
+1971,Best Actress,Women in Love,Glenda Jackson,England,09/05/1936,White,Straight,Na
+1972,Best Actress,Klute,Jane Fonda,USA,21/12/1937,White,Straight,Born-Again Christian
+1973,Best Actress,Cabaret,Liza Minnelli,USA,12/03/1946,White,Na,Na
+1974,Best Actress,A Touch of Class,Glenda Jackson,England,09/05/1936,White,Straight,Na
+1975,Best Actress,Alice Doesn't Live Here Anymore,Ellen Burstyn,USA,07/12/1932,White,Straight,Sufism
+1976,Best Actress,One Flew Over the Cuckoo's Nest,Louise Fletcher,USA,22/07/1934,White,Straight,Na
+1977,Best Actress,Network,Faye Dunaway,USA,14/01/1941,White,Straight,Roman Catholic
+1978,Best Actress,Annie Hall,Diane Keaton,USA,05/01/1946,White,Straight,Atheist
+1979,Best Actress,Coming Home,Jane Fonda,USA,21/12/1937,White,Straight,Born-Again Christian
+1980,Best Actress,Norma Rae,Sally Field,USA,06/11/1946,White,Straight,Na
+1981,Best Actress,Coal Miner's Daughter,Sissy Spacek,USA,25/12/1949,White,Straight,Na
+1982,Best Actress,On Golden Pond,Katharine Hepburn,USA,12/05/2007,White,Bisexual,Atheist
+1983,Best Actress,Sophie's Choice,Meryl Streep,USA,22/06/1949,White,Straight,Na
+1984,Best Actress,Terms of Endearment,Shirley MacLaine,USA,24/04/1934,White,Straight,Baptist
+1985,Best Actress,Places in the Heart,Sally Field,USA,06/11/1946,White,Straight,Na
+1986,Best Actress,The Trip to Bountiful,Geraldine Page,USA,22/11/2024,White,Straight,Na
+1987,Best Actress,Children of a Lesser God,Marlee Matlin,USA,24/08/1965,White,Straight,Jewish
+1988,Best Actress,Moonstruck,Cher,USA,20/05/1946,White,Bisexual,Na
+1989,Best Actress,The Accused,Jodie Foster,USA,19/11/1962,White,Lesbian,Atheist
+1990,Best Actress,Driving Miss Daisy,Jessica Tandy,England,07/06/2009,White,Straight,Na
+1991,Best Actress,Misery,Kathy Bates,USA,28/06/1948,White,Straight,Na
+1992,Best Actress,The Silence of the Lambs,Jodie Foster,USA,19/11/1962,White,Lesbian,Atheist
+1993,Best Actress,Howards End,Emma Thompson,England,15/04/1959,White,Straight,Na
+1994,Best Actress,The Piano,Holly Hunter,USA,20/03/1958,White,Straight,Na
+1995,Best Actress,Blue Sky,Jessica Lange,USA,20/04/1949,White,Straight,Na
+1996,Best Actress,Dead Man Walking,Susan Sarandon,USA,04/10/1946,White,Straight,Roman Catholic
+1997,Best Actress,Fargo,Frances McDormand,USA,23/06/1957,White,Straight,Disciples of Christ
+1998,Best Actress,As Good As It Gets,Helen Hunt,USA,15/06/1963,White,Straight,Na
+1999,Best Actress,Shakespeare in Love,Gwyneth Paltrow,USA,27/09/1972,White,Straight,Jewish
+2000,Best Actress,Boys Don't Cry,Hilary Swank,USA,30/07/1974,White,Straight,Na
+2001,Best Actress,Erin Brockovich,Julia Roberts,USA,28/10/1967,White,Straight,Hindu
+2002,Best Actress,Monster's Ball,Halle Berry,USA,14/08/1966,Multiracial,Straight,Na
+2003,Best Actress,The Hours,Nicole Kidman,USA,20/06/1967,White,Straight,Roman Catholic
+2004,Best Actress,Monster,Charlize Theron,South Africa,07/08/1975,White,Straight,Na
+2005,Best Actress,Million Dollar Baby,Hilary Swank,USA,30/07/1974,White,Straight,Na
+2006,Best Actress,Walk the Line,Reese Witherspoon,USA,22/03/1976,White,Straight,Na
+2007,Best Actress,The Queen,Helen Mirren,England,26/07/1945,White,Straight,Na
+2008,Best Actress,The Passionate Life of Edith Piaf,Marion Cotillard,France,30/09/1975,White,Straight,Na
+2009,Best Actress,The Reader,Kate Winslet,England,05/10/1975,White,Straight,Na
+2010,Best Actress,The Blind Side,Sandra Bullock,USA,26/07/1964,White,Straight,Na
+2011,Best Actress,Black Swan,Natalie Portman,Israel,09/06/1981,White,Straight,Jewish
+2012,Best Actress,The Iron Lady,Meryl Streep,USA,22/06/1949,White,Straight,Na
+2013,Best Actress,Silver Linings Playbook,Jennifer Lawrence,USA,15/08/1990,White,Na,Na
+2014,Best Actress,Blue Jasmine,Cate Blanchett,Australia,14/05/1969,White,Straight,Na
+1937,Best Supporting Actress,Anthony Adverse,Gale Sondergaard,USA,15/Feb/1899,White,Straight,Na
+1938,Best Supporting Actress,In Old Chicago,Alice Brady,USA,2/Nov/1892,White,Straight,Na
+1939,Best Supporting Actress,Jezebel,Fay Bainter,USA,7/Dec/1891,White,Straight,Na
+1940,Best Supporting Actress,Gone with the Wind,Hattie McDaniel,USA,10/Jun/1893,Black,Matter of Dispute,Christian
+1941,Best Supporting Actress,The Grapes of Wrath,Jane Darwell,USA,15/Oct/1879,White,Straight,Na
+1942,Best Supporting Actress,The Great Lie,Mary Astor,USA,03/05/2006,White,Straight,Roman Catholic
+1943,Best Supporting Actress,Mrs. Miniver,Teresa Wright,USA,27/10/2018,White,Straight,Na
+1944,Best Supporting Actress,For Whom the Bell Tolls,Katina Paxinou,Greece,17/12/2000,White,Straight,Na
+1945,Best Supporting Actress,None but the Lonely Heart,Ethel Barrymore,USA,15/Aug/1879,White,Straight,Roman Catholic
+1946,Best Supporting Actress,National Velvet,Anne Revere,USA,25/06/2003,White,Straight,Na
+1947,Best Supporting Actress,The Razor's Edge,Anne Baxter,USA,07/05/2023,White,Straight,Na
+1948,Best Supporting Actress,Gentleman's Agreement,Celeste Holm,USA,29/04/2017,White,Straight,Na
+1949,Best Supporting Actress,Key Largo,Claire Trevor,USA,08/03/2010,White,Straight,Na
+1950,Best Supporting Actress,All the King's Men,Mercedes McCambridge,USA,17/03/2016,White,Straight,Roman Catholic
+1951,Best Supporting Actress,Harvey,Josephine Hull,USA,3/Jan/1886,White,Straight,Na
+1952,Best Supporting Actress,A Streetcar Named Desire,Kim Hunter,USA,12/11/2022,White,Straight,Na
+1953,Best Supporting Actress,The Bad and the Beautiful,Gloria Grahame,USA,28/11/2023,White,Straight,Na
+1954,Best Supporting Actress,From Here to Eternity,Donna Reed,USA,27/01/2021,White,Straight,Na
+1955,Best Supporting Actress,On the Waterfront,Eva Marie Saint,USA,04/07/2024,White,Straight,Na
+1956,Best Supporting Actress,East of Eden,Jo Van Fleet,USA,30/12/2014,White,Straight,Na
+1957,Best Supporting Actress,Written on the Wind,Dorothy Malone,USA,30/01/2025,White,Straight,Na
+1958,Best Supporting Actress,Sayonara,Miyoshi Umeki,Japan,03/04/2029,Asian,Straight,Na
+1959,Best Supporting Actress,Separate Tables,Wendy Hiller,England,15/08/2012,White,Straight,Na
+1960,Best Supporting Actress,The Diary of Anne Frank,Shelley Winters,USA,18/08/2020,White,Straight,Jewish
+1961,Best Supporting Actress,Elmer Gantry,Shirley Jones,USA,31/03/1934,White,Straight,Methodist
+1962,Best Supporting Actress,West Side Story,Rita Moreno,Puerto Rico,11/12/1931,Hispanic,Straight,Na
+1963,Best Supporting Actress,The Miracle Worker,Patty Duke,USA,14/12/1946,White,Straight,Roman Catholic
+1964,Best Supporting Actress,the V.I.P.s,Margaret Rutherford,England,11/May/1892,White,Straight,Na
+1965,Best Supporting Actress,Zorba the Greek,Lila Kedrova,Russia,09/10/2018,White,Straight,Na
+1966,Best Supporting Actress,A Patch of Blue,Shelley Winters,USA,18/08/2020,White,Straight,Jewish
+1967,Best Supporting Actress,Who's Afraid of Virginia Woolf?,Sandy Dennis,USA,27/04/1937,White,Bisexual,Na
+1968,Best Supporting Actress,Bonnie and Clyde,Estelle Parsons,USA,20/11/2027,White,Straight,Na
+1969,Best Supporting Actress,Rosemary's Baby,Ruth Gordon,USA,30/Oct/1896,White,Straight,Na
+1970,Best Supporting Actress,Cactus Flower,Goldie Hawn,USA,21/11/1945,White,Straight,Buddhist
+1971,Best Supporting Actress,Airport,Helen Hayes,USA,10/10/2000,White,Straight,Na
+1972,Best Supporting Actress,The Last Picture Show,Cloris Leachman,USA,30/04/2026,White,Straight,Na
+1973,Best Supporting Actress,Butterflies Are Free,Eileen Heckart,USA,29/03/2019,White,Straight,Na
+1974,Best Supporting Actress,Paper Moon,Tatum O'Neal,USA,05/11/1963,White,Straight,Na
+1975,Best Supporting Actress,Murder on the Orient Express,Ingrid Bergman,Sweden,29/08/2015,White,Straight,Na
+1976,Best Supporting Actress,Shampoo,Lee Grant,USA,31/10/2027,White,Straight,Jewish
+1977,Best Supporting Actress,Network,Beatrice Straight,USA,02/08/2014,White,Straight,Na
+1978,Best Supporting Actress,Julia,Vanessa Redgrave,England,30/01/1937,White,Straight,Na
+1979,Best Supporting Actress,California Suite,Maggie Smith,England,28/12/1934,White,Straight,Na
+1980,Best Supporting Actress,Kramer vs. Kramer,Meryl Streep,USA,22/06/1949,White,Straight,Na
+1981,Best Supporting Actress,Melvin and Howard,Mary Steenburgen,USA,08/02/1953,White,Straight,Na
+1982,Best Supporting Actress,Reds,Maureen Stapleton,USA,21/06/2025,White,Straight,Roman Catholic
+1983,Best Supporting Actress,Tootsie,Jessica Lange,USA,20/04/1949,White,Straight,Na
+1984,Best Supporting Actress,The Year of Living Dangerously,Linda Hunt,USA,02/04/1945,White,Na,Na
+1985,Best Supporting Actress,A Passage to India,Peggy Ashcroft,England,22/12/2007,White,Straight,Agnostic
+1986,Best Supporting Actress,Prizzi's Honor,Anjelica Huston,USA,08/07/1951,White,Straight,Na
+1987,Best Supporting Actress,Hannah and Her Sisters,Dianne Wiest,USA,28/03/1948,White,Straight,Na
+1988,Best Supporting Actress,Moonstruck,Olympia Dukakis,USA,20/06/1931,White,Straight,Na
+1989,Best Supporting Actress,The Accidental Tourist,Geena Davis,USA,21/01/1956,White,Straight,Congregationalist
+1990,Best Supporting Actress,My Left Foot,Brenda Fricker,Ireland,17/02/1945,White,Straight,Na
+1991,Best Supporting Actress,Ghost,Whoopi Goldberg,USA,13/11/1955,Black,Straight,Atheist
+1992,Best Supporting Actress,The Fisher King,Mercedes Ruehl,USA,28/02/1948,Hispanic,Straight,Roman Catholic
+1993,Best Supporting Actress,My Cousin Vinny,Marisa Tomei,USA,04/12/1964,White,Straight,Na
+1994,Best Supporting Actress,The Piano,Anna Paquin,Canada,24/07/1982,White,Bisexual,Na
+1995,Best Supporting Actress,Bullets Over Broadway,Dianne Wiest,USA,28/03/1948,White,Straight,Na
+1996,Best Supporting Actress,Mighty Aphrodite,Mira Sorvino,USA,28/09/1967,White,Straight,Atheist
+1997,Best Supporting Actress,The English Patient,Juliette Binoche,France,09/03/1964,White,Straight,Na
+1998,Best Supporting Actress,L.A. Confidential,Kim Basinger,USA,08/12/1953,White,Straight,Na
+1999,Best Supporting Actress,Shakespeare in Love,Judi Dench,England,09/12/1934,White,Straight,Quaker
+2000,Best Supporting Actress,"Girl, Interrupted",Angelina Jolie,USA,04/06/1975,White,Bisexual,Buddhist
+2001,Best Supporting Actress,Pollock,Marcia Gay Harden,USA,14/08/1959,White,Straight,Na
+2002,Best Supporting Actress,A Beautiful Mind,Jennifer Connelly,USA,12/12/1970,White,Straight,Jewish
+2003,Best Supporting Actress,Chicago,Catherine Zeta-Jones,Wales,25/09/1969,White,Straight,Roman Catholic
+2004,Best Supporting Actress,Cold Mountain,Ren̩e Zellweger,USA,25/04/1969,White,Straight,Na
+2005,Best Supporting Actress,The Aviator,Cate Blanchett,Australia,14/05/1969,White,Straight,Na
+2006,Best Supporting Actress,The Constant Gardener,Rachel Weisz,England,07/03/1971,White,Straight,Jewish
+2007,Best Supporting Actress,Dreamgirls,Jennifer Hudson,USA,12/09/1981,Black,Straight,Baptist
+2007,Best Supporting Actress,Michael Clayton,Tilda Swinton,England,05/11/1960,White,Straight,Na
+2009,Best Supporting Actress,Vicky Cristina Barcelona,Penelope Cruz,Spain,28/04/1974,Hispanic,Straight,Buddhist
+2010,Best Supporting Actress,Precious,Mo'Nique,USA,11/12/1967,Black,Straight,Na
+2011,Best Supporting Actress,The Fighter,Melissa Leo,USA,14/09/1960,White,Straight,Na
+2012,Best Supporting Actress,The Help,Octavia Spencer,USA,25/05/1972,Black,Na,Na
+2013,Best Supporting Actress,Les Mis̩rables,Anne Hathaway,USA,12/11/1982,White,Straight,Christian
+2014,Best Supporting Actress,12 Years a Slave,Lupita Nyong'o,Mexico,01/03/1983,Black,Na,Na
+1961,Best Director,The Apartment,Billy Wilder,Austria,22/06/2006,White,Straight,Jewish
+1941,Best Actress,Kitty Foyle,Ginger Rogers,USA,16/07/2011,White,Straight,Christian Science
+1994,Best Actor,Philadelphia,Tom Hanks,USA,09/07/1956,White,Straight,Born-Again Christian
+1979,Best Director,The Deer Hunter,Michael Cimino,USA,03/02/1939,White,Straight,Na
+1942,Best Supporting Actress,The Great Lie,Mary Astor,USA,03/05/2006,White,Straight,Roman Catholic
+2000,Best Supporting Actress,"Girl, Interrupted",Angelina Jolie,USA,04/06/1975,White,Bisexual,Buddhist
+1976,Best Supporting Actress,Shampoo,Lee Grant,USA,31/10/2027,White,Straight,Jewish
+1946,Best Supporting Actress,National Velvet,Anne Revere,USA,25/06/2003,White,Straight,Na
+1977,Best Actress,Network,Faye Dunaway,USA,14/01/1941,White,Straight,Roman Catholic
+1943,Best Supporting Actor,Johnny Eager,Van Heflin,USA,13/12/2010,White,Straight,Na
+1958,Best Actress,The Three Faces of Eve,Joanne Woodward,USA,27/02/1930,White,Straight,Na
+1953,Best Actor,High Noon,Gary Cooper,USA,07/05/2001,White,Straight,Roman Catholic
+1967,Best Actress,Who's Afraid of Virginia Woolf?,Elizabeth Taylor,England,27/02/1932,White,Straight,Jewish
+2005,Best Actress,Million Dollar Baby,Hilary Swank,USA,30/07/1974,White,Straight,Na
+2005,Best Actress,Million Dollar Baby,Hilary Swank,USA,30/07/1974,White,Straight,Na
+1999,Best Actress,Shakespeare in Love,Gwyneth Paltrow,USA,27/09/1972,White,Straight,Jewish
+1969,Best Supporting Actor,The Subject Was Roses,Jack Albertson,USA,16/06/2007,White,Na,Na
+2010,Best Supporting Actress,Precious,Mo'Nique,USA,11/12/1967,Black,Straight,Na
+2001,Best Supporting Actress,Pollock,Marcia Gay Harden,USA,14/08/1959,White,Straight,Na
+1970,Best Actress,The Prime of Miss Jean Brodie,Maggie Smith,England,28/12/1934,White,Straight,Na
+2006,Best Supporting Actress,The Constant Gardener,Rachel Weisz,England,07/03/1971,White,Straight,Jewish
+2009,Best Director,Slumdog Millionaire,Danny Boyle,England,20/10/1956,White,Straight,Roman Catholic
+1977,Best Supporting Actor,All the President's Men,Jason Robards,USA,26/07/2022,White,Straight,Na
+1999,Best Supporting Actor,Affliction,James Coburn,USA,31/08/2028,White,Straight,Na
+1949,Best Director,The Treasure of the Sierra Madre,John Huston,USA,05/08/2006,White,Straight,Na
